@@ -1,0 +1,405 @@
+2025-08-25 11:47:44,125 - INFO - Tìm thấy 1 URLs để crawl
+2025-08-25 11:47:44,125 - INFO - Đang crawl URL 1/1: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 11:47:44,125 - INFO - Đang crawl URL: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 11:47:45,464 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 11:47:45,470 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 11:47:45,470 - INFO - ====== WebDriver manager ======
+2025-08-25 11:47:45,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 11:47:46,317 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 11:47:47,034 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 11:47:47,036 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 11:47:47,943 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 11:47:47,943 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 11:47:51,241 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756097271.png
+2025-08-25 11:47:51,241 - INFO - Crawl với Selenium thành công: Live Webcam Peregrine falcon nest, Orange
+2025-08-25 11:47:51,241 - INFO - Crawl thành công: Live Webcam Peregrine falcon nest, Orange
+2025-08-25 11:47:53,249 - INFO - Đã lưu kết quả vào file: crawl_results_20250825_114753.json
+2025-08-25 11:47:53,337 - INFO - WebDriver đã được đóng
+2025-08-25 13:57:33,708 - INFO - Tìm thấy 1 URLs để crawl
+2025-08-25 13:57:33,709 - INFO - Đang crawl URL 1/1: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 13:57:33,709 - INFO - Đang crawl URL: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 13:57:35,043 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 13:57:35,049 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 13:57:35,049 - INFO - ====== WebDriver manager ======
+2025-08-25 13:57:35,163 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 13:57:35,869 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 13:57:36,608 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 13:57:36,617 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 13:57:53,088 - INFO - Tìm thấy 1 URLs để crawl
+2025-08-25 13:57:53,088 - INFO - Đang crawl URL 1/1: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 13:57:53,088 - INFO - Đang crawl URL: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 13:57:54,360 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 13:57:54,367 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 13:57:54,367 - INFO - ====== WebDriver manager ======
+2025-08-25 13:57:54,446 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 13:57:55,157 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 13:57:55,896 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 13:57:55,902 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 13:57:56,818 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 13:57:56,819 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/australia/peregrine-falcons/
+2025-08-25 13:58:01,559 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756105081.png
+2025-08-25 13:58:01,559 - INFO - Crawl với Selenium thành công: Live Webcam Peregrine falcon nest, Orange
+2025-08-25 13:58:01,559 - INFO - Crawl thành công: Live Webcam Peregrine falcon nest, Orange
+2025-08-25 13:58:02,251 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/97e201536f5a5c33de1cb1b35483b6c8
+2025-08-25 13:58:02,252 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11ea9b340>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/97e201536f5a5c33de1cb1b35483b6c8
+2025-08-25 13:58:02,253 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11ead3310>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/97e201536f5a5c33de1cb1b35483b6c8
+2025-08-25 13:58:10,427 - INFO - Tìm thấy 1 URLs để crawl
+2025-08-25 13:58:10,427 - INFO - Đang crawl URL 1/1: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/
+2025-08-25 13:58:10,427 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/
+2025-08-25 13:58:11,722 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 13:58:11,728 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 13:58:11,728 - INFO - ====== WebDriver manager ======
+2025-08-25 13:58:11,840 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 13:58:12,534 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 13:58:13,318 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 13:58:13,324 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 13:58:14,205 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 13:58:14,206 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/
+2025-08-25 13:58:18,535 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756105098.png
+2025-08-25 13:58:18,535 - INFO - Crawl với Selenium thành công: Live Webcam Quang Trung St, Da Nang
+2025-08-25 13:58:18,535 - INFO - Crawl thành công: Live Webcam Quang Trung St, Da Nang
+2025-08-25 13:58:20,540 - INFO - Đã lưu kết quả vào file: crawl_results_20250825_135820.json
+2025-08-25 13:58:20,636 - INFO - WebDriver đã được đóng
+2025-08-25 14:38:28,415 - INFO - Tìm thấy 9 URLs để crawl
+2025-08-25 14:38:28,415 - INFO - Đang crawl URL 1/9: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/?_rsc=wgt6t
+2025-08-25 14:38:28,415 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/?_rsc=wgt6t
+2025-08-25 14:38:29,724 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:38:29,729 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:38:29,729 - INFO - ====== WebDriver manager ======
+2025-08-25 14:38:29,850 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 14:38:31,190 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 14:38:32,423 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 14:38:32,430 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 14:38:33,374 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 14:38:33,375 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/?_rsc=wgt6t
+2025-08-25 14:38:37,019 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107516.png
+2025-08-25 14:38:37,020 - INFO - Crawl với Selenium thành công: Live Webcam Quang Trung St, Da Nang
+2025-08-25 14:38:37,020 - INFO - Crawl thành công: Live Webcam Quang Trung St, Da Nang
+2025-08-25 14:38:39,025 - INFO - Đang crawl URL 2/9: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/?_rsc=tb22o
+2025-08-25 14:38:39,025 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/?_rsc=tb22o
+2025-08-25 14:38:39,774 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:38:39,783 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:38:39,783 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/quang-trung-st-cam/?_rsc=tb22o
+2025-08-25 14:38:41,268 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107521.png
+2025-08-25 14:38:41,269 - INFO - Crawl với Selenium thành công: Live Webcam Quang Trung St, Da Nang
+2025-08-25 14:38:41,269 - INFO - Crawl thành công: Live Webcam Quang Trung St, Da Nang
+2025-08-25 14:38:43,274 - INFO - Đang crawl URL 3/9: https://webcamera24.com/camera/vietnam/rear-gate-da-nang-hospital-c/?_rsc=tb22o
+2025-08-25 14:38:43,274 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/rear-gate-da-nang-hospital-c/?_rsc=tb22o
+2025-08-25 14:38:43,852 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:38:43,858 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:38:43,858 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/rear-gate-da-nang-hospital-c/?_rsc=tb22o
+2025-08-25 14:38:45,372 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107525.png
+2025-08-25 14:38:45,372 - INFO - Crawl với Selenium thành công: Live Webcam Rear Gate Da Nang Hospital C
+2025-08-25 14:38:45,372 - INFO - Crawl thành công: Live Webcam Rear Gate Da Nang Hospital C
+2025-08-25 14:38:47,377 - INFO - Đang crawl URL 4/9: https://webcamera24.com/camera/vietnam/hai-chau-district/?_rsc=tb22o
+2025-08-25 14:38:47,378 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/hai-chau-district/?_rsc=tb22o
+2025-08-25 14:38:48,032 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:38:48,042 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:38:48,042 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/hai-chau-district/?_rsc=tb22o
+2025-08-25 14:38:49,538 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107529.png
+2025-08-25 14:38:49,538 - INFO - Crawl với Selenium thành công: Live Webcam Hải Châu District, Da Nang
+2025-08-25 14:38:49,538 - INFO - Crawl thành công: Live Webcam Hải Châu District, Da Nang
+2025-08-25 14:38:51,543 - INFO - Đang crawl URL 5/9: https://webcamera24.com/camera/vietnam/quang-trung-phuong-tran-costumes-cam/?_rsc=tb22o
+2025-08-25 14:38:51,544 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/quang-trung-phuong-tran-costumes-cam/?_rsc=tb22o
+2025-08-25 14:38:52,271 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:38:52,275 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:38:52,275 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/quang-trung-phuong-tran-costumes-cam/?_rsc=tb22o
+2025-08-25 14:38:53,655 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107533.png
+2025-08-25 14:38:53,655 - INFO - Crawl với Selenium thành công: Live Webcam Phuong Tran Costumes, Da Nang
+2025-08-25 14:38:53,655 - INFO - Crawl thành công: Live Webcam Phuong Tran Costumes, Da Nang
+2025-08-25 14:38:55,660 - INFO - Đang crawl URL 6/9: https://webcamera24.com/camera/vietnam/tran-phu-street/?_rsc=tb22o
+2025-08-25 14:38:55,660 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/tran-phu-street/?_rsc=tb22o
+2025-08-25 14:38:56,212 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:38:56,219 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:38:56,219 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/tran-phu-street/?_rsc=tb22o
+2025-08-25 14:38:57,774 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107537.png
+2025-08-25 14:38:57,774 - INFO - Crawl với Selenium thành công: Live Webcam Central Park, Nha Trang
+2025-08-25 14:38:57,775 - INFO - Crawl thành công: Live Webcam Central Park, Nha Trang
+2025-08-25 14:38:59,780 - INFO - Đang crawl URL 7/9: https://webcamera24.com/camera/vietnam/cat-lai-street25-cam/?_rsc=tb22o
+2025-08-25 14:38:59,780 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/cat-lai-street25-cam/?_rsc=tb22o
+2025-08-25 14:39:00,335 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:39:00,342 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:39:00,342 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/cat-lai-street25-cam/?_rsc=tb22o
+2025-08-25 14:39:01,987 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107541.png
+2025-08-25 14:39:01,987 - INFO - Crawl với Selenium thành công: Live Webcam Street 25, Cát Lái
+2025-08-25 14:39:01,987 - INFO - Crawl thành công: Live Webcam Street 25, Cát Lái
+2025-08-25 14:39:03,992 - INFO - Đang crawl URL 8/9: https://webcamera24.com/camera/vietnam/han-river-cam/?_rsc=tb22o
+2025-08-25 14:39:03,993 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/han-river-cam/?_rsc=tb22o
+2025-08-25 14:39:04,564 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:39:04,571 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:39:04,571 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/han-river-cam/?_rsc=tb22o
+2025-08-25 14:39:06,049 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107545.png
+2025-08-25 14:39:06,049 - INFO - Crawl với Selenium thành công: Live Webcam Hàn River (Cầu Trần Thị Lý)
+2025-08-25 14:39:06,049 - INFO - Crawl thành công: Live Webcam Hàn River (Cầu Trần Thị Lý)
+2025-08-25 14:39:08,054 - INFO - Đang crawl URL 9/9: https://webcamera24.com/camera/vietnam/nha-trang-hon-chong-rock/?_rsc=tb22o
+2025-08-25 14:39:08,054 - INFO - Đang crawl URL: https://webcamera24.com/camera/vietnam/nha-trang-hon-chong-rock/?_rsc=tb22o
+2025-08-25 14:39:08,671 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 14:39:08,677 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 14:39:08,677 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/vietnam/nha-trang-hon-chong-rock/?_rsc=tb22o
+2025-08-25 14:39:10,109 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756107549.png
+2025-08-25 14:39:10,109 - INFO - Crawl với Selenium thành công: Live Webcam Hon Chong beach, Nha Trang
+2025-08-25 14:39:10,109 - INFO - Crawl thành công: Live Webcam Hon Chong beach, Nha Trang
+2025-08-25 14:39:12,116 - INFO - Đã lưu kết quả vào file: crawl_results_20250825_143912.json
+2025-08-25 14:39:12,215 - INFO - WebDriver đã được đóng
+2025-08-25 14:44:58,371 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/5bcc955ec2162e9e3ea2a8c951ed8ba0
+2025-08-25 14:44:58,373 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x137544340>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5bcc955ec2162e9e3ea2a8c951ed8ba0
+2025-08-25 14:44:58,374 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1375442b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5bcc955ec2162e9e3ea2a8c951ed8ba0
+2025-08-25 14:55:18,268 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/35783b2f0142c926af488e4792f3e246
+2025-08-25 14:55:18,271 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1269c96d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/35783b2f0142c926af488e4792f3e246
+2025-08-25 14:55:18,274 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1269c9820>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/35783b2f0142c926af488e4792f3e246
+2025-08-25 15:11:21,515 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/a46eb30a8b212ffcbc66807b4aa9e64f
+2025-08-25 15:11:21,518 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1373529d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a46eb30a8b212ffcbc66807b4aa9e64f
+2025-08-25 15:11:21,519 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x137352880>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/a46eb30a8b212ffcbc66807b4aa9e64f
+2025-08-25 15:20:26,439 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/2acd8752478288c50ddc47d1a8640bcd
+2025-08-25 15:20:26,440 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1243efe20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2acd8752478288c50ddc47d1a8640bcd
+2025-08-25 15:20:26,440 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x117d5dbe0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/2acd8752478288c50ddc47d1a8640bcd
+2025-08-25 15:29:03,643 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/5d230418bcf4da543648315e4dec84e5
+2025-08-25 15:29:03,646 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x14d44af10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5d230418bcf4da543648315e4dec84e5
+2025-08-25 15:29:03,648 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x14d331a90>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/5d230418bcf4da543648315e4dec84e5
+2025-08-25 15:51:09,360 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/78559aac7951f2193818330dbebdafca
+2025-08-25 15:51:09,362 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13f36b2b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/78559aac7951f2193818330dbebdafca
+2025-08-25 15:51:09,362 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13f36b400>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/78559aac7951f2193818330dbebdafca
+2025-08-25 16:10:01,719 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/8e57d7a6ab9c94e6d124a101479e1a85
+2025-08-25 16:10:01,720 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x142757d00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8e57d7a6ab9c94e6d124a101479e1a85
+2025-08-25 16:10:01,721 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x142757e50>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/8e57d7a6ab9c94e6d124a101479e1a85
+2025-08-25 16:11:39,522 - INFO - Tìm thấy 28 URLs để crawl
+2025-08-25 16:11:39,522 - INFO - Đang crawl URL 1/28: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:11:39,522 - INFO - Đang crawl URL: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:11:40,962 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 16:11:40,968 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 16:11:40,968 - INFO - ====== WebDriver manager ======
+2025-08-25 16:11:41,078 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:11:41,498 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:11:41,877 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 16:11:41,885 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 16:11:42,838 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 16:11:42,838 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:11:49,104 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113108.png
+2025-08-25 16:11:49,104 - INFO - Crawl với Selenium thành công: Live Webcam Cow Sanctuary, Austria
+2025-08-25 16:11:49,104 - INFO - Crawl thành công: Live Webcam Cow Sanctuary, Austria
+2025-08-25 16:11:51,106 - INFO - Đang crawl URL 2/28: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:11:51,108 - INFO - Đang crawl URL: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:11:51,818 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 16:11:51,821 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 16:11:51,821 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:11:54,315 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113114.png
+2025-08-25 16:11:54,315 - INFO - Crawl với Selenium thành công: Live Webcam FlyForFun, Gaisberg
+2025-08-25 16:11:54,315 - INFO - Crawl thành công: Live Webcam FlyForFun, Gaisberg
+2025-08-25 16:11:56,320 - INFO - Đang crawl URL 3/28: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:11:56,321 - INFO - Đang crawl URL: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:11:57,015 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 16:11:57,018 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 16:11:57,018 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:11:58,973 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113118.png
+2025-08-25 16:11:58,973 - INFO - Crawl với Selenium thành công: Live Webcam Embach Village
+2025-08-25 16:11:58,973 - INFO - Crawl thành công: Live Webcam Embach Village
+2025-08-25 16:12:00,977 - INFO - Đang crawl URL 4/28: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:12:00,977 - INFO - Đang crawl URL: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:12:01,723 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 16:12:01,726 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 16:12:01,726 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:12:03,714 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113123.png
+2025-08-25 16:12:03,714 - INFO - Crawl với Selenium thành công: Live Webcam Vienna views from Am Himmel
+2025-08-25 16:12:03,714 - INFO - Crawl thành công: Live Webcam Vienna views from Am Himmel
+2025-08-25 16:12:05,719 - INFO - Đang crawl URL 5/28: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:12:05,719 - INFO - Đang crawl URL: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:12:06,422 - WARNING - Some characters could not be decoded, and were replaced with REPLACEMENT CHARACTER.
+2025-08-25 16:12:06,425 - INFO - Phát hiện JavaScript content, chuyển sang Selenium...
+2025-08-25 16:12:06,425 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:12:06,909 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/7b666cd890093abf2d951cd4af2995cf
+2025-08-25 16:12:06,910 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x12bb3eee0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7b666cd890093abf2d951cd4af2995cf
+2025-08-25 16:12:06,911 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x129367250>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7b666cd890093abf2d951cd4af2995cf
+2025-08-25 16:12:13,057 - INFO - Tìm thấy 28 URLs để crawl
+2025-08-25 16:12:13,057 - INFO - Đang crawl URL 1/28: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:12:13,057 - INFO - Đang crawl URL: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:12:36,725 - INFO - Tìm thấy 28 URLs để crawl
+2025-08-25 16:12:36,725 - INFO - Đang crawl URL 1/28: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:12:36,725 - INFO - ====== WebDriver manager ======
+2025-08-25 16:12:36,832 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:12:37,280 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:12:37,761 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 16:12:37,769 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 16:12:38,692 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 16:12:38,692 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:12:45,522 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113165.png
+2025-08-25 16:12:45,522 - INFO - Crawl với Selenium thành công: Live Webcam Cow Sanctuary, Austria
+2025-08-25 16:12:47,527 - INFO - Đang crawl URL 2/28: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:12:47,528 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:12:51,719 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113171.png
+2025-08-25 16:12:51,719 - INFO - Crawl với Selenium thành công: Live Webcam FlyForFun, Gaisberg
+2025-08-25 16:12:53,724 - INFO - Đang crawl URL 3/28: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:12:53,725 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:12:57,258 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113177.png
+2025-08-25 16:12:57,259 - INFO - Crawl với Selenium thành công: Live Webcam Embach Village
+2025-08-25 16:12:59,264 - INFO - Đang crawl URL 4/28: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:12:59,264 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:13:02,721 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113182.png
+2025-08-25 16:13:02,721 - INFO - Crawl với Selenium thành công: Live Webcam Vienna views from Am Himmel
+2025-08-25 16:13:04,726 - INFO - Đang crawl URL 5/28: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:13:04,726 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:13:07,182 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113187.png
+2025-08-25 16:13:07,182 - INFO - Crawl với Selenium thành công: Live Webcam Sankt Corona Family Ski Park
+2025-08-25 16:13:09,187 - INFO - Đang crawl URL 6/28: https://webcamera24.com/camera/austria/steyersberger-schwaig-cam/?_rsc=1xov6
+2025-08-25 16:13:09,187 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/steyersberger-schwaig-cam/?_rsc=1xov6
+2025-08-25 16:13:11,274 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113191.png
+2025-08-25 16:13:11,274 - INFO - Crawl với Selenium thành công: Live Webcam Steyersberger Schwaig, Austria
+2025-08-25 16:13:13,279 - INFO - Đang crawl URL 7/28: https://webcamera24.com/camera/austria/weather-panorama-cam/?_rsc=1xov6
+2025-08-25 16:13:13,279 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/weather-panorama-cam/?_rsc=1xov6
+2025-08-25 16:13:15,197 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113195.png
+2025-08-25 16:13:15,197 - INFO - Crawl với Selenium thành công: Live Webcam Weather Cams Carinthia
+2025-08-25 16:13:17,203 - INFO - Đang crawl URL 8/28: https://webcamera24.com/camera/austria/wiener-hausberge/?_rsc=1xov6
+2025-08-25 16:13:17,203 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/wiener-hausberge/?_rsc=1xov6
+2025-08-25 16:13:19,215 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113199.png
+2025-08-25 16:13:19,215 - INFO - Crawl với Selenium thành công: Live Webcam Panoramahotel Wagner
+2025-08-25 16:13:21,221 - INFO - Đang crawl URL 9/28: https://webcamera24.com/camera/austria/haus-des-meeres-roof-cam-north-view/?_rsc=1xov6
+2025-08-25 16:13:21,221 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/haus-des-meeres-roof-cam-north-view/?_rsc=1xov6
+2025-08-25 16:13:23,123 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113203.png
+2025-08-25 16:13:23,123 - INFO - Crawl với Selenium thành công: Live Webcam North View, Haus des Meeres
+2025-08-25 16:13:25,128 - INFO - Đang crawl URL 10/28: https://webcamera24.com/camera/austria/hotel-kohlerhof-view-fuegen/?_rsc=1xov6
+2025-08-25 16:13:25,129 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/hotel-kohlerhof-view-fuegen/?_rsc=1xov6
+2025-08-25 16:13:27,156 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113207.png
+2025-08-25 16:13:27,156 - INFO - Crawl với Selenium thành công: Live Webcam Hotel Kohlerhof View
+2025-08-25 16:13:29,161 - INFO - Đang crawl URL 11/28: https://webcamera24.com/camera/austria/sharktankcam2-haus-des-meeres/?_rsc=1xov6
+2025-08-25 16:13:29,161 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/sharktankcam2-haus-des-meeres/?_rsc=1xov6
+2025-08-25 16:13:31,390 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113211.png
+2025-08-25 16:13:31,390 - INFO - Crawl với Selenium thành công: Live Webcam Haus des Meeres, Shark Tank2
+2025-08-25 16:13:32,766 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/c10dde5c71ef4f6fd7e01d059ba58b2a
+2025-08-25 16:13:32,768 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13c2c9340>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c10dde5c71ef4f6fd7e01d059ba58b2a
+2025-08-25 16:13:32,769 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13c2c9310>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c10dde5c71ef4f6fd7e01d059ba58b2a
+2025-08-25 16:19:15,880 - INFO - Tìm thấy 28 URLs để crawl
+2025-08-25 16:19:15,880 - INFO - Đang crawl URL 1/28: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:19:15,881 - INFO - ====== WebDriver manager ======
+2025-08-25 16:19:15,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:19:16,521 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:19:16,943 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 16:19:16,950 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 16:19:17,875 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 16:19:17,875 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:19:24,637 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113564.png
+2025-08-25 16:19:24,637 - INFO - Crawl với Selenium thành công: Live Webcam Cow Sanctuary, Austria
+2025-08-25 16:19:26,642 - INFO - Đang crawl URL 2/28: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:19:26,643 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:19:28,772 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113568.png
+2025-08-25 16:19:28,772 - INFO - Crawl với Selenium thành công: Live Webcam FlyForFun, Gaisberg
+2025-08-25 16:19:30,775 - INFO - Đang crawl URL 3/28: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:19:30,776 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:19:32,661 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/72c426d89e484bf5dc3674d6d83ecc24
+2025-08-25 16:19:32,662 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11cbbb8b0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/72c426d89e484bf5dc3674d6d83ecc24
+2025-08-25 16:19:32,662 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x11cbbb8e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/72c426d89e484bf5dc3674d6d83ecc24
+2025-08-25 16:20:01,873 - INFO - Tìm thấy 28 URLs để crawl
+2025-08-25 16:20:01,873 - INFO - Đang crawl URL 1/28: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:20:01,873 - INFO - ====== WebDriver manager ======
+2025-08-25 16:20:01,980 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:20:02,414 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:20:02,858 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 16:20:02,865 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 16:20:03,800 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 16:20:03,801 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:20:08,851 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113608.png
+2025-08-25 16:20:08,851 - INFO - Crawl với Selenium thành công: Live Webcam Cow Sanctuary, Austria
+2025-08-25 16:20:10,857 - INFO - Đang crawl URL 2/28: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:20:10,857 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/flyforfun-cam-gaisberg/?_rsc=1xov6
+2025-08-25 16:20:12,811 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113612.png
+2025-08-25 16:20:12,811 - INFO - Crawl với Selenium thành công: Live Webcam FlyForFun, Gaisberg
+2025-08-25 16:20:14,815 - INFO - Đang crawl URL 3/28: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:20:14,815 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/embach-village/?_rsc=1xov6
+2025-08-25 16:20:17,428 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113617.png
+2025-08-25 16:20:17,429 - INFO - Crawl với Selenium thành công: Live Webcam Embach Village
+2025-08-25 16:20:19,434 - INFO - Đang crawl URL 4/28: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:20:19,434 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/am-himmel/?_rsc=1xov6
+2025-08-25 16:20:21,350 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113621.png
+2025-08-25 16:20:21,350 - INFO - Crawl với Selenium thành công: Live Webcam Vienna views from Am Himmel
+2025-08-25 16:20:23,353 - INFO - Đang crawl URL 5/28: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:20:23,354 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/sankt-corona/?_rsc=1xov6
+2025-08-25 16:20:25,436 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113625.png
+2025-08-25 16:20:25,436 - INFO - Crawl với Selenium thành công: Live Webcam Sankt Corona Family Ski Park
+2025-08-25 16:20:27,441 - INFO - Đang crawl URL 6/28: https://webcamera24.com/camera/austria/steyersberger-schwaig-cam/?_rsc=1xov6
+2025-08-25 16:20:27,442 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/steyersberger-schwaig-cam/?_rsc=1xov6
+2025-08-25 16:20:29,502 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113629.png
+2025-08-25 16:20:29,502 - INFO - Crawl với Selenium thành công: Live Webcam Steyersberger Schwaig, Austria
+2025-08-25 16:20:31,507 - INFO - Đang crawl URL 7/28: https://webcamera24.com/camera/austria/weather-panorama-cam/?_rsc=1xov6
+2025-08-25 16:20:31,507 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/weather-panorama-cam/?_rsc=1xov6
+2025-08-25 16:20:33,904 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113633.png
+2025-08-25 16:20:33,904 - INFO - Crawl với Selenium thành công: Live Webcam Weather Cams Carinthia
+2025-08-25 16:20:35,909 - INFO - Đang crawl URL 8/28: https://webcamera24.com/camera/austria/wiener-hausberge/?_rsc=1xov6
+2025-08-25 16:20:35,909 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/wiener-hausberge/?_rsc=1xov6
+2025-08-25 16:20:38,059 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113637.png
+2025-08-25 16:20:38,060 - INFO - Crawl với Selenium thành công: Live Webcam Panoramahotel Wagner
+2025-08-25 16:20:40,064 - INFO - Đang crawl URL 9/28: https://webcamera24.com/camera/austria/haus-des-meeres-roof-cam-north-view/?_rsc=1xov6
+2025-08-25 16:20:40,064 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/haus-des-meeres-roof-cam-north-view/?_rsc=1xov6
+2025-08-25 16:20:41,968 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113641.png
+2025-08-25 16:20:41,968 - INFO - Crawl với Selenium thành công: Live Webcam North View, Haus des Meeres
+2025-08-25 16:20:43,973 - INFO - Đang crawl URL 10/28: https://webcamera24.com/camera/austria/hotel-kohlerhof-view-fuegen/?_rsc=1xov6
+2025-08-25 16:20:43,974 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/hotel-kohlerhof-view-fuegen/?_rsc=1xov6
+2025-08-25 16:20:45,986 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113645.png
+2025-08-25 16:20:45,986 - INFO - Crawl với Selenium thành công: Live Webcam Hotel Kohlerhof View
+2025-08-25 16:20:47,991 - INFO - Đang crawl URL 11/28: https://webcamera24.com/camera/austria/sharktankcam2-haus-des-meeres/?_rsc=1xov6
+2025-08-25 16:20:47,992 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/sharktankcam2-haus-des-meeres/?_rsc=1xov6
+2025-08-25 16:20:49,825 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113649.png
+2025-08-25 16:20:49,825 - INFO - Crawl với Selenium thành công: Live Webcam Haus des Meeres, Shark Tank2
+2025-08-25 16:20:51,830 - INFO - Đang crawl URL 12/28: https://webcamera24.com/camera/austria/westendorf-golfcourse-kitzbuhel-alps/?_rsc=1xov6
+2025-08-25 16:20:51,831 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/westendorf-golfcourse-kitzbuhel-alps/?_rsc=1xov6
+2025-08-25 16:20:53,886 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113653.png
+2025-08-25 16:20:53,886 - INFO - Crawl với Selenium thành công: Live Webcam Golf Course Kitzbühel Alps Westendorf
+2025-08-25 16:20:55,891 - INFO - Đang crawl URL 13/28: https://webcamera24.com/camera/austria/westendorf-apartment-anita-cam/?_rsc=1xov6
+2025-08-25 16:20:55,892 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/westendorf-apartment-anita-cam/?_rsc=1xov6
+2025-08-25 16:20:57,886 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113657.png
+2025-08-25 16:20:57,886 - INFO - Crawl với Selenium thành công: Live Webcam Apartment Anita, Westendorf
+2025-08-25 16:20:59,891 - INFO - Đang crawl URL 14/28: https://webcamera24.com/camera/austria/semmering-landscape/?_rsc=1xov6
+2025-08-25 16:20:59,891 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/semmering-landscape/?_rsc=1xov6
+2025-08-25 16:21:06,276 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113666.png
+2025-08-25 16:21:06,276 - INFO - Crawl với Selenium thành công: Live Webcam Semmering landscape
+2025-08-25 16:21:08,281 - INFO - Đang crawl URL 15/28: https://webcamera24.com/camera/austria/sharktank-cam1-haus-des-meeres/?_rsc=1xov6
+2025-08-25 16:21:08,281 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/sharktank-cam1-haus-des-meeres/?_rsc=1xov6
+2025-08-25 16:21:11,056 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113670.png
+2025-08-25 16:21:11,056 - INFO - Crawl với Selenium thành công: Live Webcam Haus des Meeres, Shark Tank
+2025-08-25 16:21:13,059 - INFO - Đang crawl URL 16/28: https://webcamera24.com/camera/austria/corona-coaster-sledding/?_rsc=1xov6
+2025-08-25 16:21:13,059 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/corona-coaster-sledding/?_rsc=1xov6
+2025-08-25 16:21:15,416 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113675.png
+2025-08-25 16:21:15,416 - INFO - Crawl với Selenium thành công: Live Webcam Corona Coaster Sledding
+2025-08-25 16:21:17,416 - INFO - Đang crawl URL 17/28: https://webcamera24.com/camera/austria/webcam-in-vienna/?_rsc=1xov6
+2025-08-25 16:21:17,417 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/webcam-in-vienna/?_rsc=1xov6
+2025-08-25 16:21:20,192 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113680.png
+2025-08-25 16:21:20,192 - INFO - Crawl với Selenium thành công: Live Webcam Panorama on the Burgtheater, Vienna
+2025-08-25 16:21:22,198 - INFO - Đang crawl URL 18/28: https://webcamera24.com/camera/austria/vienna-cam/?_rsc=1xov6
+2025-08-25 16:21:22,199 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/vienna-cam/?_rsc=1xov6
+2025-08-25 16:21:24,434 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113684.png
+2025-08-25 16:21:24,434 - INFO - Crawl với Selenium thành công: Live Webcam Rathausplatz, Vienna
+2025-08-25 16:21:26,439 - INFO - Đang crawl URL 19/28: https://webcamera24.com/camera/austria/tannenalm/?_rsc=1xov6
+2025-08-25 16:21:26,439 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/tannenalm/?_rsc=1xov6
+2025-08-25 16:21:28,702 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113688.png
+2025-08-25 16:21:28,702 - INFO - Crawl với Selenium thành công: Live Webcam Alpengasthof Tannenalm, Tyrol
+2025-08-25 16:21:30,707 - INFO - Đang crawl URL 20/28: https://webcamera24.com/camera/austria/hollandheim-au-cam/?_rsc=1xov6
+2025-08-25 16:21:30,707 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/hollandheim-au-cam/?_rsc=1xov6
+2025-08-25 16:21:32,625 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113692.png
+2025-08-25 16:21:32,625 - INFO - Crawl với Selenium thành công: Live Webcam Stichting Hollandheim Au, Wieden
+2025-08-25 16:21:34,630 - INFO - Đang crawl URL 21/28: https://webcamera24.com/camera/austria/pollereshutte-cam-gostritz/?_rsc=1xov6
+2025-08-25 16:21:34,631 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/pollereshutte-cam-gostritz/?_rsc=1xov6
+2025-08-25 16:21:36,683 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113696.png
+2025-08-25 16:21:36,683 - INFO - Crawl với Selenium thành công: Live Webcam Pollereshütte am Sonnwendstein, Göstritz
+2025-08-25 16:21:38,688 - INFO - Đang crawl URL 22/28: https://webcamera24.com/camera/austria/boutiquehotel-am-stephansplatz-cam/?_rsc=1xov6
+2025-08-25 16:21:38,688 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/boutiquehotel-am-stephansplatz-cam/?_rsc=1xov6
+2025-08-25 16:21:40,673 - INFO - Đã chụp screenshot: screenshots/webcamera24.com_1756113700.png
+2025-08-25 16:21:40,673 - INFO - Crawl với Selenium thành công: Live Webcam Boutique Hotel am Stephansplatz
+2025-08-25 16:21:41,250 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/c2fdf1730b6bc7ba0124012eaa140f57
+2025-08-25 16:21:41,252 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13a230c10>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c2fdf1730b6bc7ba0124012eaa140f57
+2025-08-25 16:21:41,253 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x13a230be0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c2fdf1730b6bc7ba0124012eaa140f57
+2025-08-25 16:21:54,491 - INFO - Tìm thấy 28 URLs để crawl
+2025-08-25 16:21:54,491 - INFO - Đang crawl URL 1/28: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:21:54,491 - INFO - ====== WebDriver manager ======
+2025-08-25 16:21:54,601 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:21:54,999 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:21:55,437 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 16:21:55,443 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 16:22:07,376 - INFO - Tìm thấy 1 URLs để crawl
+2025-08-25 16:22:07,376 - INFO - Đang crawl URL 1/1: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:22:07,376 - INFO - ====== WebDriver manager ======
+2025-08-25 16:22:07,484 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:22:07,927 - INFO - Get LATEST chromedriver version for google-chrome
+2025-08-25 16:22:08,318 - INFO - Driver [/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-08-25 16:22:08,321 - WARNING - ChromeDriverManager failed: [Errno 8] Exec format error: '/Users/kiettruongtuan/.wdm/drivers/chromedriver/mac64/139.0.7258.138/chromedriver-mac-arm64/THIRD_PARTY_NOTICES.chromedriver'
+2025-08-25 16:22:09,177 - INFO - Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH
+2025-08-25 16:22:09,177 - INFO - Đang crawl URL với Selenium: https://webcamera24.com/camera/austria/radstadt-cow-sanctuary-cam/?_rsc=1xov6
+2025-08-25 16:22:15,406 - INFO - Crawl với Selenium thành công: Live Webcam Cow Sanctuary, Austria
+2025-08-25 16:22:17,412 - INFO - Đã lưu kết quả vào file: crawl_results_20250825_162217.json
+2025-08-25 16:22:17,495 - INFO - WebDriver đã được đóng
