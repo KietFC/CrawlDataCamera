@@ -1,0 +1,520 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/portugal/porto-moniz-village-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/yMYXGmOo5tU",
+    "contentUrl": "https://www.youtube.com/watch?v=yMYXGmOo5tU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/porto-moniz-village-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/porto-moniz-village-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Porto Moniz, Madeira Live Cam",
+    "coordinates": {
+      "lat": "32.865860822169296",
+      "lng": "-17.173947501561145"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/marina-de-portimao-norte-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/w7rzgn6WXs8",
+    "contentUrl": "https://www.youtube.com/watch?v=w7rzgn6WXs8",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/marina-de-portimao-norte-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/marina-de-portimao-norte-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Algarve",
+    "title": "Marina de Portimão, Algarve Live Cam",
+    "coordinates": {
+      "lat": "37.12252203063964",
+      "lng": "-8.529549889840954"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/rio-tejo-castelo-sao-jorge-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/s3fFCHWXcbA",
+    "contentUrl": "https://www.youtube.com/watch?v=s3fFCHWXcbA",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rio-tejo-castelo-sao-jorge-cam-webcamtaxi/thumbnail/968x545/portugal-lisbon-rio-tejo-castelo-sao-jorge.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rio-tejo-castelo-sao-jorge-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Lisboa",
+    "title": "Lisbon Old Town Live Cam",
+    "coordinates": {
+      "lat": "38.71208746544926",
+      "lng": "-9.129160883771839"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/portinho-da-arrabida/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/rVJYDmF6_Ow",
+    "contentUrl": "https://www.youtube.com/watch?v=rVJYDmF6_Ow",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/portinho-da-arrabida-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/portinho-da-arrabida-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Portinho da Arrábida, Setúbal Live Cam",
+    "coordinates": {
+      "lat": "38.47136414955095",
+      "lng": "-9.003769674366035"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-penha-franca-mar-hotel/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/nVWm9HsBsxI",
+    "contentUrl": "https://www.youtube.com/watch?v=nVWm9HsBsxI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-penha-franca-mar-hotel-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-penha-franca-mar-hotel-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Quinta Penha de Franca Mar, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.64198321558121",
+      "lng": "-16.919299406869534"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/almada-costa-da-caparica-beach/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/msfSmj0w3sw",
+    "contentUrl": "https://www.youtube.com/watch?v=msfSmj0w3sw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/almada-costa-da-caparica-beach-webcamtaxi/thumbnail/968x545/portugal-setubal-almada-costa-da-caparica.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/almada-costa-da-caparica-beach-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Costa da Caparica Beach Live Cam",
+    "coordinates": {
+      "lat": "38.64744856924195",
+      "lng": "-9.245355383772635"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-webcam-portugal/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/kLsk1pZ5YeY",
+    "contentUrl": "https://www.youtube.com/watch?v=kLsk1pZ5YeY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-webcam-portugal/thumbnail/968x545/funchal-webcam-portugal.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-webcam-portugal/thumbnail",
+    "country": "Portugal",
+    "city": "Portugal",
+    "title": "Funchal, Portugal Live Cam",
+    "coordinates": {
+      "lat": "32.669942513853",
+      "lng": "-16.92903209786"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-cr7museum-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/hnLIIobEykg",
+    "contentUrl": "https://www.youtube.com/watch?v=hnLIIobEykg",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-cr7museum-cam-webcamtaxi/thumbnail/968x545/portugal-madeira-cr7museum.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-cr7museum-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "CR7 Museum, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.64644379835058",
+      "lng": "-16.91255477140765"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchalmarina-cam2/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/f6D3Zq6J5A8",
+    "contentUrl": "https://www.youtube.com/watch?v=f6D3Zq6J5A8",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchalmarina-cam2-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchalmarina-cam2-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Marina do Funchal, Madeira island Live Cam",
+    "coordinates": {
+      "lat": "32.64614829557339",
+      "lng": "-16.91357735319244"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/ritz-livecam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/bkLw7du-vtY",
+    "contentUrl": "https://www.youtube.com/watch?v=bkLw7du-vtY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ritz-livecam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ritz-livecam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Ritz Madeira, Avenida Arriaga Live Cam",
+    "coordinates": {
+      "lat": "32.64738766356691",
+      "lng": "-16.91113999649733"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/plane-spotting-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/_fd3qB_vE30",
+    "contentUrl": "https://www.youtube.com/watch?v=_fd3qB_vE30",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/plane-spotting-cam-webcamtaxi/thumbnail/968x545/portugal-madeira-plane-spotting-cam.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/plane-spotting-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Plane Spotting Madeira Airport Live Cam",
+    "coordinates": {
+      "lat": "39.9452996",
+      "lng": "-8.0424364"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/costacaparica-praia-do-infante-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/X4Q1eteOnQI",
+    "contentUrl": "https://www.youtube.com/watch?v=X4Q1eteOnQI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/costacaparica-praia-do-infante-cam-webcamtaxi/thumbnail/968x545/portugal-setubal-costacaparica-praia-do-infante.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/costacaparica-praia-do-infante-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Praia do Infante, Costa da Caparica Live Cam",
+    "coordinates": {
+      "lat": "38.6002359716714",
+      "lng": "-9.211105287141276"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/santarem/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/UGCPe7XqbQk",
+    "contentUrl": "https://www.youtube.com/watch?v=UGCPe7XqbQk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/santarem-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/santarem-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Santarém",
+    "title": "Basilica of the Most Holy Trinity, Fatima Live Cam",
+    "coordinates": {
+      "lat": "39.6303374110117",
+      "lng": "-8.676466484279466"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-avenida-arriaga-events-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/ThVbZWCU0O0",
+    "contentUrl": "https://www.youtube.com/watch?v=ThVbZWCU0O0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-avenida-arriaga-events-cam-webcamtaxi/thumbnail/968x545/portugal-madeira-events.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-avenida-arriaga-events-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Events Av. Arriaga, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.64738766356691",
+      "lng": "-16.91113999649733"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-fortim-jardim-do-lido/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/So4GFqFLjFM",
+    "contentUrl": "https://www.youtube.com/watch?v=So4GFqFLjFM",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-fortim-jardim-do-lido-webcamtaxi/thumbnail/968x545/portugal-madeira-funchal-jardim-do-lido.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-fortim-jardim-do-lido-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Fortim/Jardim do Lido, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.635986227713786",
+      "lng": "-16.934278371415235"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/camacha-porto-santo/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/RBzXlfFz-To",
+    "contentUrl": "https://www.youtube.com/watch?v=RBzXlfFz-To",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/camacha-porto-santo-webcamtaxi/thumbnail/968x545/portugal-madeira-camacha-porto-santo.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/camacha-porto-santo-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Camacha, Porto Santo Live Cam",
+    "coordinates": {
+      "lat": "33.084922980786196",
+      "lng": "-16.342088048717834"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/aeroporto-de-lisboa/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/9y8f02XOSwY",
+    "contentUrl": "https://www.youtube.com/watch?v=9y8f02XOSwY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aeroporto-de-lisboa-webcamtaxi/thumbnail/968x545/portugal-lisbon-international-airport.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aeroporto-de-lisboa-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Lisboa",
+    "title": "Lisbon Airport, Portugal Live Cam",
+    "coordinates": {
+      "lat": "38.781580179329815",
+      "lng": "-9.144752965221855"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/forum-machico/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/QbL9Bif53oE",
+    "contentUrl": "https://www.youtube.com/watch?v=QbL9Bif53oE",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/forum-machico-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/forum-machico-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Forum Machico, Madeira Live Cam",
+    "coordinates": {
+      "lat": "32.7177741846392",
+      "lng": "-16.76992932666121"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-lido-beach-complex-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/P75AbPYu71s",
+    "contentUrl": "https://www.youtube.com/watch?v=P75AbPYu71s",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-lido-beach-complex-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-lido-beach-complex-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Lido bathing complex, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.63589385835932",
+      "lng": "-16.93319778021862"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/lagoa-de-albufeira-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/OKT4W8YZRS0",
+    "contentUrl": "https://www.youtube.com/watch?v=OKT4W8YZRS0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lagoa-de-albufeira-cam-webcamtaxi/thumbnail/968x545/portugal-lisboa-lagoa-albufeira.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lagoa-de-albufeira-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Lagoa de Albufeira, Sesimbra Live Cam",
+    "coordinates": {
+      "lat": "38.5122901036903",
+      "lng": "-9.175584860728648"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/doca-do-cavacas-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Nhcm6ruEl74",
+    "contentUrl": "https://www.youtube.com/watch?v=Nhcm6ruEl74",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/doca-do-cavacas-cam-webcamtaxi/thumbnail/968x545/portugal-madeira-doca-cavacas.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/doca-do-cavacas-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Doca do Cavacas, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.63478799881338",
+      "lng": "-16.94779817073959"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-ponta-gorda-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/MgMWOQIgIBY",
+    "contentUrl": "https://www.youtube.com/watch?v=MgMWOQIgIBY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-ponta-gorda-beach-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-ponta-gorda-beach-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Ponta Gorda Beach, Funchal Live Cam",
+    "coordinates": {
+      "lat": "32.63464679880766",
+      "lng": "-16.94041591182864"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/portimao-praiadarocha-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/LP-zw0YSW6c",
+    "contentUrl": "https://www.youtube.com/watch?v=LP-zw0YSW6c",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/portimao-praiadarocha-cam-webcamtaxi/thumbnail/968x545/portugal-algarve-praia-rocha-portimao.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/portimao-praiadarocha-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Algarve",
+    "title": "Praia da Rocha Portimão, Algarve Live Cam",
+    "coordinates": {
+      "lat": "37.115162979884886",
+      "lng": "-8.532381684793426"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/live-airport-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/K2qooxzANa0",
+    "contentUrl": "https://www.youtube.com/watch?v=K2qooxzANa0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/live-airport-cam-webcamtaxi/thumbnail/968x545/portugal-madeira-airport.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/live-airport-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "LIVE Airport, Madeira Island Live Cam",
+    "coordinates": {
+      "lat": "",
+      "lng": ""
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/ponte25abril-escala25-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Ja6Lw8311Jk",
+    "contentUrl": "https://www.youtube.com/watch?v=Ja6Lw8311Jk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ponte25abril-escala25-cam-webcamtaxi/thumbnail/968x545/portugal-lisbon-climbing-wall.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ponte25abril-escala25-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Lisboa",
+    "title": "Ponte 25 de Abril (Escala25), Lisbon Live Cam",
+    "coordinates": {
+      "lat": "38.70052816613043",
+      "lng": "-9.18166768501757"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/pauldomar-oprecipicio/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Fo9SlAlzYks",
+    "contentUrl": "https://www.youtube.com/watch?v=Fo9SlAlzYks",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pauldomar-oprecipicio-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pauldomar-oprecipicio-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Paul do Mar, Madeira Live Cam",
+    "coordinates": {
+      "lat": "32.763810438429076",
+      "lng": "-17.24272297727441"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/porto-de-lisboa-tejo-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/FE-JfjvXFEU",
+    "contentUrl": "https://www.youtube.com/watch?v=FE-JfjvXFEU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/porto-de-lisboa-tejo-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/porto-de-lisboa-tejo-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Lisboa",
+    "title": "Port of Lisbon, Lisboa Live Cam",
+    "coordinates": {
+      "lat": "38.70272750631368",
+      "lng": "-9.259398472266133"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/calhetabeach-mudas-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/C6Tws_6GKjY",
+    "contentUrl": "https://www.youtube.com/watch?v=C6Tws_6GKjY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/calhetabeach-mudas-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/calhetabeach-mudas-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Calheta Beach, Madeira Island Live Cam",
+    "coordinates": {
+      "lat": "32.722752370348736",
+      "lng": "-17.18058408886024"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/praia-de-sao-torpes-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/7yfhnuaW4Zo",
+    "contentUrl": "https://www.youtube.com/watch?v=7yfhnuaW4Zo",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/praia-de-sao-torpes-beach-cam-webcamtaxi/thumbnail/968x545/portugal-setubal-praia-sao-torpes.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/praia-de-sao-torpes-beach-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Praia de São Torpes, Sines, Portugal Live Cam",
+    "coordinates": {
+      "lat": "37.92530697183088",
+      "lng": "-8.809038287146931"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/fonte-da-telha-beach/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/7PxRWF8kpZw",
+    "contentUrl": "https://www.youtube.com/watch?v=7PxRWF8kpZw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/fonte-da-telha-beach-webcamtaxi/thumbnail/968x545/portugal-setubal-fonte-telha.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/fonte-da-telha-beach-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Fonte da Telha Beach Live Cam",
+    "coordinates": {
+      "lat": "38.5710832795222",
+      "lng": "-9.197666248601106"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/sereia-beach/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/4FcKee7PIDg",
+    "contentUrl": "https://www.youtube.com/watch?v=4FcKee7PIDg",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sereia-beach-webcamtaxi/thumbnail/968x545/portugal-setubal-sereia-beach.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sereia-beach-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Setúbal",
+    "title": "Sereia Beach Live Cam",
+    "coordinates": {
+      "lat": "38.60161317970102",
+      "lng": "-9.210929790898755"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/douro-river/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/3QS0NMMgDNY",
+    "contentUrl": "https://www.youtube.com/watch?v=3QS0NMMgDNY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/douro-river-webcamtaxi/thumbnail/968x545/portugal-porto-douro-river.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/douro-river-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Porto",
+    "title": "Douro River, Oporto Live Cam",
+    "coordinates": {
+      "lat": "41.13974697918605",
+      "lng": "-8.617401048541252"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/praia-formosa-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/1mUJWRFaA4I",
+    "contentUrl": "https://www.youtube.com/watch?v=1mUJWRFaA4I",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/praia-formosa-beach-cam-webcamtaxi/thumbnail/968x545/praia-formosa-thumb.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/praia-formosa-beach-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Praia Formosa Beach Cam Live Cam",
+    "coordinates": {
+      "lat": "32.64225449085838",
+      "lng": "-16.95807492299451"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/machico-city/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/0w5UeYaordI",
+    "contentUrl": "https://www.youtube.com/watch?v=0w5UeYaordI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/machico-city-webcamtaxi/thumbnail/968x545/portugal-madeira-machico.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/machico-city-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Machico, City view, Madeira Live Cam",
+    "coordinates": {
+      "lat": "32.71864359515804",
+      "lng": "-16.76744656971933"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/sanctuary-ponta-delgada/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/0w5S1kW7IRA",
+    "contentUrl": "https://www.youtube.com/watch?v=0w5S1kW7IRA",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sanctuary-ponta-delgada-webcamtaxi/thumbnail/968x545/portugal-azores-sanctuary-ponta-delgada.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sanctuary-ponta-delgada-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Azores",
+    "title": "Sanctuary, Ponta Delgada Live Cam",
+    "coordinates": {
+      "lat": "37.7380320219456",
+      "lng": "-25.67530514874726"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/funchal-marina/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/-p1Xnt9n0yg",
+    "contentUrl": "https://www.youtube.com/watch?v=-p1Xnt9n0yg",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-marina-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/funchal-marina-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Funchal Marina, Madeira Live Cam",
+    "coordinates": {
+      "lat": "32.64636178833777",
+      "lng": "-16.91434616184698"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/portugal/camaradelobos-cruzdacaldeira-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/-J-XeE99ljw",
+    "contentUrl": "https://www.youtube.com/watch?v=-J-XeE99ljw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/camaradelobos-cruzdacaldeira-cam-webcamtaxi/thumbnail/968x545/portugal-madeira-cruz-caldeira-webcam.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/camaradelobos-cruzdacaldeira-cam-webcamtaxi/thumbnail",
+    "country": "Portugal",
+    "city": "Madeira",
+    "title": "Caldeira, Câmara de Lobos Live Cam",
+    "coordinates": {
+      "lat": "32.65683680877624",
+      "lng": "-17.00176885185584"
+    }
+  }
+]

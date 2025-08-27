@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/hungary/savanna-budapest-zoo/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/sBg8TC11i6k",
+    "contentUrl": "https://www.youtube.com/watch?v=sBg8TC11i6k",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/savanna-budapest-zoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/savanna-budapest-zoo-webcamtaxi/thumbnail",
+    "country": "Hungary",
+    "city": "Budapeste",
+    "title": "Savanna, Budapest Zoo Live Cam",
+    "coordinates": {
+      "lat": "47.51963597917908",
+      "lng": "19.078009316049123"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/hungary/eger-dobo-square/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/jqr2Pe1HPLc",
+    "contentUrl": "https://www.youtube.com/watch?v=jqr2Pe1HPLc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/eger-dobo-square-webcamtaxi/thumbnail/968x545/hungary-eger.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/eger-dobo-square-webcamtaxi/thumbnail",
+    "country": "Hungary",
+    "city": "Heves",
+    "title": "Dobó Square, Eger Live Cam",
+    "coordinates": {
+      "lat": "47.9023619792054",
+      "lng": "20.37392031605936"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/hungary/white-stork-nest/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/hKnuDloDCF8",
+    "contentUrl": "https://www.youtube.com/watch?v=hKnuDloDCF8",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/white-stork-nest-webcamtaxi/thumbnail/968x545/hungary-somogy-white-stork-nest.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/white-stork-nest-webcamtaxi/thumbnail",
+    "country": "Hungary",
+    "city": "Somogy",
+    "title": "White Stork Nest, Ságvár Live Cam",
+    "coordinates": {
+      "lat": "46.83384028647369",
+      "lng": "18.101895150071346"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/hungary/aquarium-capasuli-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/bo6yE8iIpNE",
+    "contentUrl": "https://www.youtube.com/watch?v=bo6yE8iIpNE",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aquarium-capasuli-cam-webcamtaxi/thumbnail/968x545/hungary-budapest-aquarium-capasuli.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aquarium-capasuli-cam-webcamtaxi/thumbnail",
+    "country": "Hungary",
+    "city": "Budapeste",
+    "title": "Aquarium, Budapest Zoo Live Cam",
+    "coordinates": {
+      "lat": "47.519000000000005",
+      "lng": "19.077638900000004"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/hungary/elephants-budapest-zoo/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/UEFEjZHxNh8",
+    "contentUrl": "https://www.youtube.com/watch?v=UEFEjZHxNh8",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/elephants-budapest-zoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/elephants-budapest-zoo-webcamtaxi/thumbnail",
+    "country": "Hungary",
+    "city": "Budapeste",
+    "title": "Elephants, Budapest Zoo Live Cam",
+    "coordinates": {
+      "lat": "47.51963597917908",
+      "lng": "19.078009316049123"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/hungary/seals-budapest-zoo/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/KwiMj0VvQpg",
+    "contentUrl": "https://www.youtube.com/watch?v=KwiMj0VvQpg",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/seals-budapest-zoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/seals-budapest-zoo-webcamtaxi/thumbnail",
+    "country": "Hungary",
+    "city": "Budapeste",
+    "title": "Seals, Budapest Zoo Live Cam",
+    "coordinates": {
+      "lat": "47.51963597917908",
+      "lng": "19.078009316049123"
+    }
+  }
+]

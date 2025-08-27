@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/savanna-budapest-zoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Hungary",
     "city": "Budapeste",
-    "title": "Savanna, Budapest Zoo Live Cam"
+    "title": "Savanna, Budapest Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/savanna-budapest-zoo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/hKnuDloDCF8",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/white-stork-nest-webcamtaxi/thumbnail/968x545/hungary-somogy-white-stork-nest.webp",
     "country": "Hungary",
     "city": "Somogy",
-    "title": "White Stork Nest, Ságvár Live Cam"
+    "title": "White Stork Nest, Ságvár Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/white-stork-nest-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jqr2Pe1HPLc",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/eger-dobo-square-webcamtaxi/thumbnail/968x545/hungary-eger.webp",
     "country": "Hungary",
     "city": "Heves",
-    "title": "Dobó Square, Eger Live Cam"
+    "title": "Dobó Square, Eger Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/eger-dobo-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/bo6yE8iIpNE",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aquarium-capasuli-cam-webcamtaxi/thumbnail/968x545/hungary-budapest-aquarium-capasuli.webp",
     "country": "Hungary",
     "city": "Budapeste",
-    "title": "Aquarium, Budapest Zoo Live Cam"
+    "title": "Aquarium, Budapest Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aquarium-capasuli-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/UEFEjZHxNh8",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/elephants-budapest-zoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Hungary",
     "city": "Budapeste",
-    "title": "Elephants, Budapest Zoo Live Cam"
+    "title": "Elephants, Budapest Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/elephants-budapest-zoo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/KwiMj0VvQpg",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/seals-budapest-zoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Hungary",
     "city": "Budapeste",
-    "title": "Seals, Budapest Zoo Live Cam"
+    "title": "Seals, Budapest Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/seals-budapest-zoo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/A_UkLH4zyZU?autoplay=1",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/danube-ipoly/thumbnail/968x545/danube-ipoly.webp",
     "country": "Hungary",
     "city": "Central Hungary",
-    "title": "White-Tailed Eagle nest, Danube-Ipoly National Park Live Cam"
+    "title": "White-Tailed Eagle nest, Danube-Ipoly National Park Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/danube-ipoly/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/SPmtLnWJ4SY",
@@ -61,7 +68,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/city-panorama-webcamtaxi/thumbnail/968x545/hungary-budapest-city.webp",
     "country": "Hungary",
     "city": "Budapeste",
-    "title": "Budapest City, Hungary Live Cam"
+    "title": "Budapest City, Hungary Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/city-panorama-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Hp9X1j16krk",
@@ -69,7 +77,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/szegedzoo-giraffe-cam-webcamtaxi/thumbnail/968x545/hungary-csongrad-csanad-szegedzoo-giraffe.webp",
     "country": "Hungary",
     "city": "Csongrád-Csanád",
-    "title": "Giraffes, Szeged Zoo Live Cam"
+    "title": "Giraffes, Szeged Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/szegedzoo-giraffe-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/5_wUKA4Zl7Y",
@@ -77,6 +86,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/szegedzoo-penguin-cam-webcamtaxi/thumbnail/968x545/hungary-csongrad-csanad-penguin-zoo.webp",
     "country": "Hungary",
     "city": "Csongrád-Csanád",
-    "title": "Penguins, Szeged Zoo Live Cam"
+    "title": "Penguins, Szeged Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/szegedzoo-penguin-cam-webcamtaxi/thumbnail"
   }
 ]

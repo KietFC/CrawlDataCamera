@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Webcam Data Crawler Tool
-Crawl data từ các webcam streaming URLs
+Crawl data from webcam streaming URLs
 """
 
 import requests
@@ -24,7 +24,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 from fake_useragent import UserAgent
 import os
 
-# Cấu hình logging
+# Logging configuration
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -44,7 +44,7 @@ from save_results import (
 )
 
 class WebcamCrawler:
-    """Class chính để crawl data từ webcam URLs"""
+    """Main class for crawling data from webcam URLs"""
     
     def __init__(self, headless: bool = True):
         self.headless = headless
@@ -54,7 +54,7 @@ class WebcamCrawler:
         self.driver = None
         
     def setup_session(self):
-        """Thiết lập session requests với headers phù hợp"""
+        """Set up requests session with appropriate headers"""
         self.session.headers.update({
             'User-Agent': self.ua.random,
             'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
@@ -65,7 +65,7 @@ class WebcamCrawler:
         })
         
     def setup_driver(self):
-        """Thiết lập Selenium WebDriver"""
+        """Set up Selenium WebDriver"""
         try:
             chrome_options = Options()
             if self.headless:
@@ -76,60 +76,60 @@ class WebcamCrawler:
             chrome_options.add_argument('--window-size=1920,1080')
             chrome_options.add_argument(f'--user-agent={self.ua.random}')
             
-            # Thêm options để xử lý macOS ARM64
+            # Add options to handle macOS ARM64
             chrome_options.add_argument('--disable-extensions')
             chrome_options.add_argument('--disable-plugins')
             chrome_options.add_argument('--disable-web-security')
             chrome_options.add_argument('--allow-running-insecure-content')
             
             try:
-                # Thử sử dụng ChromeDriverManager
+                # Try using ChromeDriverManager
                 service = Service(ChromeDriverManager().install())
                 self.driver = webdriver.Chrome(service=service, options=chrome_options)
-                logger.info("Selenium WebDriver đã được khởi tạo thành công với ChromeDriverManager")
+                logger.info("Selenium WebDriver initialized successfully with ChromeDriverManager")
                 return True
             except Exception as e:
                 logger.warning(f"ChromeDriverManager failed: {e}")
                 
-                # Fallback: thử tìm ChromeDriver trong PATH
+                # Fallback: try to find ChromeDriver in PATH
                 try:
                     self.driver = webdriver.Chrome(options=chrome_options)
-                    logger.info("Selenium WebDriver đã được khởi tạo thành công với ChromeDriver trong PATH")
+                    logger.info("Selenium WebDriver initialized successfully with ChromeDriver in PATH")
                     return True
                 except Exception as e2:
-                    logger.warning(f"ChromeDriver trong PATH failed: {e2}")
+                    logger.warning(f"ChromeDriver in PATH failed: {e2}")
                     
-                    # Fallback cuối cùng: thử với Safari (trên macOS)
+                    # Final fallback: try with Safari (on macOS)
                     try:
                         from selenium.webdriver.safari.webdriver import SafariDriver
                         self.driver = SafariDriver()
-                        logger.info("Selenium WebDriver đã được khởi tạo thành công với Safari")
+                        logger.info("Selenium WebDriver initialized successfully with Safari")
                         return True
                     except Exception as e3:
                         logger.error(f"Safari fallback failed: {e3}")
                         return False
                         
         except Exception as e:
-            logger.error(f"Lỗi khi khởi tạo WebDriver: {e}")
+            logger.error(f"Error initializing WebDriver: {e}")
             return False
             
     def close_driver(self):
-        """Đóng WebDriver"""
+        """Close WebDriver"""
         if self.driver:
             self.driver.quit()
             self.driver = None
-            logger.info("WebDriver đã được đóng")
+            logger.info("WebDriver has been closed")
             
     def crawl_with_requests(self, url: str) -> Optional[Dict[str, Any]]:
-        """Crawl data sử dụng requests (nhanh hơn)"""
+        """Crawl data using requests (faster)"""
         try:
-            logger.info(f"Đang crawl URL: {url}")
+            logger.info(f"Crawling URL: {url}")
             response = self.session.get(url, timeout=30)
             response.raise_for_status()
             
             soup = BeautifulSoup(response.content, 'html.parser')
             
-            # Trích xuất thông tin cơ bản
+            # Extract basic information
             data = {
                 'url': url,
                 'title': self.extract_title(soup),
@@ -140,12 +140,12 @@ class WebcamCrawler:
                 'status': 'success'
             }
             
-            # Kiểm tra xem có cần dùng Selenium không
+            # Check if Selenium is needed
             if self.should_use_selenium(soup):
-                logger.info("Phát hiện JavaScript content, chuyển sang Selenium...")
+                logger.info("JavaScript content detected, switching to Selenium...")
                 selenium_result = self.crawl_with_selenium(url)
                 if selenium_result and selenium_result.get('status') == 'success':
-                    # Cập nhật data với kết quả từ Selenium
+                    # Update data with results from Selenium
                     data.update({
                         'title': selenium_result.get('title', data['title']),
                         'description': selenium_result.get('description', data['description']),
@@ -158,11 +158,11 @@ class WebcamCrawler:
             else:
                 data['method'] = 'requests_only'
             
-            logger.info(f"Crawl thành công: {data['title']}")
+            logger.info(f"Crawl successful: {data['title']}")
             return data
             
         except Exception as e:
-            logger.error(f"Lỗi khi crawl với requests: {e}")
+            logger.error(f"Error crawling with requests: {e}")
             return {
                 'url': url,
                 'error': str(e),
@@ -171,21 +171,21 @@ class WebcamCrawler:
             }
             
     def crawl_with_selenium(self, url: str) -> Optional[Dict[str, Any]]:
-        """Crawl data sử dụng Selenium (cho JavaScript-heavy pages)"""
+        """Crawl data using Selenium (for JavaScript-heavy pages)"""
         if not self.driver:
             if not self.setup_driver():
                 return None
         try:
-            logger.info(f"Đang crawl URL với Selenium: {url}")
+            logger.info(f"Crawling URL with Selenium: {url}")
             self.driver.get(url)
-            # Chờ page load
+            # Wait for page to load
             WebDriverWait(self.driver, 20).until(
                 EC.presence_of_element_located((By.TAG_NAME, "body"))
             )
-            # Lấy page source
+            # Get page source
             page_source = self.driver.page_source
             soup = BeautifulSoup(page_source, 'html.parser')
-            # Trích xuất thông tin
+            # Extract information
             data = {
                 'url': url,
                 'title': self.extract_title(soup),
@@ -195,10 +195,10 @@ class WebcamCrawler:
                 'timestamp': datetime.now().isoformat(),
                 'status': 'success'
             }
-            logger.info(f"Crawl với Selenium thành công: {data['title']}")
+            logger.info(f"Crawl with Selenium successful: {data['title']}")
             return data
         except Exception as e:
-            logger.error(f"Lỗi khi crawl với Selenium: {e}")
+            logger.error(f"Error crawling with Selenium: {e}")
             return {
                 'url': url,
                 'error': str(e),
@@ -207,22 +207,22 @@ class WebcamCrawler:
             }
             
     def extract_title(self, soup: BeautifulSoup) -> str:
-        """Trích xuất tiêu đề trang"""
-        # Tìm kiếm title tag
+        """Extract page title"""
+        # Search for title tag
         title = soup.find('title')
         if title:
             title_text = title.get_text(strip=True)
-            if title_text and title_text != "Không có tiêu đề":
+            if title_text and title_text != "No title":
                 return title_text
         
-        # Tìm kiếm trong h1 tags
+        # Search in h1 tags
         h1_tags = soup.find_all('h1')
         for h1 in h1_tags:
             h1_text = h1.get_text(strip=True)
             if h1_text and len(h1_text) > 5:
                 return h1_text
         
-        # Tìm kiếm trong các class có chứa title
+        # Search in classes containing title
         title_selectors = [
             '.page-title',
             '.main-title',
@@ -240,15 +240,15 @@ class WebcamCrawler:
                 if text and len(text) > 5:
                     return text
         
-        # Tìm kiếm trong JSON-LD data
+        # Search in JSON-LD data
         json_ld_title = self.extract_title_from_json_ld(soup)
         if json_ld_title:
             return json_ld_title
         
-        return "Không có tiêu đề"
+        return "No title"
     
     def extract_title_from_json_ld(self, soup: BeautifulSoup) -> str:
-        """Trích xuất tiêu đề từ JSON-LD data"""
+        """Extract title from JSON-LD data"""
         try:
             json_ld_scripts = soup.find_all('script', type='application/ld+json')
             for script in json_ld_scripts:
@@ -266,34 +266,34 @@ class WebcamCrawler:
         return ""
         
     def extract_description(self, soup: BeautifulSoup) -> str:
-        """Trích xuất mô tả trang"""
-        # Tìm kiếm meta description
+        """Extract page description"""
+        # Search for meta description
         meta_desc = soup.find('meta', attrs={'name': 'description'})
         if meta_desc and meta_desc.get('content'):
             content = meta_desc.get('content', '').strip()
             if content and len(content) > 10:
                 return content
         
-        # Tìm kiếm meta description khác
+        # Search for alternative meta description
         meta_desc_alt = soup.find('meta', attrs={'property': 'og:description'})
         if meta_desc_alt and meta_desc_alt.get('content'):
             content = meta_desc_alt.get('content', '').strip()
             if content and len(content) > 10:
                 return content
         
-        # Tìm kiếm trong JSON-LD data
+        # Search in JSON-LD data
         json_ld_desc = self.extract_description_from_json_ld(soup)
         if json_ld_desc:
             return json_ld_desc
         
-        # Tìm kiếm trong các paragraph đầu tiên
+        # Search in first paragraphs
         paragraphs = soup.find_all('p')
-        for p in paragraphs[:3]:  # Chỉ xem 3 paragraph đầu tiên
+        for p in paragraphs[:3]:  # Only check first 3 paragraphs
             text = p.get_text(strip=True)
-            if text and len(text) > 20:  # Loại bỏ text quá ngắn
+            if text and len(text) > 20:  # Remove very short text
                 return text
         
-        # Tìm kiếm trong các div có class description
+        # Search in divs with description class
         desc_selectors = [
             '.description',
             '.desc',
@@ -310,10 +310,10 @@ class WebcamCrawler:
                 if text and len(text) > 20:
                     return text
         
-        return "Không có mô tả"
+        return "No description"
     
     def extract_description_from_json_ld(self, soup: BeautifulSoup) -> str:
-        """Trích xuất mô tả từ JSON-LD data"""
+        """Extract description from JSON-LD data"""
         try:
             json_ld_scripts = soup.find_all('script', type='application/ld+json')
             for script in json_ld_scripts:
@@ -331,35 +331,35 @@ class WebcamCrawler:
         return ""
         
     def extract_location(self, soup: BeautifulSoup, url: str) -> str:
-        """Trích xuất thông tin vị trí từ URL và nội dung trang"""
-        # Trích xuất vị trí từ URL trước
+        """Extract location information from URL and page content"""
+        # Extract location from URL first
         url_location = self.extract_location_from_url(url)
         
-        # Tìm kiếm vị trí trong nội dung trang
+        # Search for location in page content
         page_location = self.extract_location_from_page(soup)
         
-        # Ưu tiên vị trí từ trang, nếu không có thì dùng từ URL
-        if page_location and page_location != "Không xác định được vị trí":
+        # Prioritize location from page, if not available use from URL
+        if page_location and page_location != "Location not determined":
             return page_location
         elif url_location:
             return url_location
         else:
-            return "Không xác định được vị trí"
+            return "Location not determined"
     
     def extract_location_from_url(self, url: str) -> str:
-        """Trích xuất vị trí từ URL"""
+        """Extract location from URL"""
         try:
-            # Parse URL để lấy path
+            # Parse URL to get path
             from urllib.parse import urlparse
             parsed = urlparse(url)
             path_parts = parsed.path.strip('/').split('/')
             
-            # Tìm kiếm các từ khóa vị trí trong path
+            # Search for location keywords in path
             location_keywords = ['vietnam', 'quang-trung', 'quang_trung', 'cam']
             
             for part in path_parts:
                 if any(keyword in part.lower() for keyword in location_keywords):
-                    # Chuyển đổi format
+                    # Convert format
                     if 'quang-trung' in part.lower():
                         return "Quang Trung Street, Vietnam"
                     elif 'vietnam' in part.lower():
@@ -372,8 +372,8 @@ class WebcamCrawler:
             return ""
     
     def extract_location_from_page(self, soup: BeautifulSoup) -> str:
-        """Trích xuất vị trí từ nội dung trang"""
-        # Tìm kiếm các element chứa thông tin vị trí
+        """Extract location from page content"""
+        # Search for elements containing location information
         location_selectors = [
             '.location',
             '.address',
@@ -390,14 +390,14 @@ class WebcamCrawler:
             elements = soup.select(selector)
             for element in elements:
                 text = element.get_text(strip=True)
-                if text and len(text) > 3:  # Loại bỏ text quá ngắn
-                    # Kiểm tra xem có chứa từ khóa vị trí không
-                    if any(keyword in text.lower() for keyword in ['vietnam', 'quang trung', 'cam', 'street', 'đường']):
+                if text and len(text) > 3:  # Remove very short text
+                    # Check if it contains location keywords
+                    if any(keyword in text.lower() for keyword in ['vietnam', 'quang trung', 'cam', 'street', 'road']):
                         return text
         country = None
         city = None
         breadcrumbs = soup.find_all(['nav', 'ol', 'ul'], class_=lambda x: x and 'breadcrumb' in x.lower())
-        # Duyệt toàn bộ các link breadcrumb
+        # Iterate through all breadcrumb links
         for breadcrumb in breadcrumbs:
             links = breadcrumb.find_all('a')
             for link in links:
@@ -412,7 +412,7 @@ class WebcamCrawler:
                 elif len(parts) == 3 and parts[0] == 'countries':
                     city = parts[2].replace('-', ' ').title()
                     print(f"DEBUG set city: {city}")
-        # Nếu không có city thì city sẽ trùng với country
+        # If no city, city will be the same as country
         if not city and country:
             city = country
         if country and city:
@@ -420,24 +420,24 @@ class WebcamCrawler:
         elif country:
             return country
         
-        # Tìm kiếm trong JSON-LD data
+        # Search in JSON-LD data
         json_ld_location = self.extract_location_from_json_ld(soup)
         if json_ld_location:
             return json_ld_location
         
-        return "Không xác định được vị trí"
+        return "Location not determined"
     
     def extract_location_from_json_ld(self, soup: BeautifulSoup) -> str:
-        """Trích xuất vị trí từ JSON-LD data"""
+        """Extract location from JSON-LD data"""
         try:
             json_ld_scripts = soup.find_all('script', type='application/ld+json')
             for script in json_ld_scripts:
                 if script.string:
                     import json
                     data = json.loads(script.string)
-                    # Tìm kiếm trong data
+                    # Search in data
                     if isinstance(data, dict):
-                        # Kiểm tra các thuộc tính có thể chứa vị trí
+                        # Check properties that might contain location
                         for key in ['location', 'address', 'place', 'area']:
                             if key in data and data[key]:
                                 return str(data[key])
@@ -452,28 +452,28 @@ class WebcamCrawler:
         return ""
         
     def extract_camera_info(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Trích xuất thông tin camera và stream links"""
+        """Extract camera information and stream links"""
         camera_info = {}
         
-        # Tìm kiếm thông tin camera
+        # Search for camera information
         camera_info.update(self.extract_camera_text_info(soup))
         
-        # Tìm kiếm YouTube streams với embedUrl, contentUrl
+        # Search for YouTube streams with embedUrl, contentUrl
         youtube_info = self.extract_youtube_info(soup)
         if youtube_info:
             camera_info.update(youtube_info)
         
-        # Tìm kiếm thumbnail URLs
+        # Search for thumbnail URLs
         thumbnails = self.extract_thumbnail_urls(soup)
         if thumbnails:
             camera_info['thumbnails'] = thumbnails
         
-        # Tìm kiếm các link stream khác
+        # Search for other stream links
         other_streams = self.extract_other_streams(soup)
         if other_streams:
             camera_info['other_streams'] = other_streams
             
-        # Tìm kiếm embed codes
+        # Search for embed codes
         embed_codes = self.extract_embed_codes(soup)
         if embed_codes:
             camera_info['embed_codes'] = embed_codes
@@ -481,7 +481,7 @@ class WebcamCrawler:
         return camera_info
     
     def extract_camera_text_info(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Trích xuất thông tin text về camera"""
+        """Extract text information about camera"""
         info = {}
         
         camera_selectors = [
@@ -498,16 +498,16 @@ class WebcamCrawler:
             elements = soup.select(selector)
             for element in elements:
                 text = element.get_text(strip=True)
-                if text and len(text) > 5:  # Loại bỏ text quá ngắn
+                if text and len(text) > 5:  # Remove very short text
                     info[f'info_{len(info)}'] = text
                     
         return info
     
     def extract_youtube_info(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Trích xuất thông tin YouTube với embedUrl, contentUrl"""
+        """Extract YouTube information with embedUrl, contentUrl"""
         youtube_info = {}
         
-        # Tìm kiếm trong JSON-LD structured data
+        # Search in JSON-LD structured data
         json_ld_scripts = soup.find_all('script', type='application/ld+json')
         for script in json_ld_scripts:
             try:
@@ -517,17 +517,17 @@ class WebcamCrawler:
             except:
                 continue
         
-        # Tìm kiếm trong meta tags
+        # Search in meta tags
         meta_info = self.extract_youtube_meta_tags(soup)
         if meta_info:
             youtube_info.update(meta_info)
         
-        # Tìm kiếm YouTube iframe embeds
+        # Search for YouTube iframe embeds
         iframe_info = self.extract_youtube_iframes(soup)
         if iframe_info:
             youtube_info.update(iframe_info)
         
-        # Tìm kiếm trong scripts
+        # Search in scripts
         script_info = self.extract_youtube_from_scripts(soup)
         if script_info:
             youtube_info.update(script_info)
@@ -535,16 +535,16 @@ class WebcamCrawler:
         return youtube_info
     
     def extract_from_json_ld(self, data: Dict) -> Dict[str, Any]:
-        """Trích xuất thông tin từ JSON-LD structured data"""
+        """Extract information from JSON-LD structured data"""
         info = {}
         
-        # Xử lý data có thể là list hoặc dict
+        # Handle data that can be list or dict
         if isinstance(data, list):
             for item in data:
                 if isinstance(item, dict):
                     info.update(self.extract_from_json_ld(item))
         elif isinstance(data, dict):
-            # Tìm kiếm embedUrl, contentUrl, thumbnailUrl
+            # Search for embedUrl, contentUrl, thumbnailUrl
             if 'embedUrl' in data:
                 info['embedUrl'] = data['embedUrl']
             if 'contentUrl' in data:
@@ -552,7 +552,7 @@ class WebcamCrawler:
             if 'thumbnailUrl' in data:
                 info['thumbnailUrl'] = data['thumbnailUrl']
             
-            # Tìm kiếm trong các thuộc tính nested
+            # Search in nested properties
             for key, value in data.items():
                 if isinstance(value, dict):
                     nested_info = self.extract_from_json_ld(value)
@@ -568,10 +568,10 @@ class WebcamCrawler:
         return info
     
     def extract_youtube_meta_tags(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Trích xuất thông tin YouTube từ meta tags"""
+        """Extract YouTube information from meta tags"""
         meta_info = {}
         
-        # Tìm kiếm các meta tags liên quan đến YouTube
+        # Search for meta tags related to YouTube
         meta_selectors = [
             'meta[property="og:video"]',
             'meta[property="og:video:url"]',
@@ -593,7 +593,7 @@ class WebcamCrawler:
         return meta_info
     
     def extract_youtube_iframes(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Trích xuất thông tin từ YouTube iframes"""
+        """Extract information from YouTube iframes"""
         iframe_info = {}
         
         iframes = soup.find_all('iframe')
@@ -602,7 +602,7 @@ class WebcamCrawler:
             if 'youtube.com' in src or 'youtu.be' in src:
                 iframe_info['embedUrl'] = src
                 
-                # Chuyển đổi embed URL thành content URL
+                # Convert embed URL to content URL
                 if '/embed/' in src:
                     video_id = src.split('/embed/')[-1].split('?')[0]
                     iframe_info['contentUrl'] = f'https://www.youtube.com/watch?v={video_id}'
@@ -613,7 +613,7 @@ class WebcamCrawler:
         return iframe_info
     
     def extract_youtube_from_scripts(self, soup: BeautifulSoup) -> Dict[str, Any]:
-        """Trích xuất thông tin YouTube từ scripts"""
+        """Extract YouTube information from scripts"""
         script_info = {}
         
         scripts = soup.find_all('script')
@@ -621,7 +621,7 @@ class WebcamCrawler:
             if script.string:
                 script_content = script.string
                 
-                # Tìm kiếm các pattern YouTube
+                # Search for YouTube patterns
                 import re
                 patterns = [
                     r'embedUrl["\']?\s*:\s*["\']([^"\']+)["\']',
@@ -650,37 +650,37 @@ class WebcamCrawler:
         return script_info
     
     def should_use_selenium(self, soup: BeautifulSoup) -> bool:
-        """Kiểm tra xem có cần dùng Selenium không"""
-        # Kiểm tra các dấu hiệu của JavaScript-rendered content
+        """Check if Selenium is needed"""
+        # Check for signs of JavaScript-rendered content
         indicators = [
-            # Kiểm tra có script tags không
+            # Check if there are script tags
             len(soup.find_all('script')) > 5,
-            # Kiểm tra có Next.js indicators không
+            # Check for Next.js indicators
             soup.find('script', src=lambda x: x and 'next' in x) is not None,
-            # Kiểm tra có React/Vue indicators không
+            # Check for React/Vue indicators
             soup.find('div', {'id': 'root'}) is not None or soup.find('div', {'id': 'app'}) is not None,
-            # Kiểm tra có template tags không
+            # Check for template tags
             soup.find('template') is not None,
-            # Kiểm tra có noscript tags không
+            # Check for noscript tags
             soup.find('noscript') is not None,
-            # Kiểm tra content quá ngắn (có thể là JavaScript-rendered)
+            # Check if content is too short (might be JavaScript-rendered)
             len(soup.get_text(strip=True)) < 1000,
-            # Kiểm tra không có title
+            # Check if no title
             not soup.find('title') or not soup.find('title').get_text(strip=True),
-            # Kiểm tra không có h1
+            # Check if no h1
             not soup.find('h1'),
-            # Kiểm tra không có meta description
+            # Check if no meta description
             not soup.find('meta', attrs={'name': 'description'})
         ]
         
-        # Nếu có nhiều dấu hiệu, sử dụng Selenium
+        # If there are many indicators, use Selenium
         return sum(indicators) >= 3
     
     def extract_thumbnail_urls(self, soup: BeautifulSoup) -> List[Dict[str, str]]:
-        """Trích xuất thumbnail URLs"""
+        """Extract thumbnail URLs"""
         thumbnails = []
         
-        # Tìm kiếm trong JSON-LD structured data
+        # Search in JSON-LD structured data
         json_ld_scripts = soup.find_all('script', type='application/ld+json')
         for script in json_ld_scripts:
             try:
@@ -690,17 +690,17 @@ class WebcamCrawler:
             except:
                 continue
         
-        # Tìm kiếm trong meta tags
+        # Search in meta tags
         meta_thumbnails = self.extract_thumbnail_meta_tags(soup)
         if meta_thumbnails:
             thumbnails.extend(meta_thumbnails)
         
-        # Tìm kiếm trong img tags
+        # Search in img tags
         img_thumbnails = self.extract_thumbnail_from_images(soup)
         if img_thumbnails:
             thumbnails.extend(img_thumbnails)
         
-        # Tìm kiếm trong scripts
+        # Search in scripts
         script_thumbnails = self.extract_thumbnail_from_scripts(soup)
         if script_thumbnails:
             thumbnails.extend(script_thumbnails)
@@ -708,7 +708,7 @@ class WebcamCrawler:
         return thumbnails
     
     def extract_thumbnails_from_json_ld(self, data: Dict) -> List[Dict[str, str]]:
-        """Trích xuất thumbnails từ JSON-LD data"""
+        """Extract thumbnails from JSON-LD data"""
         thumbnails = []
         
         if isinstance(data, list):
@@ -716,7 +716,7 @@ class WebcamCrawler:
                 if isinstance(item, dict):
                     thumbnails.extend(self.extract_thumbnails_from_json_ld(item))
         elif isinstance(data, dict):
-            # Tìm kiếm thumbnailUrl
+            # Search for thumbnailUrl
             if 'thumbnailUrl' in data:
                 thumbnails.append({
                     'type': 'json_ld',
@@ -724,7 +724,7 @@ class WebcamCrawler:
                     'source': 'thumbnailUrl'
                 })
             
-            # Tìm kiếm image
+            # Search for image
             if 'image' in data:
                 image_data = data['image']
                 if isinstance(image_data, str):
@@ -754,7 +754,7 @@ class WebcamCrawler:
                                 'source': 'image[list].url'
                             })
             
-            # Tìm kiếm trong các thuộc tính nested
+            # Search in nested properties
             for key, value in data.items():
                 if isinstance(value, dict):
                     thumbnails.extend(self.extract_thumbnails_from_json_ld(value))
@@ -766,10 +766,10 @@ class WebcamCrawler:
         return thumbnails
     
     def extract_thumbnail_meta_tags(self, soup: BeautifulSoup) -> List[Dict[str, str]]:
-        """Trích xuất thumbnails từ meta tags"""
+        """Extract thumbnails from meta tags"""
         thumbnails = []
         
-        # Tìm kiếm các meta tags liên quan đến thumbnail
+        # Search for meta tags related to thumbnails
         meta_selectors = [
             'meta[property="og:image"]',
             'meta[property="og:image:url"]',
@@ -793,10 +793,10 @@ class WebcamCrawler:
         return thumbnails
     
     def extract_thumbnail_from_images(self, soup: BeautifulSoup) -> List[Dict[str, str]]:
-        """Trích xuất thumbnails từ img tags"""
+        """Extract thumbnails from img tags"""
         thumbnails = []
         
-        # Tìm kiếm các img tags có thể là thumbnail
+        # Search for img tags that might be thumbnails
         img_selectors = [
             'img[class*="thumbnail"]',
             'img[class*="thumb"]',
@@ -821,7 +821,7 @@ class WebcamCrawler:
         return thumbnails
     
     def extract_thumbnail_from_scripts(self, soup: BeautifulSoup) -> List[Dict[str, str]]:
-        """Trích xuất thumbnails từ scripts"""
+        """Extract thumbnails from scripts"""
         thumbnails = []
         
         scripts = soup.find_all('script')
@@ -829,7 +829,7 @@ class WebcamCrawler:
             if script.string:
                 script_content = script.string
                 
-                # Tìm kiếm thumbnailUrl pattern
+                # Search for thumbnailUrl pattern
                 import re
                 thumbnail_patterns = [
                     r'thumbnailUrl["\']?\s*:\s*["\']([^"\']+)["\']',
@@ -851,16 +851,16 @@ class WebcamCrawler:
         return thumbnails
     
     def extract_other_streams(self, soup: BeautifulSoup) -> List[Dict[str, str]]:
-        """Trích xuất các link stream khác"""
+        """Extract other stream links"""
         other_streams = []
         
-        # Tìm kiếm các link stream
+        # Search for stream links
         stream_links = soup.find_all('a', href=True)
         for link in stream_links:
             href = link.get('href', '')
             title = link.get_text(strip=True) or link.get('title', 'Stream Link')
             
-            # Kiểm tra các loại stream
+            # Check stream types
             if any(ext in href.lower() for ext in ['.m3u8', '.mp4', '.flv', '.avi', '.mov']):
                 other_streams.append({
                     'type': 'video_stream',
@@ -881,7 +881,7 @@ class WebcamCrawler:
                     'title': title
                 })
         
-        # Tìm kiếm trong video tags
+        # Search in video tags
         video_tags = soup.find_all('video')
         for video in video_tags:
             src = video.get('src', '')
@@ -895,10 +895,10 @@ class WebcamCrawler:
         return other_streams
     
     def extract_embed_codes(self, soup: BeautifulSoup) -> List[Dict[str, str]]:
-        """Trích xuất embed codes"""
+        """Extract embed codes"""
         embed_codes = []
         
-        # Tìm kiếm embed tags
+        # Search for embed tags
         embeds = soup.find_all('embed')
         for embed in embeds:
             src = embed.get('src', '')
@@ -909,7 +909,7 @@ class WebcamCrawler:
                     'title': embed.get('title', 'Embed Stream')
                 })
         
-        # Tìm kiếm object tags
+        # Search for object tags
         objects = soup.find_all('object')
         for obj in objects:
             data = obj.get('data', '')
@@ -922,20 +922,20 @@ class WebcamCrawler:
         
         return embed_codes
         
-    # Đã xoá hàm take_screenshot vì không cần chụp screenshot nữa
+    # Removed take_screenshot function as screenshot is no longer needed
             
     def crawl_urls_from_file(self, file_path: str, use_selenium: bool = False) -> List[Dict[str, Any]]:
-        """Crawl tất cả URLs từ file"""
+        """Crawl all URLs from file"""
         results = []
         
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 urls = [line.strip() for line in f if line.strip()]
                 
-            logger.info(f"Tìm thấy {len(urls)} URLs để crawl")
+            logger.info(f"Found {len(urls)} URLs to crawl")
             
             for i, url in enumerate(urls, 1):
-                logger.info(f"Đang crawl URL {i}/{len(urls)}: {url}")
+                logger.info(f"Crawling URL {i}/{len(urls)}: {url}")
                 
                 if use_selenium:
                     result = self.crawl_with_selenium(url)
@@ -945,16 +945,16 @@ class WebcamCrawler:
                 if result:
                     results.append(result)
                     
-                # Delay giữa các request
+                # Delay between requests
                 time.sleep(2)
                 
         except Exception as e:
-            logger.error(f"Lỗi khi đọc file URLs: {e}")
+            logger.error(f"Error reading URLs file: {e}")
             
         return results
         
     def save_results(self, results: List[Dict[str, Any]], output_format: str = 'json') -> str:
-        """Lưu kết quả crawl"""
+        """Save crawl results"""
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         
         if output_format.lower() == 'json':
@@ -972,7 +972,7 @@ class WebcamCrawler:
             df = pd.DataFrame(results)
             df.to_excel(filename, index=False, engine='openpyxl')
             
-        logger.info(f"Đã lưu kết quả vào file: {filename}")
+        logger.info(f"Results saved to file: {filename}")
         return filename
 
 
@@ -1168,17 +1168,17 @@ def extract_minimal(driver, url: str) -> Dict[str, Any]:
 
 
 def main():
-    """Hàm chính - minimal mode mặc định: xuất country.json per URL"""
+    """Main function - minimal mode by default: export country.json per URL"""
     print("=== Webcam Data Crawler Tool (Minimal) ===")
     from selenium.webdriver.chrome.options import Options
     from fake_useragent import UserAgent
 
-    # Đọc URL từ url.txt
+    # Read URLs from url.txt
     try:
         with open('url.txt', 'r', encoding='utf-8') as f:
             urls = [line.strip() for line in f if line.strip()]
     except FileNotFoundError:
-        print('❌ Không tìm thấy url.txt')
+        print('❌ url.txt not found')
         return
 
     # Selenium English options
@@ -1261,14 +1261,14 @@ def main():
                         existing = None
                     merged = None
                     if isinstance(existing, list):
-                        # Lọc bỏ entries cũ không có URL
+                        # Remove old entries without URL
                         existing = [it for it in existing if isinstance(it, dict) and (it.get('embedUrl') or it.get('contentUrl'))]
                         keys = {(item.get('embedUrl'), item.get('title')) for item in existing if isinstance(item, dict)}
                         if (data.get('embedUrl'), data.get('title')) not in keys and (data.get('embedUrl') or data.get('contentUrl')):
                             existing.append(data)
                         merged = existing
                     elif isinstance(existing, dict) and existing:
-                        # Nếu dict cũ không có URL thì bỏ
+                        # If old dict doesn't have URL then remove
                         merged = [existing] if (existing.get('embedUrl') or existing.get('contentUrl')) else []
                         if (data.get('embedUrl') or data.get('contentUrl')) and not (existing.get('embedUrl') == data.get('embedUrl') and existing.get('title') == data.get('title')):
                             merged.append(data)
@@ -1279,6 +1279,7 @@ def main():
                     json.dump(data, open(out_file, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
             except Exception:
                 json.dump(data, open(out_file, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+            print(f'  -> Saved {out_file}')
             print(f'  -> Saved {out_file}')
     finally:
         driver.quit()

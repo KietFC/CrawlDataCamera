@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/le-morne-cam-webcamtaxi/thumbnail/968x545/mauritius.webp",
     "country": "Mauritius",
     "city": "Rivière Noire District",
-    "title": "Le Morne Brabant, Mauritius Live Cam"
+    "title": "Le Morne Brabant, Mauritius Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/le-morne-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/S-rYgi3Pczs",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/multiple-live-cameras-webcamtaxi/thumbnail/968x545/mauritius-mauritius-live.webp",
     "country": "Mauritius",
     "city": "Rivière Noire District",
-    "title": "Mauritius, Rivière Noire Live Cam"
+    "title": "Mauritius, Rivière Noire Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/multiple-live-cameras-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Nqm28breGxs",
@@ -21,6 +23,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/shanti-maurice-resort-webcamtaxi/thumbnail/968x545/mauritius-savanne-shanti-maurice.webp",
     "country": "Mauritius",
     "city": "Savanne District",
-    "title": "Shanti Maurice Resort & Spa, Savanne Live Cam"
+    "title": "Shanti Maurice Resort & Spa, Savanne Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/shanti-maurice-resort-webcamtaxi/thumbnail"
   }
 ]

@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/iceland/geldingadalur-volcano/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/HWWDGPTbh_0",
+    "contentUrl": "https://www.youtube.com/watch?v=HWWDGPTbh_0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/geldingadalur-volcano-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/geldingadalur-volcano-webcamtaxi/thumbnail",
+    "country": "Iceland",
+    "city": "Reykjanes Peninsula",
+    "title": "Geldingadalir Volcano, Iceland Live Cam",
+    "coordinates": {
+      "lat": "63.89099893908173",
+      "lng": "-22.273616948730695"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/iceland/rosenborg-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/GXTycxKz_FQ",
+    "contentUrl": "https://www.youtube.com/watch?v=GXTycxKz_FQ",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rosenborg-cam-webcamtaxi/thumbnail/968x545/iceland-akureyri-rosenborg.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rosenborg-cam-webcamtaxi/thumbnail",
+    "country": "Iceland",
+    "city": "Akureyri",
+    "title": "Rósenborg Akureyri, Iceland Live Cam",
+    "coordinates": {
+      "lat": "65.6791944",
+      "lng": "-18.0919444"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/iceland/grindavik-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Bqudj0x0POA",
+    "contentUrl": "https://www.youtube.com/watch?v=Bqudj0x0POA",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/grindavik-cam-webcamtaxi/thumbnail/968x545/iceland-southern-peninsula-grindavik.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/grindavik-cam-webcamtaxi/thumbnail",
+    "country": "Iceland",
+    "city": "Reykjanes Peninsula",
+    "title": "Grindavík, Iceland Live Cam",
+    "coordinates": {
+      "lat": "63.89540496599918",
+      "lng": "-22.444727024194062"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/iceland/perlan-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/2tRT7zfx-PI",
+    "contentUrl": "https://www.youtube.com/watch?v=2tRT7zfx-PI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/perlan-cam-webcamtaxi/thumbnail/968x545/iceland-reykjavik-perlan.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/perlan-cam-webcamtaxi/thumbnail",
+    "country": "Iceland",
+    "city": "Reykjavik",
+    "title": "Perlan, Reykjavík Live Cam",
+    "coordinates": {
+      "lat": "64.13204979182778",
+      "lng": "-21.935480755043496"
+    }
+  }
+]

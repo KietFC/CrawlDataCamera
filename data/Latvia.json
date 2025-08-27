@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/golden-eagle-nest/thumbnail/968x545/golden-eagle-nest.webp",
     "country": "Latvia",
     "city": "Latvia",
-    "title": "Golden Eagles Nest, Latvia Live Cam"
+    "title": "Golden Eagles Nest, Latvia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/golden-eagle-nest/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/S0oEvktgur4?autoplay=1",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tukums-storks/thumbnail/968x545/maxresdefault.webp",
     "country": "Latvia",
     "city": "Tukums Municipality",
-    "title": "White Storks nest, Tukums Live Cam"
+    "title": "White Storks nest, Tukums Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tukums-storks/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Culkof-YIcw",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/accipiter-gentilis/thumbnail/968x545/maxresdefault.webp",
     "country": "Latvia",
     "city": "Riga",
-    "title": "Goshawk Nests, Riga, Latvia Live Cam"
+    "title": "Goshawk Nests, Riga, Latvia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/accipiter-gentilis/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/-T1fw0_tKkM",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/riga-zoo-lions-cam-webcamtaxi/thumbnail/968x545/latvia-riga-zoo-lions.webp",
     "country": "Latvia",
     "city": "Riga",
-    "title": "Lions, Riga National Zoological Garden Live Cam"
+    "title": "Lions, Riga National Zoological Garden Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/riga-zoo-lions-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/PrZe6jqTcmQ",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/haliaeetus-albicilla/thumbnail/968x545/hqdefault.webp",
     "country": "Latvia",
     "city": "Durbe Municipality",
-    "title": "White-Tailed eagle nest, Durbe Live Cam"
+    "title": "White-Tailed eagle nest, Durbe Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/haliaeetus-albicilla/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/NMmifzAYtbo",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/riga-storks/thumbnail/968x545/riga-storks.webp",
     "country": "Latvia",
     "city": "Riga",
-    "title": "Stork nest, Riga Live Cam"
+    "title": "Stork nest, Riga Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/riga-storks/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/FX3ZOTFqgOE",
@@ -53,6 +59,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/black-stork-sigulda/thumbnail/968x545/hqdefault.webp",
     "country": "Latvia",
     "city": "Sigulda County",
-    "title": "Black Storks nest, Sigulda County Live Cam"
+    "title": "Black Storks nest, Sigulda County Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/black-stork-sigulda/thumbnail"
   }
 ]

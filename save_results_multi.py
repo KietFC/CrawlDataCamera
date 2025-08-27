@@ -47,7 +47,7 @@ def infer_country(url: str, breadcrumbs: list) -> str:
                         return parts[1].replace('-', ' ').title()
     except Exception:
         pass
-    # Fallback từ URL
+    # Fallback from URL
     try:
         from urllib.parse import urlparse
         parts = urlparse(url).path.strip('/').split('/')
@@ -232,7 +232,7 @@ def main():
             print(f'Processing: {url}')
             try:
                 data = extract_minimal(driver, url)
-                # Bỏ qua nếu không có URL (embed/content)
+                # Skip if no URL (embed/content)
                 if not (data.get('embedUrl') or data.get('contentUrl')):
                     print('  -> Skip: no embed/content URL')
                     continue
@@ -248,14 +248,14 @@ def main():
                             existing = None
                         merged = None
                         if isinstance(existing, list):
-                            # Lọc bỏ entries cũ không có URL
+                            # Remove old entries without URL
                             existing = [it for it in existing if isinstance(it, dict) and (it.get('embedUrl') or it.get('contentUrl'))]
                             keys = {(item.get('embedUrl'), item.get('title')) for item in existing if isinstance(item, dict)}
                             if (data.get('embedUrl'), data.get('title')) not in keys and (data.get('embedUrl') or data.get('contentUrl')):
                                 existing.append(data)
                             merged = existing
                         elif isinstance(existing, dict) and existing:
-                            # Nếu dict cũ không có URL thì bỏ nó
+                            # If the old dict does not have a URL, skip it
                             merged = [existing] if (existing.get('embedUrl') or existing.get('contentUrl')) else []
                             if (data.get('embedUrl') or data.get('contentUrl')) and not (existing.get('embedUrl') == data.get('embedUrl') and existing.get('title') == data.get('title')):
                                 merged.append(data)

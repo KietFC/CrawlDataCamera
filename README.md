@@ -1,67 +1,67 @@
 # Webcam Data Crawler Tool
 
-Tool crawl data từ các webcam streaming URLs, được thiết kế đặc biệt cho việc thu thập thông tin từ các trang webcam.
+Tool to crawl data from webcam streaming URLs, designed for collecting information from webcam pages.
 
-## Tính năng
+## Features
 
-- ✅ **Web Scraping**: Sử dụng cả Requests và Selenium
-- ✅ **Data Extraction**: Trích xuất thông tin tiêu đề, mô tả, vị trí, thông tin camera
+- ✅ **Web Scraping**: Uses both Requests and Selenium
+- ✅ **Data Extraction**: Extracts title, description, location, camera info
 - ✅ **Multiple Output Formats**: JSON, CSV, Excel
-- ✅ **Screenshot**: Chụp ảnh màn hình trang web
-- ✅ **Logging**: Ghi log chi tiết quá trình crawl
-- ✅ **Error Handling**: Xử lý lỗi và retry
-- ✅ **User Agent Rotation**: Thay đổi User Agent để tránh bị chặn
-- ✅ **Configurable**: Dễ dàng cấu hình các thông số
+- ✅ **Screenshot**: Capture website screenshots
+- ✅ **Logging**: Detailed crawl logs
+- ✅ **Error Handling**: Error handling and retries
+- ✅ **User Agent Rotation**: Change User Agent to avoid blocking
+- ✅ **Configurable**: Easily configurable parameters
 
-## Cài đặt
+## Installation
 
-### 1. Cài đặt Python dependencies
+### 1. Install Python dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2. Cài đặt Chrome/Chromium (cho Selenium)
+### 2. Install Chrome/Chromium (for Selenium)
 
-Tool sử dụng Chrome WebDriver để crawl JavaScript-heavy pages. Đảm bảo bạn đã cài đặt Chrome hoặc Chromium.
+This tool uses Chrome WebDriver for JavaScript-heavy pages. Ensure Chrome or Chromium is installed.
 
-## Sử dụng
+## Usage
 
-### 1. Chuẩn bị file URLs
+### 1. Prepare URLs file
 
-Tạo file `url.txt` với danh sách URLs cần crawl, mỗi URL một dòng:
+Create `url.txt` with the list of URLs to crawl, one per line:
 
 ```
 https://webcamera24.com/vi/camera/vietnam/quang-trung-st-cam/
 https://webcamera24.com/vi/camera/vietnam/another-camera/
 ```
 
-### 2. Chạy crawler
+### 2. Run crawler
 
 ```bash
 python crawler.py
 ```
 
-### 3. Kết quả
+### 3. Results
 
-Tool sẽ tạo các file output:
-- `crawl_results_YYYYMMDD_HHMMSS.json` - Kết quả dạng JSON
-- `crawl_results_YYYYMMDD_HHMMSS.csv` - Kết quả dạng CSV  
-- `crawl_results_YYYYMMDD_HHMMSS.xlsx` - Kết quả dạng Excel
-- `screenshots/` - Thư mục chứa screenshots
-- `crawler.log` - File log chi tiết
+The tool will create the following outputs:
+- `crawl_results_YYYYMMDD_HHMMSS.json` - JSON results
+- `crawl_results_YYYYMMDD_HHMMSS.csv` - CSV results  
+- `crawl_results_YYYYMMDD_HHMMSS.xlsx` - Excel results
+- `screenshots/` - Directory of screenshots
+- `crawler.log` - Detailed log file
 
-## Cấu hình
+## Configuration
 
-### Thay đổi cấu hình trong `config.py`:
+### Change configuration in `config.py`:
 
 ```python
 CRAWLER_CONFIG = {
-    'request_delay': 2,      # Delay giữa requests
-    'timeout': 30,           # Timeout cho requests
-    'max_retries': 3,        # Số lần retry
-    'headless': True,        # Chế độ headless
-    'screenshot': True,      # Có chụp screenshot không
+    'request_delay': 2,      # Delay between requests
+    'timeout': 30,           # Requests timeout
+    'max_retries': 3,        # Number of retries
+    'headless': True,        # Headless mode
+    'screenshot': True,      # Capture screenshot or not
 }
 ```
 
@@ -75,74 +75,74 @@ OUTPUT_CONFIG = {
 }
 ```
 
-## Cách hoạt động
+## How it works
 
-### 1. Requests-based Crawling (Mặc định)
-- Nhanh và hiệu quả
-- Phù hợp với static HTML pages
-- Sử dụng BeautifulSoup để parse HTML
+### 1. Requests-based Crawling (Default)
+- Fast and efficient
+- Suitable for static HTML pages
+- Uses BeautifulSoup to parse HTML
 
 ### 2. Selenium-based Crawling
-- Chậm hơn nhưng mạnh mẽ hơn
-- Xử lý được JavaScript-heavy pages
-- Có thể chụp screenshot
-- Tự động cài đặt ChromeDriver
+- Slower but more powerful
+- Handles JavaScript-heavy pages
+- Can capture screenshots
+- Auto-manages ChromeDriver
 
-## Data được trích xuất
+## Extracted Data
 
-- **URL**: URL gốc
-- **Title**: Tiêu đề trang
-- **Description**: Mô tả trang
-- **Location**: Thông tin vị trí (từ URL và nội dung trang)
+- **URL**: Original URL
+- **Title**: Page title
+- **Description**: Page description
+- **Location**: Location info (from URL and page content)
   - **breadcrumbs**: Breadcrumb navigation
-  - **location_from_url**: Vị trí trích xuất từ URL
-  - **location_from_page**: Vị trí trích xuất từ nội dung trang
-  - **coordinates**: Tọa độ từ OpenStreetMap
-    - **latitude**: Vĩ độ
-    - **longitude**: Kinh độ
-    - **zoom**: Mức zoom
-    - **source**: Nguồn tọa độ (openstreetmap_center, json_ld, meta_tags, etc.)
-- **Camera Info**: Thông tin chi tiết về camera và streams
+  - **location_from_url**: Location extracted from URL
+  - **location_from_page**: Location extracted from page content
+  - **coordinates**: Coordinates from OpenStreetMap
+    - **latitude**: Latitude
+    - **longitude**: Longitude
+    - **zoom**: Zoom level
+    - **source**: Coordinate source (openstreetmap_center, json_ld, meta_tags, etc.)
+- **Camera Info**: Detailed camera and streams info
   - **embedUrl**: YouTube embed URL
   - **contentUrl**: YouTube content URL
-  - **thumbnailUrl**: Thumbnail URL chính
-  - **thumbnails**: Danh sách tất cả thumbnail URLs
-  - **other_streams**: Các link stream khác (m3u8, mp4, rtmp, etc.)
-  - **embed_codes**: Các embed codes
-- **Map Info**: Thông tin bản đồ
-  - **openstreetmap**: Thông tin OpenStreetMap (type, center_lat, center_lon, zoom, tile_layer)
-  - **google_maps**: Thông tin Google Maps
-  - **other_maps**: Các loại bản đồ khác
-- **Screenshot**: Đường dẫn file screenshot (nếu có)
-- **Timestamp**: Thời gian crawl
-- **Status**: Trạng thái crawl (success/error)
+  - **thumbnailUrl**: Main thumbnail URL
+  - **thumbnails**: List of all thumbnail URLs
+  - **other_streams**: Other stream links (m3u8, mp4, rtmp, etc.)
+  - **embed_codes**: Embed codes
+- **Map Info**: Map information
+  - **openstreetmap**: OpenStreetMap info (type, center_lat, center_lon, zoom, tile_layer)
+  - **google_maps**: Google Maps info
+  - **other_maps**: Other map types
+- **Screenshot**: Screenshot file path (if any)
+- **Timestamp**: Crawl time
+- **Status**: Crawl status (success/error)
 
-## Ví dụ output
+## Example output
 
 ```json
 {
-  "url": "https://webcamera24.com/vi/camera/vietnam/quang-trung-st-cam/",
+  "url": "https://webcamera24.com/en/camera/vietnam/quang-trung-st-cam/",
   "timestamp": "2025-08-25T11:42:22.123456",
   "method": "selenium",
   "status": "success",
   "page_info": {
-    "title": "Webcam trực tuyến Quang Trung, Đà Nẵng",
-    "h1": "Quang Trung, Đà Nẵng phát trực tiếp qua webcam",
-    "meta_description": "Webcam trực tiếp trên đường phố này cho bạn thấy đường Quang Trung bận rộn và bên phải trường trung học Nguyễn Huệ nằm ở thành phố lớn Đà Nẵng, huyện Hải Châu",
+    "title": "Quang Trung Street, Da Nang - Live Webcam",
+    "h1": "Quang Trung, Da Nang live via webcam",
+    "meta_description": "This live street webcam shows busy Quang Trung Street with Nguyen Hue High School on the right, located in Da Nang city, Hai Chau district.",
     "content_length": 236411
   },
   "location": {
     "breadcrumbs": [
       [
-        {"text": "Chủ chốt", "url": "/vi/"},
-        {"text": "Quốc gia", "url": "/vi/countries/"},
-        {"text": "Việt Nam", "url": "/vi/countries/vietnam/"},
-        {"text": "Đà Nẵng", "url": "/vi/countries/vietnam/da-nang/"},
-        {"text": "Quang Trung, Đà Nẵng", "url": "/vi/camera/vietnam/quang-trung-st-cam/"}
+        {"text": "Home", "url": "/en/"},
+        {"text": "Countries", "url": "/en/countries/"},
+        {"text": "Vietnam", "url": "/en/countries/vietnam/"},
+        {"text": "Da Nang", "url": "/en/countries/vietnam/da-nang/"},
+        {"text": "Quang Trung, Da Nang", "url": "/en/camera/vietnam/quang-trung-st-cam/"}
       ]
     ],
     "location_from_url": "Vietnam",
-    "location_from_page": "Quang Trung, Đà Nẵng phát trực tiếp qua webcam",
+    "location_from_page": "Quang Trung, Da Nang live via webcam",
     "coordinates": {
       "latitude": "16.0544",
       "longitude": "108.2022",
@@ -182,37 +182,37 @@ OUTPUT_CONFIG = {
 
 ## Troubleshooting
 
-### Lỗi ChromeDriver
+### ChromeDriver errors
 ```bash
-# Tự động cài đặt ChromeDriver
+# Auto install ChromeDriver
 pip install webdriver-manager
 ```
 
-### Lỗi permissions
+### Permission errors
 ```bash
-# Cấp quyền thực thi
+# Grant execute permission
 chmod +x crawler.py
 ```
 
-### Lỗi dependencies
+### Dependency errors
 ```bash
-# Cài đặt lại dependencies
+# Reinstall dependencies
 pip install --upgrade -r requirements.txt
 ```
 
-## Tính năng nâng cao
+## Advanced features
 
 ### 1. Custom Data Extraction
-Chỉnh sửa các method trong class `WebcamCrawler` để trích xuất thông tin cụ thể:
+Edit methods in class `WebcamCrawler` to extract specific info:
 
 ```python
 def extract_custom_info(self, soup):
-    # Logic trích xuất tùy chỉnh
+    # Custom extraction logic
     pass
 ```
 
 ### 2. Proxy Support
-Thêm proxy để tránh bị chặn:
+Add proxy to avoid blocking:
 
 ```python
 proxies = {
@@ -223,23 +223,23 @@ self.session.proxies.update(proxies)
 ```
 
 ### 3. Rate Limiting
-Điều chỉnh delay giữa các requests:
+Adjust delay between requests:
 
 ```python
 time.sleep(CRAWLER_CONFIG['request_delay'])
 ```
 
-## Bảo mật
+## Security
 
-- Tool sử dụng User Agent rotation để tránh bị phát hiện
-- Có thể thêm proxy để ẩn IP
-- Respect robots.txt (cần implement thêm)
-- Delay giữa requests để không gây quá tải server
+- Uses User Agent rotation to avoid detection
+- You may add proxy to hide IP
+- Respect robots.txt (needs implementation)
+- Delay between requests to avoid server overload
 
 ## License
 
-MIT License - Sử dụng tự do cho mục đích cá nhân và thương mại.
+MIT License - Free for personal and commercial use.
 
-## Đóng góp
+## Contributing
 
-Mọi đóng góp đều được chào đón! Vui lòng tạo issue hoặc pull request.
+Contributions are welcome! Please open an issue or pull request.

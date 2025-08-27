@@ -1,0 +1,618 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/brazil/foz-do-iguacu-city-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/yw5EUmaLKFc",
+    "contentUrl": "https://www.youtube.com/watch?v=yw5EUmaLKFc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/foz-do-iguacu-city-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/foz-do-iguacu-city-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Paraná State",
+    "title": "Foz do Iguaçu, Paraná Live Cam",
+    "coordinates": {
+      "lat": "-25.56005633406216",
+      "lng": "-54.59481465787478"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/camboriu-river-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/yYAnfNBl0ZE",
+    "contentUrl": "https://www.youtube.com/watch?v=yYAnfNBl0ZE",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/camboriu-river-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-camboriu-river.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/camboriu-river-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Camboriú River, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-27.0043643",
+      "lng": "-48.6030864"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/beach-cachoeira-do-bom-jesus-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/yIEq7EQ7wsk",
+    "contentUrl": "https://www.youtube.com/watch?v=yIEq7EQ7wsk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/beach-cachoeira-do-bom-jesus-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-beach-cachoeira-bom-jesus.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/beach-cachoeira-do-bom-jesus-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Cachoeira do Bom Jesus, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-27.420558",
+      "lng": "-48.4373643"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/guaruja-enseada-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/yF4cN16ZgNk",
+    "contentUrl": "https://www.youtube.com/watch?v=yF4cN16ZgNk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/guaruja-enseada-beach-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-guaruja-enseada-beach.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/guaruja-enseada-beach-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Enseada Beach, Guarujá Live Cam",
+    "coordinates": {
+      "lat": "-23.986299077344608",
+      "lng": "-46.209304922935054"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/guarulhos-international-airport/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/cOXwmw_VoSY",
+    "contentUrl": "https://www.youtube.com/watch?v=cOXwmw_VoSY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/guarulhos-international-airport-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/guarulhos-international-airport-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Guarulhos International Airport (GRU) Live Cam",
+    "coordinates": {
+      "lat": "-23.437759454545702",
+      "lng": "-46.48679950395222"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/basilica-lady-aparecida/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/uVmutRH_u6M",
+    "contentUrl": "https://www.youtube.com/watch?v=uVmutRH_u6M",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/basilica-lady-aparecida-webcamtaxi/thumbnail/968x545/brasil-sao-paulo-our-lady-aparecida-basilica.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/basilica-lady-aparecida-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Our Lady of Aparecida Basílica Live Cam",
+    "coordinates": {
+      "lat": "-22.851722185039858",
+      "lng": "-45.23421648403555"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/canal-do-porto-de-santos-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/tMYtrEBNVAU",
+    "contentUrl": "https://www.youtube.com/watch?v=tMYtrEBNVAU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/canal-do-porto-de-santos-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-canal-porto-santos.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/canal-do-porto-de-santos-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Entrance to the Port of Santos Canal Live Cam",
+    "coordinates": {
+      "lat": "-23.99491662316189",
+      "lng": "-46.33012496409561"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/ilha-porchat-livecam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/mQAmdjV3QGY",
+    "contentUrl": "https://www.youtube.com/watch?v=mQAmdjV3QGY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ilha-porchat-livecam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-ilha-porchat.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ilha-porchat-livecam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Ilha Porchat, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-23.976877978426888",
+      "lng": "-46.37353628749995"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/aparecida-city-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/m2tH8rAcz7A",
+    "contentUrl": "https://www.youtube.com/watch?v=m2tH8rAcz7A",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aparecida-city-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-state-aparecida-city.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aparecida-city-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Aparecida, panoramic city view Live Cam",
+    "coordinates": {
+      "lat": "-22.84859750488395",
+      "lng": "-45.23132326528002"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/itapema-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/i_q2DApbkcM",
+    "contentUrl": "https://www.youtube.com/watch?v=i_q2DApbkcM",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/itapema-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-itapema.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/itapema-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "R. Orla do Centro, Itapema Live Cam",
+    "coordinates": {
+      "lat": "-27.0951389",
+      "lng": "-48.6126667"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/railwaystation-santa-fe-do-sul/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/gs25Y5j-oAc",
+    "contentUrl": "https://www.youtube.com/watch?v=gs25Y5j-oAc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/railwaystation-santa-fe-do-sul-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-state-railwaystation-santa-fe-do-sul.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/railwaystation-santa-fe-do-sul-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Railway Station, Santa Fé do Sul Live Cam",
+    "coordinates": {
+      "lat": "-20.213966824282256",
+      "lng": "-50.94147950930127"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/lauromuller-serradoriodorastro-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/o5iVjDTXzN8",
+    "contentUrl": "https://www.youtube.com/watch?v=o5iVjDTXzN8",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lauromuller-serradoriodorastro-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-serra-rio-rasto.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lauromuller-serradoriodorastro-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Serra do Rio do Rastro, Santa Catarina Live Cam",
+    "coordinates": {
+      "lat": "-28.39263741381011",
+      "lng": "-49.5580431688042"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/itanhaem-praia-dos-sonhos-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/_jnU7Pxccj0",
+    "contentUrl": "https://www.youtube.com/watch?v=_jnU7Pxccj0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/itanhaem-praia-dos-sonhos-beach-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-itanhaem-praia-dos-sonhos-beach.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/itanhaem-praia-dos-sonhos-beach-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Praia dos Sonhos, Itanhaém Live Cam",
+    "coordinates": {
+      "lat": "-24.195000000000004",
+      "lng": "-46.8015556"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/caieiras-train-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/dETXtdqn5QY",
+    "contentUrl": "https://www.youtube.com/watch?v=dETXtdqn5QY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/caieiras-train-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-trains-caeiras.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/caieiras-train-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Caieiras Train station Live Cam",
+    "coordinates": {
+      "lat": "-23.36563006020599",
+      "lng": "-46.75301704837854"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/ponta-negra-beach-natal/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/bcHzU8VQqGI",
+    "contentUrl": "https://www.youtube.com/watch?v=bcHzU8VQqGI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ponta-negra-beach-natal-webcamtaxi/thumbnail/968x545/brazil-rio-grande-do-norte-natal-ponta-negra-beach.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ponta-negra-beach-natal-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio Grande do Norte",
+    "title": "Ponta Negra beach, Natal Live Cam",
+    "coordinates": {
+      "lat": "-5.8779006",
+      "lng": "-35.1777307"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/praia-de-jericoacoara-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/bNPwLEohbAk",
+    "contentUrl": "https://www.youtube.com/watch?v=bNPwLEohbAk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/praia-de-jericoacoara-cam-webcamtaxi/thumbnail/968x545/brazil-ceara-praia-de-jericoacoara.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/praia-de-jericoacoara-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Ceará",
+    "title": "Praia de Jericoacoara, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-2.797783639149964",
+      "lng": "-40.52078892326512"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/porto-alegre-aeroporto-internacional-salgadofilho/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/_o50FcUr7mk",
+    "contentUrl": "https://www.youtube.com/watch?v=_o50FcUr7mk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/porto-alegre-aeroporto-internacional-salgadofilho-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/porto-alegre-aeroporto-internacional-salgadofilho-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio Grande do Sul",
+    "title": "Salgado Filho Airport, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-29.99685857458753",
+      "lng": "-51.17893062124403"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/manaus-teatro-amazonas/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/_mXrLrDRQbQ",
+    "contentUrl": "https://www.youtube.com/watch?v=_mXrLrDRQbQ",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/manaus-teatro-amazonas-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/manaus-teatro-amazonas-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Amazonas",
+    "title": "Teatro Amazonas, Manaus Live Cam",
+    "coordinates": {
+      "lat": "-3.129858997720949",
+      "lng": "-60.02462868415951"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/praiadecandeias-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Ynt1g5C1Mek",
+    "contentUrl": "https://www.youtube.com/watch?v=Ynt1g5C1Mek",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/praiadecandeias-beach-cam-webcamtaxi/thumbnail/968x545/brazil-pernambuco-praia-de-candeias.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/praiadecandeias-beach-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Pernambuco",
+    "title": "Candeias Beach, Jaboatão Live Cam",
+    "coordinates": {
+      "lat": "-8.205493991826545",
+      "lng": "-34.919534923272224"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/galeao-international-airport/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/YmE2pD2TatQ",
+    "contentUrl": "https://www.youtube.com/watch?v=YmE2pD2TatQ",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/galeao-international-airport-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/galeao-international-airport-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "title": "Galeão International Airport, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-22.811908985060093",
+      "lng": "-43.274795683829744"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/historic-basilica-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/X52LJG2z_UQ",
+    "contentUrl": "https://www.youtube.com/watch?v=X52LJG2z_UQ",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/historic-basilica-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-state-historic-basilica.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/historic-basilica-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Basílica Histórica de Nossa Senhora Aparecida Live Cam",
+    "coordinates": {
+      "lat": "-22.847626045459876",
+      "lng": "-45.23111541431051"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/laranjeiras-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Wh0A2AeIE0M",
+    "contentUrl": "https://www.youtube.com/watch?v=Wh0A2AeIE0M",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/laranjeiras-beach-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-laranjeiras-beach.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/laranjeiras-beach-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Laranjeiras Beach Cam Live Cam",
+    "coordinates": {
+      "lat": "-26.99744297659677",
+      "lng": "-48.59319792297969"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/praia-de-palmas-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/W5_CbptDPwI",
+    "contentUrl": "https://www.youtube.com/watch?v=W5_CbptDPwI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/praia-de-palmas-beach-cam-webcamtaxi/thumbnail/968x545/brazil-sta-catarina-palmas-beach-governador-celso-ramos.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/praia-de-palmas-beach-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Palmas Beach SC, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-27.33387321083726",
+      "lng": "-48.5357612872962"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/chapeco-airport-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/vo5pNgU_t-I",
+    "contentUrl": "https://www.youtube.com/watch?v=vo5pNgU_t-I",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/chapeco-airport-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-chapeco-airport.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/chapeco-airport-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Chapecó Airport, SC Live Cam",
+    "coordinates": {
+      "lat": "",
+      "lng": ""
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/campinas-viracopos-international-airport/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/SUYC0fVa8iQ",
+    "contentUrl": "https://www.youtube.com/watch?v=SUYC0fVa8iQ",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/campinas-viracopos-international-airport-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-aeroporto-viracopos.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/campinas-viracopos-international-airport-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Viracopos Intl Airport, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-10.3333333",
+      "lng": "-53.2"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/skyglass-canela-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/NF7duTLS4Ts",
+    "contentUrl": "https://www.youtube.com/watch?v=NF7duTLS4Ts",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/skyglass-canela-cam-webcamtaxi/thumbnail/968x545/brazil-rio-grande-sul-skyglass-canela.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/skyglass-canela-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio Grande do Sul",
+    "title": "Skyglass Canela, RS, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-29.26523452936597",
+      "lng": "-50.85210053831412"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/arraial-do-cabo-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/NEIZE1Izn3s",
+    "contentUrl": "https://www.youtube.com/watch?v=NEIZE1Izn3s",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/arraial-do-cabo-cam-webcamtaxi/thumbnail/968x545/brazil-rio-de-janeiro-arraialdocabo.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/arraial-do-cabo-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "title": "Arraial do Cabo, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-22.96467415",
+      "lng": "-42.02981079999999"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/florianopolis-barra-da-lagoa/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/MS01PL3Rx1Q",
+    "contentUrl": "https://www.youtube.com/watch?v=MS01PL3Rx1Q",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/florianopolis-barra-da-lagoa-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-florianopolis-barra-da-lagoa.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/florianopolis-barra-da-lagoa-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Barra da lagoa, Florianópolis Live Cam",
+    "coordinates": {
+      "lat": "-27.5740112276669",
+      "lng": "-48.42627904831147"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/barra-da-lagoa-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/MS01PL3Rx1Q",
+    "contentUrl": "https://www.youtube.com/watch?v=MS01PL3Rx1Q",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/barra-da-lagoa-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-barra-lagoa.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/barra-da-lagoa-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Barra da Lagoa Florianópolis, SC Live Cam",
+    "coordinates": {
+      "lat": "-27.574427976159967",
+      "lng": "-48.42608028740407"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/saquarema-livecam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/jW08QeZPOVc",
+    "contentUrl": "https://www.youtube.com/watch?v=jW08QeZPOVc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/saquarema-livecam-webcamtaxi/thumbnail/968x545/brazil-rio-janeiro-lagoa-saquarema.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/saquarema-livecam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "title": "Saquarema - State of Rio de Janeiro Live Cam",
+    "coordinates": {
+      "lat": "-22.93512304457765",
+      "lng": "-42.49544504838488"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/manaus-vieiralves-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/LRqIloMResI",
+    "contentUrl": "https://www.youtube.com/watch?v=LRqIloMResI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/manaus-vieiralves-cam-webcamtaxi/thumbnail/968x545/brazil-amazonas-state-manaus-vieiralves.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/manaus-vieiralves-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Amazonas",
+    "title": "Live Vieiralves, Manaus Live Cam",
+    "coordinates": {
+      "lat": "-3.1092556403396414",
+      "lng": "-60.02322792328008"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/matinhos-caioba-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/HKOmh5Jomks",
+    "contentUrl": "https://www.youtube.com/watch?v=HKOmh5Jomks",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/matinhos-caioba-cam-webcamtaxi/thumbnail/968x545/brazil-parana-matinhos-caioba.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/matinhos-caioba-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Paraná State",
+    "title": "Caiobá, Matinhos Live Cam",
+    "coordinates": {
+      "lat": "-25.8416692569067",
+      "lng": "-48.5419948493932"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/gramado-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/DpTF9uIkUic",
+    "contentUrl": "https://www.youtube.com/watch?v=DpTF9uIkUic",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gramado-cam-webcamtaxi/thumbnail/968x545/brazil-rio-grande-do-sul-gramado.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gramado-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio Grande do Sul",
+    "title": "Gramado Centre, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-29.39441197515427",
+      "lng": "-50.88010528737901"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/porto-de-santos-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/AX74XKJZdJM",
+    "contentUrl": "https://www.youtube.com/watch?v=AX74XKJZdJM",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/porto-de-santos-cam-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-porto-de-santos.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/porto-de-santos-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Port of Santos, panoramic view Live Cam",
+    "coordinates": {
+      "lat": "-23.964927082506556",
+      "lng": "-46.36488168393896"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/recife-airport-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/kqbLFpa8-Jc",
+    "contentUrl": "https://www.youtube.com/watch?v=kqbLFpa8-Jc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/recife-airport-cam-webcamtaxi/thumbnail/968x545/brazil-pernambuco-recife-airport.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/recife-airport-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Pernambuco",
+    "title": "Recife International Airport / Guararapes - Gilberto Freyre Live Cam",
+    "coordinates": {
+      "lat": "-8.138388991857811",
+      "lng": "-34.920136287676854"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/avenida-dos-estados-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/98IxDYlMqLw",
+    "contentUrl": "https://www.youtube.com/watch?v=98IxDYlMqLw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/avenida-dos-estados-cam-webcamtaxi/thumbnail/968x545/brazil-santa-catarina-avenida-dos-estados.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/avenida-dos-estados-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Av. dos Estados, Balneário Camboriú Live Cam",
+    "coordinates": {
+      "lat": "-26.98256665176698",
+      "lng": "-48.64130070220768"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/aparecida-central-altar-sanctuary/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/7Z9B3wFXndc",
+    "contentUrl": "https://www.youtube.com/watch?v=7Z9B3wFXndc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aparecida-central-altar-sanctuary-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-altar-central-our-lady-aparecida.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aparecida-central-altar-sanctuary-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Santuário Nacional de Nossa Senhora Aparecida Live Cam",
+    "coordinates": {
+      "lat": "-22.85095608170582",
+      "lng": "-45.238504843175086"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/lake-guaiba-porto-alegre/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/6RMNlSu6l_s",
+    "contentUrl": "https://www.youtube.com/watch?v=6RMNlSu6l_s",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lake-guaiba-porto-alegre-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lake-guaiba-porto-alegre-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio Grande do Sul",
+    "title": "Lake Guaíba, Porto Alegre Live Cam",
+    "coordinates": {
+      "lat": "-30.01265397860287",
+      "lng": "-51.21370374974223"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/aparecida-blessedsacrament-chapel/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/6GKQTGz_NHk",
+    "contentUrl": "https://www.youtube.com/watch?v=6GKQTGz_NHk",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aparecida-blessedsacrament-chapel-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-capela-santissimo.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aparecida-blessedsacrament-chapel-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Blessed Sacrament Chapel, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-22.85095608170582",
+      "lng": "-45.238504843175086"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/riodejaneiro-santosdumontairport/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/60YKUk5FLPU",
+    "contentUrl": "https://www.youtube.com/watch?v=60YKUk5FLPU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/riodejaneiro-santosdumontairport-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/riodejaneiro-santosdumontairport-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Rio de Janeiro",
+    "title": "Santos Dumont Airport, Brazil Live Cam",
+    "coordinates": {
+      "lat": "-22.90998929626542",
+      "lng": "-43.17204582175348"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/santafedosul-praca-salles-filho/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/57Xf43Pug5k",
+    "contentUrl": "https://www.youtube.com/watch?v=57Xf43Pug5k",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/santafedosul-praca-salles-filho-webcamtaxi/thumbnail/968x545/brazil-sao-paulo-praca-salles-filho.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/santafedosul-praca-salles-filho-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "Praça Salles Filho, Santa Fé do Sul Live Cam",
+    "coordinates": {
+      "lat": "-20.211111981163135",
+      "lng": "-50.92924628760339"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/central-beach-balneario-camboriu/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/4E4MSLTPPl0",
+    "contentUrl": "https://www.youtube.com/watch?v=4E4MSLTPPl0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/central-beach-balneario-camboriu-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/central-beach-balneario-camboriu-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Santa Catarina",
+    "title": "Beach, Balneário Camboriú Live Cam",
+    "coordinates": {
+      "lat": "-27.006129203529706",
+      "lng": "-48.61010804873713"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/manaus-ponta-negra-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/3xmnXIUg5Fw",
+    "contentUrl": "https://www.youtube.com/watch?v=3xmnXIUg5Fw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/manaus-ponta-negra-beach-cam-webcamtaxi/thumbnail/968x545/brazil-amazonas-sate-ponta-negra-manaus.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/manaus-ponta-negra-beach-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "Amazonas",
+    "title": "Ponta Negra Beach, Manaus Live Cam",
+    "coordinates": {
+      "lat": "-3.0630768343456864",
+      "lng": "-60.105070619074574"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/brazil/gru-airport-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/3Q9vPC9mMDI",
+    "contentUrl": "https://www.youtube.com/watch?v=3Q9vPC9mMDI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gru-airport-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gru-airport-cam-webcamtaxi/thumbnail",
+    "country": "Brazil",
+    "city": "São Paulo State",
+    "title": "GRU Airport, São Paulo Live Cam",
+    "coordinates": {
+      "lat": "-23.437759454545702",
+      "lng": "-46.48679950395222"
+    }
+  }
+]

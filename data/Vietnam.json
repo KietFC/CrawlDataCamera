@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-st-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Vietnam",
     "city": "Da Nang",
-    "title": "Quang Trung St, Da Nang Live Cam"
+    "title": "Quang Trung St, Da Nang Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-st-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/muijHPW82vI",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rear-gate-da-nang-hospital-c-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Vietnam",
     "city": "Da Nang",
-    "title": "Rear Gate Da Nang Hospital C Live Cam"
+    "title": "Rear Gate Da Nang Hospital C Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rear-gate-da-nang-hospital-c-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/VHxNpNjKurU",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/hai-chau-district-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Vietnam",
     "city": "Da Nang",
-    "title": "Hải Châu District, Da Nang Live Cam"
+    "title": "Hải Châu District, Da Nang Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/hai-chau-district-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/CaMkzNXwVcE",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-phuong-tran-costumes-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Vietnam",
     "city": "Da Nang",
-    "title": "Phuong Tran Costumes, Da Nang Live Cam"
+    "title": "Phuong Tran Costumes, Da Nang Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-phuong-tran-costumes-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Uxg6Plhkz7Q",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/cat-lai-street25-cam-webcamtaxi/thumbnail/968x545/vietnam-ho-chi-minh-city-cat-lai-street25.webp",
     "country": "Vietnam",
     "city": "Ho Chi Minh City",
-    "title": "Street 25, Cát Lái Live Cam"
+    "title": "Street 25, Cát Lái Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/cat-lai-street25-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/JZRc7-Bvsfg",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/han-river-cam-webcamtaxi/thumbnail/968x545/vitnam-da-nang-han-river.webp",
     "country": "Vietnam",
     "city": "Da Nang",
-    "title": "Hàn River (Cầu Trần Thị Lý) Live Cam"
+    "title": "Hàn River (Cầu Trần Thị Lý) Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/han-river-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ENlcKxNwaGA",
@@ -53,6 +59,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nhatrang-weather/thumbnail/968x545/nhatrang-weather.webp",
     "country": "Vietnam",
     "city": "Nha Trang",
-    "title": "Ponagar tower, Nha Trang Live Cam"
+    "title": "Ponagar tower, Nha Trang Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nhatrang-weather/thumbnail"
   }
 ]

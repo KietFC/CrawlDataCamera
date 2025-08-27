@@ -1,0 +1,170 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/south-korea/hangang-river/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/zpCZ9OFjb3U",
+    "contentUrl": "https://www.youtube.com/watch?v=zpCZ9OFjb3U",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/hangang-river-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/hangang-river-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "Han River, Seoul Live Cam",
+    "coordinates": {
+      "lat": "37.53505983358695",
+      "lng": "126.94161155179509"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/jeju-island-pyoseon-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/nqn9TT1LT1Y",
+    "contentUrl": "https://www.youtube.com/watch?v=nqn9TT1LT1Y",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/jeju-island-pyoseon-beach-cam-webcamtaxi/thumbnail/968x545/south-korea-jeju-island-pyoseon-beach.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/jeju-island-pyoseon-beach-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Jeju",
+    "title": "Pyoseon Beach, Jeju Island Live Cam",
+    "coordinates": {
+      "lat": "33.325289907075934",
+      "lng": "126.84038211148473"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/homigot-sunrise-square-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/nX9mfZiLAeE",
+    "contentUrl": "https://www.youtube.com/watch?v=nX9mfZiLAeE",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/homigot-sunrise-square-cam-webcamtaxi/thumbnail/968x545/south-korea-yeongnam-homigot-sunrise-square.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/homigot-sunrise-square-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Yeongnam",
+    "title": "Homigot Sunrise Square, Korea Live Cam",
+    "coordinates": {
+      "lat": "36.07705560000001",
+      "lng": "129.5681667"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/seongsan-ilchulbong-sunrisepark/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/a4EG5dwopu8",
+    "contentUrl": "https://www.youtube.com/watch?v=a4EG5dwopu8",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/seongsan-ilchulbong-sunrisepark-webcamtaxi/thumbnail/968x545/sout-korea-jeju-seongsan-sunrise-park.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/seongsan-ilchulbong-sunrisepark-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Jeju",
+    "title": "Seongsan Ilchulbong, Jeju Live Cam",
+    "coordinates": {
+      "lat": "33.46240744864289",
+      "lng": "126.93257207702325"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/seogang-bridge-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/_gmTN6ssF7I",
+    "contentUrl": "https://www.youtube.com/watch?v=_gmTN6ssF7I",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/seogang-bridge-cam-webcamtaxi/thumbnail/968x545/south-korea-seoul-seogang-bridge.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/seogang-bridge-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "Seogang Bridge, Seoul Live Cam",
+    "coordinates": {
+      "lat": "37.54248397192828",
+      "lng": "126.92951971282515"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/aquaplanet-jeju-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/PO7PHcBjbEU",
+    "contentUrl": "https://www.youtube.com/watch?v=PO7PHcBjbEU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/aquaplanet-jeju-cam-webcamtaxi/thumbnail/968x545/south-korea-jeju-aquaplanet.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/aquaplanet-jeju-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Jeju",
+    "title": "Aqua Planet Jeju, South Korea Live Cam",
+    "coordinates": {
+      "lat": "33.43302172017159",
+      "lng": "126.91691315397391"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/diamond-bridge/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/OSnuM2fNovg",
+    "contentUrl": "https://www.youtube.com/watch?v=OSnuM2fNovg",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/diamond-bridge-webcamtaxi/thumbnail/968x545/south-korea-diamond-bridge-busan.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/diamond-bridge-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Busan",
+    "title": "Diamond Bridge, Busan Live Cam",
+    "coordinates": {
+      "lat": "35.15300497276213",
+      "lng": "129.12204307720847"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/lotte-world-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/JIQPCfb9Qs0",
+    "contentUrl": "https://www.youtube.com/watch?v=JIQPCfb9Qs0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lotte-world-cam-webcamtaxi/thumbnail/968x545/south-korea-seoul-lotte-world.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lotte-world-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "Lotte World, Seoul Live Cam",
+    "coordinates": {
+      "lat": "37.50713197193771",
+      "lng": "127.09853771272981"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/dongdaemun-design-plaza-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/GOt7UVVp-5Y",
+    "contentUrl": "https://www.youtube.com/watch?v=GOt7UVVp-5Y",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/dongdaemun-design-plaza-cam-webcamtaxi/thumbnail/968x545/south-korea-seoul-dongdaemun-design-plaza.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/dongdaemun-design-plaza-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "DDP Seoul, South Korea Live Cam",
+    "coordinates": {
+      "lat": "37.565620971922215",
+      "lng": "127.00629371282572"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/station-plaza-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/2--j0SVYmRY",
+    "contentUrl": "https://www.youtube.com/watch?v=2--j0SVYmRY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/station-plaza-cam-webcamtaxi/thumbnail/968x545/south-kores-seoul-station-plaza.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/station-plaza-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "Seoul Station Plaza, South Korea Live Cam",
+    "coordinates": {
+      "lat": "37.554324224826274",
+      "lng": "126.96991807711822"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/namsan-tower-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/1-82tKs5y3A",
+    "contentUrl": "https://www.youtube.com/watch?v=1-82tKs5y3A",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/namsan-tower-cam-webcamtaxi/thumbnail/968x545/south-korea-seoul-namsan-tower.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/namsan-tower-cam-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "Seoul Namsan Tower Cam Live Cam",
+    "coordinates": {
+      "lat": "37.519999609692036",
+      "lng": "127.00155783879792"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/south-korea/han-river-banpo-bridge/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/-JhoMGoAfFc",
+    "contentUrl": "https://www.youtube.com/watch?v=-JhoMGoAfFc",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/han-river-banpo-bridge-webcamtaxi/thumbnail/968x545/hqdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/han-river-banpo-bridge-webcamtaxi/thumbnail",
+    "country": "South Korea",
+    "city": "Seoul",
+    "title": "Han River, Seoul Live Cam",
+    "coordinates": {
+      "lat": "37.51616207987602",
+      "lng": "127.00263981078055"
+    }
+  }
+]

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Script chạy Webcam Data Crawler với các tùy chọn
+Run Webcam Data Crawler with options
 """
 
 import argparse
@@ -23,58 +23,58 @@ def main():
         description='Webcam Data Crawler Tool',
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
-Ví dụ sử dụng:
-  python run_crawler.py                           # Chạy với cấu hình mặc định
-  python run_crawler.py --selenium                # Sử dụng Selenium
-  python run_crawler.py --format csv              # Output dạng CSV
-  python run_crawler.py --urls custom_urls.txt    # Sử dụng file URLs tùy chỉnh
-  python run_crawler.py --delay 5                 # Delay 5 giây giữa requests
+Examples:
+  python run_crawler.py                           # Run with default config
+  python run_crawler.py --selenium                # Use Selenium
+  python run_crawler.py --format csv              # Output CSV
+  python run_crawler.py --urls custom_urls.txt    # Use custom URLs file
+  python run_crawler.py --delay 5                 # Delay 5 seconds between requests
         """
     )
     
     parser.add_argument(
         '--selenium',
         action='store_true',
-        help='Sử dụng Selenium thay vì Requests'
+        help='Use Selenium instead of Requests'
     )
     
     parser.add_argument(
         '--format',
         choices=['json', 'csv', 'excel'],
         default=OUTPUT_CONFIG['default_format'],
-        help='Định dạng output (mặc định: json)'
+        help='Output format (default: json)'
     )
     parser.add_argument(
         '--minimal',
         action='store_true',
-        help='Xuất kết quả tối giản và lưu file theo tên country (country.json)'
+        help='Export minimal results and save file by country (country.json)'
     )
     
     parser.add_argument(
         '--urls',
         default='url.txt',
-        help='File chứa danh sách URLs (mặc định: url.txt)'
+        help='File containing list of URLs (default: url.txt)'
     )
     
     parser.add_argument(
         '--delay',
         type=int,
         default=CRAWLER_CONFIG['request_delay'],
-        help=f'Delay giữa các requests (mặc định: {CRAWLER_CONFIG["request_delay"]}s)'
+        help=f'Delay between requests (default: {CRAWLER_CONFIG["request_delay"]}s)'
     )
     
     parser.add_argument(
         '--headless',
         action='store_true',
         default=CRAWLER_CONFIG['headless'],
-        help='Chạy browser ở chế độ headless'
+        help='Run browser in headless mode'
     )
     
     
     parser.add_argument(
         '--verbose',
         action='store_true',
-        help='Hiển thị thông tin chi tiết'
+        help='Show verbose output'
     )
     
     args = parser.parse_args()
@@ -97,7 +97,7 @@ Ví dụ sử dụng:
                 with open(args.urls, 'r', encoding='utf-8') as f:
                     urls = [line.strip() for line in f if line.strip()]
             except FileNotFoundError:
-                print(f"❌ Không tìm thấy file {args.urls}")
+                print(f"❌ File not found: {args.urls}")
                 sys.exit(1)
 
             # Chrome options
@@ -162,38 +162,38 @@ Ví dụ sử dụng:
             finally:
                 driver.quit()
         else:
-            # Khởi tạo crawler thường
+            # Initialize regular crawler
             crawler = WebcamCrawler(headless=args.headless)
             CRAWLER_CONFIG['request_delay'] = args.delay
-            print(f"Đang bắt đầu crawl data từ {args.urls}...")
+            print(f"Starting to crawl data from {args.urls}...")
             results = crawler.crawl_urls_from_file(args.urls, use_selenium=args.selenium)
             if results:
-                print(f"\n✅ Đã crawl thành công {len(results)} URLs")
+                print(f"\n✅ Successfully crawled {len(results)} URLs")
                 output_file = crawler.save_results(results, args.format)
-                print(f"📁 Kết quả đã được lưu vào: {output_file}")
+                print(f"📁 Results saved to: {output_file}")
             else:
-                print("❌ Không có kết quả nào được crawl")
+                print("❌ No results crawled")
             
     except FileNotFoundError:
-        print(f"❌ Không tìm thấy file {args.urls}")
-        print("Vui lòng tạo file với danh sách URLs, mỗi URL một dòng")
+        print(f"❌ File not found: {args.urls}")
+        print("Please create a file with one URL per line")
         sys.exit(1)
         
     except KeyboardInterrupt:
-        print("\n⏹️  Đã dừng crawl theo yêu cầu của người dùng")
+        print("\n⏹️  Crawl stopped by user request")
         
     except Exception as e:
-        print(f"❌ Lỗi: {e}")
+        print(f"❌ Error: {e}")
         if args.verbose:
             import traceback
             traceback.print_exc()
         sys.exit(1)
         
     finally:
-        # Dọn dẹp
+        # Cleanup
         if 'crawler' in locals():
             crawler.close_driver()
-        print("\n🎉 Đã hoàn thành crawl data!")
+        print("\n🎉 Crawl completed!")
 
 if __name__ == "__main__":
     main()

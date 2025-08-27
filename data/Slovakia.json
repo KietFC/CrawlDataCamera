@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/martin-city-cam-webcamtaxi/thumbnail/968x545/slovakia-zilina-region-martin-city.webp",
     "country": "Slovakia",
     "city": "Žilina Region",
-    "title": "Martin City, Slovakia Live Cam"
+    "title": "Martin City, Slovakia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/martin-city-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/rHI9q1LaEnk",
@@ -13,6 +14,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pizza-mizza/thumbnail/968x545/pizza-mizza.webp",
     "country": "Slovakia",
     "city": "Bratislava",
-    "title": "Pizzeria \"Pizza Mizza\", Bratislava Live Cam"
+    "title": "Pizzeria \"Pizza Mizza\", Bratislava Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pizza-mizza/thumbnail"
   }
 ]

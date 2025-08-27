@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/fruit-feeder-canopy-lodge-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Panama",
     "city": "Panama",
-    "title": "Fruit Feeder, Canopy Lodge Live Cam"
+    "title": "Fruit Feeder, Canopy Lodge Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/fruit-feeder-canopy-lodge-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/VfFfS64rtZE",
@@ -13,6 +14,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/panama-fruit-feeder/thumbnail/968x545/panama-fruit-feeder.webp",
     "country": "Panama",
     "city": "El Valle de Anton",
-    "title": "Panama Fruit Feeder, Canopy Lodge Live Cam"
+    "title": "Panama Fruit Feeder, Canopy Lodge Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/panama-fruit-feeder/thumbnail"
   }
 ]

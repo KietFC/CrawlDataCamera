@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/vietnam/quang-trung-st-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/xCNRP131kNY",
+    "contentUrl": "https://www.youtube.com/watch?v=xCNRP131kNY",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-st-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-st-cam-webcamtaxi/thumbnail",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "title": "Quang Trung St, Da Nang Live Cam",
+    "coordinates": {
+      "lat": "16.074125287978305",
+      "lng": "108.21590482921714"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/vietnam/rear-gate-da-nang-hospital-c/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/muijHPW82vI",
+    "contentUrl": "https://www.youtube.com/watch?v=muijHPW82vI",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rear-gate-da-nang-hospital-c-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rear-gate-da-nang-hospital-c-webcamtaxi/thumbnail",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "title": "Rear Gate Da Nang Hospital C Live Cam",
+    "coordinates": {
+      "lat": "16.074083743726383",
+      "lng": "108.2153076992357"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/vietnam/hai-chau-district/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/VHxNpNjKurU",
+    "contentUrl": "https://www.youtube.com/watch?v=VHxNpNjKurU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/hai-chau-district-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/hai-chau-district-webcamtaxi/thumbnail",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "title": "Hải Châu District, Da Nang Live Cam",
+    "coordinates": {
+      "lat": "16.060749988886084",
+      "lng": "108.22067241608363"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/vietnam/quang-trung-phuong-tran-costumes-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/CaMkzNXwVcE",
+    "contentUrl": "https://www.youtube.com/watch?v=CaMkzNXwVcE",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-phuong-tran-costumes-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/quang-trung-phuong-tran-costumes-cam-webcamtaxi/thumbnail",
+    "country": "Vietnam",
+    "city": "Da Nang",
+    "title": "Phuong Tran Costumes, Da Nang Live Cam",
+    "coordinates": {
+      "lat": "16.074146988823323",
+      "lng": "108.21422595146912"
+    }
+  }
+]

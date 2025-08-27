@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ridgeback-puppies/thumbnail/968x545/maxresdefault.webp",
     "country": "Belarus",
     "city": "Minsk",
-    "title": "Rhodesian Ridgeback puppies, Minsk Live Cam"
+    "title": "Rhodesian Ridgeback puppies, Minsk Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ridgeback-puppies/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/7D0thSBjM5g",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tc-dionis/thumbnail/968x545/maxresdefault.webp",
     "country": "Belarus",
     "city": "Brest",
-    "title": "Dionis shopping center, Brest Live Cam"
+    "title": "Dionis shopping center, Brest Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tc-dionis/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/PleZgD9BLUI",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/mr-brest/thumbnail/968x545/maxresdefault.webp",
     "country": "Belarus",
     "city": "Brest",
-    "title": "Administration building, Moscow district, Brest Live Cam"
+    "title": "Administration building, Moscow district, Brest Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/mr-brest/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Y72poHfDKm4",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gagarina-gorkogo/thumbnail/968x545/gagarina-gorkogo.webp",
     "country": "Belarus",
     "city": "Barysaw",
-    "title": "Intersection of Gagarin and Maxim Gorky streets, Borisov Live Cam"
+    "title": "Intersection of Gagarin and Maxim Gorky streets, Borisov Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gagarina-gorkogo/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/cSOPXPR2QTE",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tcentralnaya-ploshcad/thumbnail/968x545/tcentralnaya-ploshcad.webp",
     "country": "Belarus",
     "city": "Barysaw",
-    "title": "Central square, Borisov Live Cam"
+    "title": "Central square, Borisov Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tcentralnaya-ploshcad/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ebunP4jfqqc",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/svyato-voskresenskiy/thumbnail/968x545/maxresdefault.webp",
     "country": "Belarus",
     "city": "Brest",
-    "title": "Holy Resurrection Cathedral, Brest Live Cam"
+    "title": "Holy Resurrection Cathedral, Brest Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/svyato-voskresenskiy/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ivy2cGtNzgM",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/fortress-vulica-zubacova2-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Belarus",
     "city": "Brest",
-    "title": "Vulica Zubačova 2, Brest Live Cam"
+    "title": "Vulica Zubačova 2, Brest Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/fortress-vulica-zubacova2-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/bdmNB6DE9k4",
@@ -61,6 +68,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/mogilev-city-cam-webcamtaxi/thumbnail/968x545/hqdefault.webp",
     "country": "Belarus",
     "city": "Mogilev Region",
-    "title": "Mogilev, City view Live Cam"
+    "title": "Mogilev, City view Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/mogilev-city-cam-webcamtaxi/thumbnail"
   }
 ]

@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ceres-valley/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "South Africa",
-    "title": "Ceres Valley, South Africa Live Cam"
+    "title": "Ceres Valley, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ceres-valley/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lQ4GP-DCvFk",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/imagineafrica-lodge-waterhole-cam-webcamtaxi/thumbnail/968x545/south-africa-limpopo-imagineafrica-lodge-waterhole.webp",
     "country": "South Africa",
     "city": "Limpopo",
-    "title": "Imagine Africa Waterhole Cam Live Cam"
+    "title": "Imagine Africa Waterhole Cam Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/imagineafrica-lodge-waterhole-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/iRmqCzJS-uo",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/imagineafrica-deansdam-cam-webcamtaxi/thumbnail/968x545/south-africa-limpopo-imagineafrica-deansdam.webp",
     "country": "South Africa",
     "city": "Limpopo",
-    "title": "Imagine Africa Deans Dam Live Live Cam"
+    "title": "Imagine Africa Deans Dam Live Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/imagineafrica-deansdam-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/i5R4ZlVLzLI",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/capetown-table-mountain-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Table Mountain, Cape Town Live Cam"
+    "title": "Table Mountain, Cape Town Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/capetown-table-mountain-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/i5R4ZlVLzLI?autoplay=1",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/cape-beach-house/thumbnail/968x545/cape-beach-house.webp",
     "country": "South Africa",
     "city": "Cape Town",
-    "title": "Table Mountain, Cape Town, view 2 Live Cam"
+    "title": "Table Mountain, Cape Town, view 2 Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/cape-beach-house/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/eXbK6DrZJL4",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kalkbay-brassbell-surf-cam-webcamtaxi/thumbnail/968x545/south-africa-western-cape-brass-bell-surf-kalk-bay.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Brass Bell Surf, Kalk Bay Live Cam"
+    "title": "Brass Bell Surf, Kalk Bay Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kalkbay-brassbell-surf-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/aWglOXp5id0",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pilanesberg-national-park-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "North West",
-    "title": "Pilanesberg National Park Live Cam"
+    "title": "Pilanesberg National Park Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pilanesberg-national-park-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/_AyumoafMOU",
@@ -61,7 +68,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kings-camp-wildlife-cam-webcamtaxi/thumbnail/968x545/south-africa-mpumalanga-kings-camp-wildlife.webp",
     "country": "South Africa",
     "city": "Mpumalanga",
-    "title": "Kings Camp Wildlife, South Africa Live Cam"
+    "title": "Kings Camp Wildlife, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kings-camp-wildlife-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ZN_JDRsgLeM",
@@ -69,7 +77,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/djuma-private-game-reserve-webcamtaxi/thumbnail/968x545/south-africa-greater-kruger-park-djuma-waterhole.webp",
     "country": "South Africa",
     "city": "Mpumalanga",
-    "title": "Djuma Private Game Reserve Live Cam"
+    "title": "Djuma Private Game Reserve Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/djuma-private-game-reserve-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/VUJbDTIYlM4",
@@ -77,7 +86,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tembe-elephant-park-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "KwaZulu-Natal",
-    "title": "Tembe Elephant Park Live Cam"
+    "title": "Tembe Elephant Park Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tembe-elephant-park-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Rm_z7ITbGBs\\\",\\\"playerParams\\\":\\\"0gcJCXwARPhd_fXk?autoplay=1",
@@ -85,7 +95,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/live-african-safari-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "Mpumalanga",
-    "title": "African Safari, Mpumalanga Live Cam"
+    "title": "African Safari, Mpumalanga Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/live-african-safari-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/N-aNRbAj6rc",
@@ -93,7 +104,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/stony-point-penguins-cam-webcamtaxi/thumbnail/968x545/south-africa-western-cape-stony-point-penguins.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Stony Point Penguins, South Africa Live Cam"
+    "title": "Stony Point Penguins, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/stony-point-penguins-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/L5IQu7C3kRE",
@@ -101,7 +113,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/jeffreysbay-supertubes-cam-webcamtaxi/thumbnail/968x545/south-africa-easten-cape-jbay-webcam.webp",
     "country": "South Africa",
     "city": "Eastern Cape",
-    "title": "JBay Supertubes, South Africa Live Cam"
+    "title": "JBay Supertubes, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/jeffreysbay-supertubes-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Hhc6vesmrNk",
@@ -109,7 +122,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/langebaan-lagoon-pearlys-cam-webcamtaxi/thumbnail/968x545/south-africa-western-cape-langebaan-lagoon-pearlys.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Pearly's Langebaan lagoon Cam Live Cam"
+    "title": "Pearly's Langebaan lagoon Cam Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/langebaan-lagoon-pearlys-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/HFUaUnewpSE",
@@ -117,7 +131,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pretoria-allenbird-cam-webcamtaxi/thumbnail/968x545/south-africa-gautens-bird-cam.webp",
     "country": "South Africa",
     "city": "Gauteng",
-    "title": "Allen Bird, Pretoria Live Cam"
+    "title": "Allen Bird, Pretoria Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pretoria-allenbird-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/G2_LDjI5t_I",
@@ -125,7 +140,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/capetown-bloubergstrand-beach-webcamtaxi/thumbnail/968x545/south-africa-western-cape-capetown-bloubergstrand-beach.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Bloubergstrand Beach, Cape Town Live Cam"
+    "title": "Bloubergstrand Beach, Cape Town Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/capetown-bloubergstrand-beach-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/9viZIxuonrI",
@@ -133,7 +149,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lisbon-falls-cam-webcamtaxi/thumbnail/968x545/south-africa-mpumalanga-lisbon-falls.webp",
     "country": "South Africa",
     "city": "Mpumalanga",
-    "title": "Lisbon Falls, South Africa Live Cam"
+    "title": "Lisbon Falls, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lisbon-falls-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/8J9USywkGmw",
@@ -141,7 +158,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/madikwe-game-reserve-tau-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "North West",
-    "title": "Tau Game Lodge, North West Live Cam"
+    "title": "Tau Game Lodge, North West Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/madikwe-game-reserve-tau-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/4Zu64CmAjMo",
@@ -149,7 +167,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/cape-town-webcamtaxi/thumbnail/968x545/south-africa-western-cape-cape-town.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Cape Town Live Cam"
+    "title": "Cape Town Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/cape-town-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/4Zu64CmAjMo",
@@ -157,7 +176,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sea-point-promenade-cape-town-webcamtaxi/thumbnail/968x545/south-africa-western-cape-Sea-Point-Promenade.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Sea Point Promenade Live Cam"
+    "title": "Sea Point Promenade Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sea-point-promenade-cape-town-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/2AW5LGzq_PI",
@@ -165,7 +185,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nahoon-beach-cam-webcamtaxi/thumbnail/968x545/south-africa-eastern-cape-east-london-nahoon-beach.webp",
     "country": "South Africa",
     "city": "Eastern Cape",
-    "title": "Nahoon Beach, Eastern Cape Live Cam"
+    "title": "Nahoon Beach, Eastern Cape Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nahoon-beach-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/2we-TrM7U1w",
@@ -173,7 +194,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/capesands-strand-beach-cam-webcamtaxi/thumbnail/968x545/south-africa-western-cape-strand-beach-cape-sands.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Strand Beach, Cape Sands Live Cam"
+    "title": "Strand Beach, Cape Sands Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/capesands-strand-beach-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/0sX8vAkrIcg\\\",\\\"playerParams\\\":\\\"0gcJCXwARPhd_fXk?autoplay=1",
@@ -181,7 +203,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kruger-national-park-multicam-webcamtaxi/thumbnail/968x545/hqdefault.webp",
     "country": "South Africa",
     "city": "Mpumalanga",
-    "title": "Kruger Wildlife Multicam Live Cam"
+    "title": "Kruger Wildlife Multicam Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kruger-national-park-multicam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/dIChLG4_WNs",
@@ -189,7 +212,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nkorho-pan/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "South Africa",
-    "title": "Nkorho Pan, South Africa Live Cam"
+    "title": "Nkorho Pan, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nkorho-pan/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/WsZ5djhFA5k",
@@ -197,7 +221,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/mabula-gnu-pan-wildlife-cam-webcamtaxi/thumbnail/968x545/south-africa-limpopo-mabula-gnu-pan-wildlife.webp",
     "country": "South Africa",
     "city": "Limpopo",
-    "title": "Mabula Gnu Pan, South Africa Live Cam"
+    "title": "Mabula Gnu Pan, South Africa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/mabula-gnu-pan-wildlife-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/T98IfEUTeAc",
@@ -205,7 +230,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/capetown-milnerton-beach-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Milnerton Beach, Cape Town Live Cam"
+    "title": "Milnerton Beach, Cape Town Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/capetown-milnerton-beach-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/12BFAjbT8wc",
@@ -213,6 +239,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/langebaan-marcsbeachbar-cam-webcamtaxi/thumbnail/968x545/south-africa-western-cape-langebaan-marcsbeachbar.webp",
     "country": "South Africa",
     "city": "Western Cape",
-    "title": "Marc's Beach Bar Langebaan Live Cam"
+    "title": "Marc's Beach Bar Langebaan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/langebaan-marcsbeachbar-cam-webcamtaxi/thumbnail"
   }
 ]

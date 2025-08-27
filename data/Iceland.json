@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/geldingadalur-volcano-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Iceland",
     "city": "Reykjanes Peninsula",
-    "title": "Geldingadalir Volcano, Iceland Live Cam"
+    "title": "Geldingadalir Volcano, Iceland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/geldingadalur-volcano-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/GXTycxKz_FQ",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rosenborg-cam-webcamtaxi/thumbnail/968x545/iceland-akureyri-rosenborg.webp",
     "country": "Iceland",
     "city": "Akureyri",
-    "title": "Rósenborg Akureyri, Iceland Live Cam"
+    "title": "Rósenborg Akureyri, Iceland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rosenborg-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Bqudj0x0POA",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/grindavik-cam-webcamtaxi/thumbnail/968x545/iceland-southern-peninsula-grindavik.webp",
     "country": "Iceland",
     "city": "Reykjanes Peninsula",
-    "title": "Grindavík, Iceland Live Cam"
+    "title": "Grindavík, Iceland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/grindavik-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/2tRT7zfx-PI",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/perlan-cam-webcamtaxi/thumbnail/968x545/iceland-reykjavik-perlan.webp",
     "country": "Iceland",
     "city": "Reykjavik",
-    "title": "Perlan, Reykjavík Live Cam"
+    "title": "Perlan, Reykjavík Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/perlan-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/nlvuk_Y4ChU",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/einstok-olgerd-brewery-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Iceland",
     "city": "Akureyri",
-    "title": "Akureyri Iceland Brewery Live Cam"
+    "title": "Akureyri Iceland Brewery Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/einstok-olgerd-brewery-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ImhOk00xjOw",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/reykjavik-traffic-cam-webcamtaxi/thumbnail/968x545/iceland-reykjavik-traffic.webp",
     "country": "Iceland",
     "city": "Reykjavik",
-    "title": "Reykjavík Traffic, Iceland Live Cam"
+    "title": "Reykjavík Traffic, Iceland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/reykjavik-traffic-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/6KzcyKv8fok",
@@ -53,6 +59,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/mount-esja-webcamtaxi/thumbnail/968x545/hqdefault.webp",
     "country": "Iceland",
     "city": "Reykjavik",
-    "title": "Mount Esja Live Cam"
+    "title": "Mount Esja Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/mount-esja-webcamtaxi/thumbnail"
   }
 ]

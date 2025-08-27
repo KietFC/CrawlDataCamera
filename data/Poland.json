@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/train-station-warsaw-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Mazovia",
-    "title": "Train Station, Warsaw Live Cam"
+    "title": "Train Station, Warsaw Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/train-station-warsaw-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/yPXNHlDyEzc",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/panorama-morska-resort-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Panorama Morska Resort Live Cam"
+    "title": "Panorama Morska Resort Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/panorama-morska-resort-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/wAxpRk9-6ZM",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/warsaw-central-webcamtaxi/thumbnail/968x545/poland-mazovia-warsaw-panoramic-view.webp",
     "country": "Poland",
     "city": "Mazovia",
-    "title": "Warsaw Panorama Live Cam"
+    "title": "Warsaw Panorama Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/warsaw-central-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lhhSt9QfrVk",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/stork-nest-sokulka/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Sokolka",
-    "title": "Storks nest, Sokolka Live Cam"
+    "title": "Storks nest, Sokolka Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/stork-nest-sokulka/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lNnSK8t4-xY",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wroclaw-strzegomska-street-cam-webcamtaxi/thumbnail/968x545/hqdefault.webp",
     "country": "Poland",
     "city": "Lower Silesian",
-    "title": "Strzegomska, Wrocław Live Cam"
+    "title": "Strzegomska, Wrocław Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wroclaw-strzegomska-street-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/edyyxfirLZU",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/stork-nest-novy-kamen/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Nowy Kamien",
-    "title": "Storks nest, Nowy Kamień Live Cam"
+    "title": "Storks nest, Nowy Kamień Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/stork-nest-novy-kamen/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ReqMDd6ZC-U",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sanok-market-square-cam-webcamtaxi/thumbnail/968x545/poland-subcarpathian-market-square-sanok.webp",
     "country": "Poland",
     "city": "Subcarpathian Voivodeship",
-    "title": "Sanok Market Square, Poland Live Cam"
+    "title": "Sanok Market Square, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sanok-market-square-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/RaIHOItX2FE",
@@ -61,7 +68,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/penguins-silesianzoo-webcamtaxi/thumbnail/968x545/poland-vilesian-voivodeship-penguins-silesian-zoo.webp",
     "country": "Poland",
     "city": "Silesian",
-    "title": "Penguins, Silesian Zoo Live Cam"
+    "title": "Penguins, Silesian Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/penguins-silesianzoo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/RI2GFoe3BO0",
@@ -69,7 +77,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ruda-slaska-city-webcamtaxi/thumbnail/968x545/poland-silesia-ruda-slaska-cams.webp",
     "country": "Poland",
     "city": "Silesian",
-    "title": "Ruda Slaska City view, Silesian Live Cam"
+    "title": "Ruda Slaska City view, Silesian Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ruda-slaska-city-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/QaZPlDbFnbI",
@@ -77,7 +86,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sanok-st-michael-square-cam-webcamtaxi/thumbnail/968x545/poland-subcarpathian-voivodeship-sanok-st-michael-squar.webp",
     "country": "Poland",
     "city": "Subcarpathian Voivodeship",
-    "title": "St Michael Square, Sanok Live Cam"
+    "title": "St Michael Square, Sanok Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sanok-st-michael-square-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Q0U4Kh_NK3g",
@@ -85,7 +95,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ostrow-wielkopolski-square-webcamtaxi/thumbnail/968x545/poland-greater-poland-ostrow-wielkopolski-square.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Ostrów Wielkopolski Square Live Cam"
+    "title": "Ostrów Wielkopolski Square Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ostrow-wielkopolski-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/GakUUW9Anpo",
@@ -93,7 +104,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pszczyna-market-square-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Silesian",
-    "title": "Main Market Square, Pszczyna Live Cam"
+    "title": "Main Market Square, Pszczyna Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pszczyna-market-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Lufo0KCJDpM",
@@ -101,7 +113,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/polanow-rounabout-cam-webcamtaxi/thumbnail/968x545/poland-wet-pomeranian-polanow.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Polanów Rounabout, Poland Live Cam"
+    "title": "Polanów Rounabout, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/polanow-rounabout-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/7zEW-SvzliM?autoplay=1",
@@ -109,7 +122,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bocianie/thumbnail/968x545/bocianie.webp",
     "country": "Poland",
     "city": "Podlaskie Voivodeship",
-    "title": "Storks nest, Suwalki landscape park Live Cam"
+    "title": "Storks nest, Suwalki landscape park Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bocianie/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/58Yv6zq4KGE",
@@ -117,7 +131,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/czeladz-old-town-square-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Silesian",
-    "title": "Czeladź Market Square, Poland Live Cam"
+    "title": "Czeladź Market Square, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/czeladz-old-town-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/3oYSZPlLyYA\\\",\\\"playerParams\\\":\\\"0gcJCXwARPhd_fXk?autoplay=1",
@@ -125,7 +140,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nowy-tomysl-rondo-osiedlowe-cam-webcamtaxi/thumbnail/968x545/poland-greater-poland-nowy-tomysl-rondo-osiedlowe.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Rondo Osiedlowe, Nowy Tomyśl Live Cam"
+    "title": "Rondo Osiedlowe, Nowy Tomyśl Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nowy-tomysl-rondo-osiedlowe-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/0wb6RpTJaE8",
@@ -133,7 +149,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/barcin-market-square-webcamtaxi/thumbnail/968x545/poland-kuyavian-pomeranian-square-barsin.webp",
     "country": "Poland",
     "city": "Kuyavian-Pomeranian",
-    "title": "Barcin Market Square, Poland Live Cam"
+    "title": "Barcin Market Square, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/barcin-market-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/vdRNJ1x4bhQ",
@@ -141,7 +158,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/slawacinek-stary-storks/thumbnail/968x545/slawacinek-stary-storks.webp",
     "country": "Poland",
     "city": "Stary Slavakcinek",
-    "title": "Stork nest, Stary Slavatsineke Live Cam"
+    "title": "Stork nest, Stary Slavatsineke Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/slawacinek-stary-storks/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/v_ymy4AfR8E",
@@ -149,7 +167,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/swinoujscie-plaza-beach-cam-webcamtaxi/thumbnail/968x545/poland-west-pomeranian-swinoujscie-beach.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Swinoujscie Plaza, Poland Live Cam"
+    "title": "Swinoujscie Plaza, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/swinoujscie-plaza-beach-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/teRUeHna9Ps",
@@ -157,7 +176,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-of-gdansk-cam-webcamtaxi/thumbnail/968x545/poland-pomeranian-port-of-gdansk.webp",
     "country": "Poland",
     "city": "Pomeranian",
-    "title": "Port of Gdańsk, Poland Live Cam"
+    "title": "Port of Gdańsk, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-of-gdansk-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/rwmzbhUAsvw",
@@ -165,7 +185,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gniezno-town-square-cam-webcamtaxi/thumbnail/968x545/poland-greater-poland-gniezno-town-square.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Gniezno Town Square, Poland Live Cam"
+    "title": "Gniezno Town Square, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gniezno-town-square-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/rNfUDtskS3A",
@@ -173,7 +194,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/solina-dam-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Subcarpathian Voivodeship",
-    "title": "Solina Gondola, Poland Live Cam"
+    "title": "Solina Gondola, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/solina-dam-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/n3q_cnkHxkQ",
@@ -181,7 +203,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krotoszyn-town-square-cam-webcamtaxi/thumbnail/968x545/poland-greater-poland-krotoszyn-town-square.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Krotoszyn Town Square, Poland Live Cam"
+    "title": "Krotoszyn Town Square, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krotoszyn-town-square-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/qcjSvItyxnY",
@@ -189,7 +212,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/warsaw-city-webcamtaxi/thumbnail/968x545/poland-mazovia-warsaw-city.webp",
     "country": "Poland",
     "city": "Mazovia",
-    "title": "Warsaw City, Poland Live Cam"
+    "title": "Warsaw City, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/warsaw-city-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/klhoB4IxoFI",
@@ -197,7 +221,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-lastadia-office-bulwary-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Lastadia Office, Szczecin Live Cam"
+    "title": "Lastadia Office, Szczecin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-lastadia-office-bulwary-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lDeRjlOHVMA",
@@ -205,7 +230,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/jaworzno-market-square-webcamtaxi/thumbnail/968x545/poland-silesian-jaworzno-market-square.webp",
     "country": "Poland",
     "city": "Silesian",
-    "title": "Market Square Jaworzno, Poland Live Cam"
+    "title": "Market Square Jaworzno, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/jaworzno-market-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jgnDCb5RNUM",
@@ -213,7 +239,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gdynia-marina-cam-webcamtaxi/thumbnail/968x545/poland-pomeranian-gdynia-marina.webp",
     "country": "Poland",
     "city": "Pomeranian",
-    "title": "Gdynia Marina, Pomeranian Live Cam"
+    "title": "Gdynia Marina, Pomeranian Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gdynia-marina-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jFjun_RJ36A",
@@ -221,7 +248,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pogrzybowo-reservoir-cam-webcamtaxi/thumbnail/968x545/poland-greater-poland-pogrzybowo-reservoir.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Reservoir, Raszków Live Cam"
+    "title": "Reservoir, Raszków Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pogrzybowo-reservoir-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/fKJB8EaRmA0",
@@ -229,7 +257,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wolsztyn-town-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Wolsztyn Town Live Cam"
+    "title": "Wolsztyn Town Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wolsztyn-town-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/cwuXZfDeqHQ",
@@ -237,7 +266,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kudowazdroj-spaparkzdrojowy-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Lower Silesian",
-    "title": "Park Zdrojowy, Kudowa-Zdroj Live Cam"
+    "title": "Park Zdrojowy, Kudowa-Zdroj Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kudowazdroj-spaparkzdrojowy-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/bbHcCBSPZEU",
@@ -245,7 +275,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/michalkow-airport-cam-webcamtaxi/thumbnail/968x545/poland-greater-poland-michalkow-airport.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Michałków Airport, Poland Live Cam"
+    "title": "Michałków Airport, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/michalkow-airport-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Z_L6IvA1c8E",
@@ -253,7 +284,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/fountain-wolsztyn-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Fountain, Wolsztyn Live Cam"
+    "title": "Fountain, Wolsztyn Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/fountain-wolsztyn-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Z4SYuH1mI3I",
@@ -261,7 +293,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/dziwnow-beach-cam-webcamtaxi/thumbnail/968x545/poland-west-pomeranian-dziwnow-beach-cam.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Dziwnów Beach, Poland Live Cam"
+    "title": "Dziwnów Beach, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/dziwnow-beach-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/UT9gqfQquis",
@@ -269,7 +302,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krakow-main-square-webcamtaxi/thumbnail/968x545/poland-lesser-poland-krakow-main-square.webp",
     "country": "Poland",
     "city": "Lesser Poland",
-    "title": "Rynek Główny Square Live Cam"
+    "title": "Rynek Główny Square Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krakow-main-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/TSmr95p5fuo",
@@ -277,7 +311,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/torun-sanctuary-of-our-lady-st-john-paul-ii-webcamtaxi/thumbnail/968x545/poland-kuyavian-pomeranian-torun-sanctuary-of-our-lady-st-john-paul-2.webp",
     "country": "Poland",
     "city": "Kuyavian-Pomeranian",
-    "title": "Sanctuary of Our Lady, Torun Live Cam"
+    "title": "Sanctuary of Our Lady, Torun Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/torun-sanctuary-of-our-lady-st-john-paul-ii-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/TEcck9loT5g",
@@ -285,7 +320,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/locomotive-wolsztyn-webcamtaxi/thumbnail/968x545/poland-greater-poland-locomotive-wolsztyn.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Locomotive, Wolsztyn Live Cam"
+    "title": "Locomotive, Wolsztyn Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/locomotive-wolsztyn-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/S2L-hzuRX0g",
@@ -293,7 +329,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ostrow-wielkopolski-raszkowska-street-webcamtaxi/thumbnail/968x545/poland-greater-poland-ostrow-wielkopolski-raszkowska-street.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Raszkowska St., Poland Live Cam"
+    "title": "Raszkowska St., Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ostrow-wielkopolski-raszkowska-street-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/OqRAZxPVtl8",
@@ -301,7 +338,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/napiwodzko-ramucka-ospreys/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Szczytno County",
-    "title": "Osprey nest, Napiwodzko-Ramucka Forest Live Cam"
+    "title": "Osprey nest, Napiwodzko-Ramucka Forest Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/napiwodzko-ramucka-ospreys/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/NEG2TGiiEVc",
@@ -309,7 +347,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sokulka/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Sokolka",
-    "title": "Crossroads, Sokolka Live Cam"
+    "title": "Crossroads, Sokolka Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sokulka/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/KcZ8s3laetI",
@@ -317,7 +356,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wolsztyn-steam-locomotive-turntable-webcamtaxi/thumbnail/968x545/poland-greater-poland-steam-locomotive-shed.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Locomotive Turntable, Wolsztyn Live Cam"
+    "title": "Locomotive Turntable, Wolsztyn Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wolsztyn-steam-locomotive-turntable-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Hgdb_vvKMKA",
@@ -325,7 +365,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/jakubowice-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Opole Voivodeship",
-    "title": "Jakubowice, Poland Live Cam"
+    "title": "Jakubowice, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/jakubowice-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/HF2KNktW0ho",
@@ -333,7 +374,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-waly-chrobrego-cam-webcamtaxi/thumbnail/968x545/poland-west-pomeranian-szczecin-waly-chrobrego.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Wały Chrobrego, Szczecin Live Cam"
+    "title": "Wały Chrobrego, Szczecin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-waly-chrobrego-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Da826rWzWPM",
@@ -341,7 +383,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/radom-city-cam-webcamtaxi/thumbnail/968x545/poland-masovia-radom-city.webp",
     "country": "Poland",
     "city": "Mazovia",
-    "title": "Radom, city view, Poland Live Cam"
+    "title": "Radom, city view, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/radom-city-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Cjh1zPWaq2s",
@@ -349,7 +392,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-traffic-cam-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Szczecin Traffic, West Pomeranian Live Cam"
+    "title": "Szczecin Traffic, West Pomeranian Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-traffic-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/B3-tGfEnQ4I",
@@ -357,7 +401,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gdynia-seaside-boulevard-webcamtaxi/thumbnail/968x545/poland-pomeranian-seaside-boulevard-gdynia.webp",
     "country": "Poland",
     "city": "Pomeranian",
-    "title": "Seaside Boulevard, Gdynia Live Cam"
+    "title": "Seaside Boulevard, Gdynia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gdynia-seaside-boulevard-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/9fSv4SmNps4",
@@ -365,7 +410,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wolin-miedzyzdroje-webcamtaxi/thumbnail/968x545/poland-west-pomeranian-miedzyzdroje-beach.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Międzyzdroje, Wolin Live Cam"
+    "title": "Międzyzdroje, Wolin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wolin-miedzyzdroje-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/8TXj6ZFQslY",
@@ -373,7 +419,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/warsaw-city-centre-webcamtaxi/thumbnail/968x545/poland-warsaw-city-view.webp",
     "country": "Poland",
     "city": "Mazovia",
-    "title": "Warsaw City, Mazovia Live Cam"
+    "title": "Warsaw City, Mazovia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/warsaw-city-centre-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/8GOLlUZMGsk",
@@ -381,7 +428,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kudowa-zdroj-musicalgarden-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "Lower Silesian",
-    "title": "Park Muzyczny, Kudowa-Zdrój Live Cam"
+    "title": "Park Muzyczny, Kudowa-Zdrój Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kudowa-zdroj-musicalgarden-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/53zYL--RGsM",
@@ -389,7 +437,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/papal-altar-stary-sacz-cam-webcamtaxi/thumbnail/968x545/poland-lesser-poland-papa-alta-stary.webp",
     "country": "Poland",
     "city": "Lesser Poland",
-    "title": "Papal Altar Stary Sącz, Poland Live Cam"
+    "title": "Papal Altar Stary Sącz, Poland Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/papal-altar-stary-sacz-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/6rh8kTAcd0w",
@@ -397,7 +446,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-northeast-marina-cam-lasztownia-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Poland",
     "city": "West Pomeranian",
-    "title": "Łasztownia & Marina, Szczecin Live Cam"
+    "title": "Łasztownia & Marina, Szczecin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/szczecin-northeast-marina-cam-lasztownia-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/3rbkIKJVKWg",
@@ -405,6 +455,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wolsztyn-town-square-webcamtaxi/thumbnail/968x545/poland-greater-poland-wolsztyn-town-square.webp",
     "country": "Poland",
     "city": "Greater Poland",
-    "title": "Wolsztyn Town Square Live Cam"
+    "title": "Wolsztyn Town Square Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wolsztyn-town-square-webcamtaxi/thumbnail"
   }
 ]

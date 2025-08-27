@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/china/taipa-esparteiro-garden/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/ffUznsd-pxU",
+    "contentUrl": "https://www.youtube.com/watch?v=ffUznsd-pxU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taipa-esparteiro-garden-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taipa-esparteiro-garden-webcamtaxi/thumbnail",
+    "country": "China",
+    "city": "Macau",
+    "title": "Esparteiro Garden, Macau Live Cam",
+    "coordinates": {
+      "lat": "22.152383077409514",
+      "lng": "113.5588093059475"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/china/largo-do-senado-square/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/ctYalRx7kY4",
+    "contentUrl": "https://www.youtube.com/watch?v=ctYalRx7kY4",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/largo-do-senado-square-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/largo-do-senado-square-webcamtaxi/thumbnail",
+    "country": "China",
+    "city": "Macau",
+    "title": "Senado Square, Macau Live Cam",
+    "coordinates": {
+      "lat": "22.193421652374525",
+      "lng": "113.53747801494524"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/china/giant-panda-gengda-valley/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/DP9hbJmwbNU",
+    "contentUrl": "https://www.youtube.com/watch?v=DP9hbJmwbNU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/giant-panda-gengda-valley-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/giant-panda-gengda-valley-webcamtaxi/thumbnail",
+    "country": "China",
+    "city": "Sichuan Province",
+    "title": "Giant Panda, Gengda Valley Live Cam",
+    "coordinates": {
+      "lat": "30.5000001",
+      "lng": "102.4999999"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/china/city-skyline-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/BsmrfVyD_SU",
+    "contentUrl": "https://www.youtube.com/watch?v=BsmrfVyD_SU",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/city-skyline-cam-webcamtaxi/thumbnail/968x545/china-hong-kong-city-skyline.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/city-skyline-cam-webcamtaxi/thumbnail",
+    "country": "China",
+    "city": "Hong Kong",
+    "title": "Hong Kong Skyline Cam Live Cam",
+    "coordinates": {
+      "lat": "22.2861944",
+      "lng": "114.18983329999999"
+    }
+  }
+]

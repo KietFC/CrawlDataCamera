@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pula-forum-square-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Forum Square, Pula Live Cam"
+    "title": "Forum Square, Pula Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pula-forum-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/xlQ-4uCIYYA",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krapanj-cam-webcamtaxi/thumbnail/968x545/croatia-sibenik-knin-krapanj.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Krapanj, Croatia Live Cam"
+    "title": "Krapanj, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krapanj-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/xAChginB0AY",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/vodice-cam-webcamtaxi/thumbnail/968x545/croatia-sibenink-knin-vodice.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Vodice embankment, Croatia Live Cam"
+    "title": "Vodice embankment, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/vodice-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/wBVq_Qoegmo?autoplay=1",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/hvar/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Hvar",
-    "title": "Hvar, Croatia Live Cam"
+    "title": "Hvar, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/hvar/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/vlWrUEXVmYw",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/brodarica-rezaliste-beach-cam-webcamtaxi/thumbnail/968x545/croatia-sibenik-knin-beach-brodarica.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Brodarica beach, Croatia Live Cam"
+    "title": "Brodarica beach, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/brodarica-rezaliste-beach-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/vWdEy1J0BuM",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/malinska-marina-webcamtaxi/thumbnail/968x545/croatia-Primorje-Gorski-Kotar-Malinska.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Malinska Marina Live Cam"
+    "title": "Malinska Marina Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/malinska-marina-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/tqi5EP3MLnE",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/punat-krk-island-webcamtaxi/thumbnail/968x545/croatia-Primorje-Gorski-Kotar-Punat.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Punat, Krk Island Live Cam"
+    "title": "Punat, Krk Island Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/punat-krk-island-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ssVUJkeOv8g",
@@ -61,7 +68,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/slunj-centre-cam-webcamtaxi/thumbnail/968x545/croatia-krovac-slunj-center.webp",
     "country": "Croatia",
     "city": "Karlovac County",
-    "title": "Slunj, city center, Croatia Live Cam"
+    "title": "Slunj, city center, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/slunj-centre-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/r3AJVH8GT1E",
@@ -69,7 +77,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/veli-zal-beach-losinj-webcamtaxi/thumbnail/968x545/croatia-Primorje-Gorski-Kotar-veli-zal.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Veli Žal Beach, Lošinj Live Cam"
+    "title": "Veli Žal Beach, Lošinj Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/veli-zal-beach-losinj-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/o_McyQvLDwg",
@@ -77,7 +86,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krnicki-porat-cam-webcamtaxi/thumbnail/968x545/croatia-istria-krnicki-porat.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Krnicki Porat, Croatia Live Cam"
+    "title": "Krnicki Porat, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krnicki-porat-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/k7aDw33TNSo",
@@ -85,7 +95,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/marina-in-pula-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Marina in Pula Live Cam"
+    "title": "Marina in Pula Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/marina-in-pula-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ia-XIS85WUc",
@@ -93,7 +104,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bol-seafront-webcamtaxi/thumbnail/968x545/croatia-Split-Dalmatia-webcam-bol2.webp",
     "country": "Croatia",
     "city": "Split-Dalmatia County",
-    "title": "Bol embankment, Croatia Live Cam"
+    "title": "Bol embankment, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bol-seafront-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jLxifjxSj28",
@@ -101,7 +113,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tehnomont-marina-veruda-webcamtaxi/thumbnail/968x545/croatia-pula-marina-veruda2.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Tehnomont Marina Veruda Live Cam"
+    "title": "Tehnomont Marina Veruda Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tehnomont-marina-veruda-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jYbnFBtXj5U",
@@ -109,7 +122,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/split-marina-webcamtaxi/thumbnail/968x545/croatia-split-dalmatia-split-marina.webp",
     "country": "Croatia",
     "city": "Split-Dalmatia County",
-    "title": "Split Marina Live Cam"
+    "title": "Split Marina Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/split-marina-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/iSbn8x3IUhs",
@@ -117,7 +131,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rogoznica-village-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Rogoznica Village, Šibenik-Knin Live Cam"
+    "title": "Rogoznica Village, Šibenik-Knin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rogoznica-village-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/XbG_f1jbZ8o",
@@ -125,7 +140,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/prvic-sepurine-port-cam-webcamtaxi/thumbnail/968x545/croatia-sibenik-knin-marina-prvic-sepurine.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Prvić Šepurine, Croatia Live Cam"
+    "title": "Prvić Šepurine, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/prvic-sepurine-port-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/S6fIbklXIFo",
@@ -133,7 +149,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/belisce-town-webcamtaxi/thumbnail/968x545/croatia-osijek-baranja-belisce-town.webp",
     "country": "Croatia",
     "city": "Osijek-Baranja",
-    "title": "Belišće Town, Croatia Live Cam"
+    "title": "Belišće Town, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/belisce-town-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/SQsEhqJ2iiE",
@@ -141,7 +158,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/zirje-muna-bay-cam-webcamtaxi/thumbnail/968x545/croatia-sibenik-knin-zirge.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Uvala Muna, Žirje Live Cam"
+    "title": "Uvala Muna, Žirje Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/zirje-muna-bay-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Orn53faAS7M",
@@ -149,7 +167,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/pirovac-marina-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Pirovac Marina Live Cam"
+    "title": "Pirovac Marina Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/pirovac-marina-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/MMdHyT6iX6c",
@@ -157,7 +176,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/primosten-cam-webcamtaxi/thumbnail/968x545/croatia-sibenik-klinn-primosten.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Primosten, Croatia Live Cam"
+    "title": "Primosten, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/primosten-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Nwy3KdIK6Fo",
@@ -165,7 +185,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-of-split-webcamtaxi/thumbnail/968x545/croatia-split-dalmatia-split-port.webp",
     "country": "Croatia",
     "city": "Split-Dalmatia",
-    "title": "Port of Split, Split-Dalmatia Live Cam"
+    "title": "Port of Split, Split-Dalmatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-of-split-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/M-nxv2EQGiM",
@@ -173,7 +194,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/camp-bijar-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Camp Bijar Live Cam"
+    "title": "Camp Bijar Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/camp-bijar-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/M-Fly11YFA4",
@@ -181,7 +203,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/silo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Šilo Live Cam"
+    "title": "Šilo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/silo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/LWj9B9sPuzM",
@@ -189,7 +212,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-st-fuska-cam-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-port-st-fuska.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar",
-    "title": "Port St. Fuska, Krk, Croatia Live Cam"
+    "title": "Port St. Fuska, Krk, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-st-fuska-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/JDPTrhL3Ohg",
@@ -197,7 +221,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/narodni-trg-square-webcamtaxi/thumbnail/968x545/croatia-istria-Vodnjan.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Narodni Trg Square Live Cam"
+    "title": "Narodni Trg Square Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/narodni-trg-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/9y08mv7Q3wo",
@@ -205,7 +230,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/losinj-cikat-lanterna-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-lanterna-mali.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Lanterna, Mali Lošinj Live Cam"
+    "title": "Lanterna, Mali Lošinj Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/losinj-cikat-lanterna-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/8_oxQplx7Xg",
@@ -213,7 +239,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/crveni-vrh-webcamtaxi/thumbnail/968x545/croatia-istria-Crveni-Vrh.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Crveni Vrh, Croatia Live Cam"
+    "title": "Crveni Vrh, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/crveni-vrh-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/7YlxIx7TB7I",
@@ -221,7 +248,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/malinska-harbour-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Malinska Harbour Live Cam"
+    "title": "Malinska Harbour Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/malinska-harbour-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/22mnjObqizU",
@@ -229,7 +257,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kamenjak-uvala-polje-bay-cam-webcamtaxi/thumbnail/968x545/croatia-istria-kamenjak-uvala-polje-bay.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Kamenjak Polje Bay, Croatia Live Cam"
+    "title": "Kamenjak Polje Bay, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kamenjak-uvala-polje-bay-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/6dL9u0X2cQ8",
@@ -237,7 +266,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/camp-baldarin-punta-kriza-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-camp-baldarin-nerezine.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Camp Baldarin, Punta Križa Live Cam"
+    "title": "Camp Baldarin, Punta Križa Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/camp-baldarin-punta-kriza-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/0f4sMbJyUDU",
@@ -245,7 +275,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kaprije-cam-webcamtaxi/thumbnail/968x545/croatia-sibenik-knin-kaprije.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Kaprije Marina, Croatia Live Cam"
+    "title": "Kaprije Marina, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kaprije-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/1CYRZ1IBGkM",
@@ -253,7 +284,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/barban-town-cam-webcamtaxi/thumbnail/968x545/croatia-istria-barban-cam.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Barban, city view, Croatia Live Cam"
+    "title": "Barban, city view, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/barban-town-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/j4WsiYr26zY",
@@ -261,7 +293,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lifeclass-terme-sveti-martin-webcamtaxi/thumbnail/968x545/croatia-Medimurje-County-lifeclass-term.webp",
     "country": "Croatia",
     "city": "Međimurje County",
-    "title": "LifeClass Terme Sveti Martin Live Cam"
+    "title": "LifeClass Terme Sveti Martin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lifeclass-terme-sveti-martin-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/gQSAW2S6MuI",
@@ -269,7 +302,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krk-marina-silo-cam-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-krk-marina-silo.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar",
-    "title": "Šilo marina, Croatia Live Cam"
+    "title": "Šilo marina, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krk-marina-silo-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jfAP3WNPpg4",
@@ -277,7 +311,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krk-klimno-port-cam-webcamtaxi/thumbnail/968x545/croatia-primorje-klimno-island-krk.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar",
-    "title": "Klimno port, Croatia Live Cam"
+    "title": "Klimno port, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krk-klimno-port-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/vbdGe9l_5IU",
@@ -285,7 +320,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bakar-bay-cam-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-bakar.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Bakar bay, Croatia Live Cam"
+    "title": "Bakar bay, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bakar-bay-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/fv0T6Gjy3Eg",
@@ -293,7 +329,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ante-starcevic-square-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Osijek-Baranja",
-    "title": "Ante Starčević Square Live Cam"
+    "title": "Ante Starčević Square Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ante-starcevic-square-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/dp35ig7ZOZY",
@@ -301,7 +338,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bol-marina-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Split-Dalmatia County",
-    "title": "Bol Marina, Croatia Live Cam"
+    "title": "Bol Marina, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bol-marina-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/d_RwZeC6ZG0",
@@ -309,7 +347,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/podgora-underwater-cam-webcamtaxi/thumbnail/968x545/croatia-split-dalmatia-underwater-podgora.webp",
     "country": "Croatia",
     "city": "Split-Dalmatia",
-    "title": "Underwater view, Podgora Live Cam"
+    "title": "Underwater view, Podgora Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/podgora-underwater-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Yh9oHl1hiZ8",
@@ -317,7 +356,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/slatina-beach-martinscica-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-slatina-beach-martinscica.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Slatina Beach, Martinšćica Live Cam"
+    "title": "Slatina Beach, Martinšćica Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/slatina-beach-martinscica-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/VG1ww9vVPsk",
@@ -325,7 +365,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bol/thumbnail/968x545/bol-.webp",
     "country": "Croatia",
     "city": "Bol",
-    "title": "Bol, Croatia Live Cam"
+    "title": "Bol, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bol/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/R8k6ahfRpYM",
@@ -333,7 +374,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/njivice-sea-view-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-njivice.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar",
-    "title": "Njivice Sea View, Croatia Live Cam"
+    "title": "Njivice Sea View, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/njivice-sea-view-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/QgPqIA-pzCw",
@@ -341,7 +383,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krk-island-palada-baska-cam-webcamtaxi/thumbnail/968x545/croatia-primorje-gorsky-palada-baska.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar",
-    "title": "Palada Baska, Krk Island Live Cam"
+    "title": "Palada Baska, Krk Island Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krk-island-palada-baska-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/O8_8C_7R1QY",
@@ -349,7 +392,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bol-brac/thumbnail/968x545/maxresdefault.webp",
     "country": "Croatia",
     "city": "Bol",
-    "title": "Bol Harbour Live Cam"
+    "title": "Bol Harbour Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bol-brac/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/OX-Cwpo4Btc",
@@ -357,7 +401,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/krk-porat-hotelmargaret-webcamtaxi/thumbnail/968x545/croatia-primorje-gorski-kotar-hotel-villa-margaret-porat.webp",
     "country": "Croatia",
     "city": "Primorje-Gorski Kotar County",
-    "title": "Hotel Villa Margaret, Porat Live Cam"
+    "title": "Hotel Villa Margaret, Porat Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/krk-porat-hotelmargaret-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/KMN1Yqya0ko",
@@ -365,7 +410,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/rabac-town-cam-webcamtaxi/thumbnail/968x545/croatia-istria-rabac-town.webp",
     "country": "Croatia",
     "city": "Istria",
-    "title": "Rabac embankment, Croatia Live Cam"
+    "title": "Rabac embankment, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/rabac-town-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/4FjNAd5ONmo",
@@ -373,7 +419,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/milna-cam-webcamtaxi/thumbnail/968x545/croatia-split-dalmatia-milna.webp",
     "country": "Croatia",
     "city": "Split-Dalmatia",
-    "title": "Milna, Brač, Croatia Live Cam"
+    "title": "Milna, Brač, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/milna-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/JHKyhIsOkRw",
@@ -381,6 +428,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sibenik-city-panorama-webcamtaxi/thumbnail/968x545/croatia-sibenik-klinn-panorama.webp",
     "country": "Croatia",
     "city": "Šibenik-Knin",
-    "title": "Šibenik City Panorama, Croatia Live Cam"
+    "title": "Šibenik City Panorama, Croatia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sibenik-city-panorama-webcamtaxi/thumbnail"
   }
 ]

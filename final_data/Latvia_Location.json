@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/latvia/accipiter-gentilis/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/Culkof-YIcw",
+    "contentUrl": "https://www.youtube.com/watch?v=Culkof-YIcw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/accipiter-gentilis/thumbnail/968x545/maxresdefault.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/accipiter-gentilis/thumbnail",
+    "country": "Latvia",
+    "city": "Riga",
+    "title": "Goshawk Nests, Riga, Latvia Live Cam",
+    "coordinates": {
+      "lat": "56.9493977",
+      "lng": "24.1051846"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/latvia/riga-zoo-lions-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/-T1fw0_tKkM",
+    "contentUrl": "https://www.youtube.com/watch?v=-T1fw0_tKkM",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/riga-zoo-lions-cam-webcamtaxi/thumbnail/968x545/latvia-riga-zoo-lions.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/riga-zoo-lions-cam-webcamtaxi/thumbnail",
+    "country": "Latvia",
+    "city": "Riga",
+    "title": "Lions, Riga National Zoological Garden Live Cam",
+    "coordinates": {
+      "lat": "57.00765490198002",
+      "lng": "24.160989315848862"
+    }
+  }
+]

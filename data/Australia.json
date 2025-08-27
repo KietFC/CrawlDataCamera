@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-hydepark-cam-webcamtaxi/thumbnail/968x545/australia-sidney-hyde-park.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Hyde Park, Sydney Live Cam"
+    "title": "Hyde Park, Sydney Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-hydepark-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/tHOE9qXV0bs",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/thredbo-friday-flatcam-webcamtaxi/thumbnail/968x545/autralia-new-south-whales-friday-flat-thredbo.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Friday Flat, Thredbo Live Cam"
+    "title": "Friday Flat, Thredbo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/thredbo-friday-flatcam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/sYRKXJtb4vs",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7366-the-fox-live-uastreaming/thumbnail/968x545/7366_1692112649_hflbvtdlwdshbkoucidlbaurxlitxgednilvxvbh.webp",
     "country": "Australia",
     "city": "Mount Buller",
-    "title": "Ski resort, view 3, Mount Buller Live Cam"
+    "title": "Ski resort, view 3, Mount Buller Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7366-the-fox-live-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/sWWCy2WCjRA",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7379-sydney-harbour-bridge-and-opera-house-live-camera-static-webcam-live-stream-uastreaming/thumbnail/968x545/7379_1692114427_faqneacdwyycsvdcpzmgjessdbyhzzqoesuszcxc.webp",
     "country": "Australia",
     "city": "Sydney",
-    "title": "Sydney Harbour Bridge, Sydney Opera House Live Cam"
+    "title": "Sydney Harbour Bridge, Sydney Opera House Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7379-sydney-harbour-bridge-and-opera-house-live-camera-static-webcam-live-stream-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/oD6ywmB6NIs",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/dingo-habitat-webcamtaxi/thumbnail/968x545/australia-queensland-dingo.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Dingo Habitat, South Australia Live Cam"
+    "title": "Dingo Habitat, South Australia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/dingo-habitat-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lscq2xbDahQ",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/geelong-floatingchristmastree-webcamtaxi/thumbnail/968x545/autralia-victoria-geelongs-floating-christmas-tree.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Floating Christmas Tree, Geelong Live Cam"
+    "title": "Floating Christmas Tree, Geelong Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/geelong-floatingchristmastree-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/hPC2RwLME5c",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-capybara-cam-tarongazoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Capybara, Taronga Zoo Sydney Live Cam"
+    "title": "Capybara, Taronga Zoo Sydney Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-capybara-cam-tarongazoo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/hNexlUkTTuc",
@@ -61,7 +68,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/melbourne-zoo-giraffes-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Giraffes, Melbourne Zoo Live Cam"
+    "title": "Giraffes, Melbourne Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/melbourne-zoo-giraffes-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/gDu8OEKGaDk",
@@ -69,7 +77,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7341-bonny-hills-beach-house-beachcam-live-stream-uastreaming/thumbnail/968x545/7341_1692114231_zfoszhwifdjbfqecauvphoszgwpsuspdrhpgzoiz.webp",
     "country": "Australia",
     "city": "Bonny Hills",
-    "title": "Bonny Hills Beach House Live Cam"
+    "title": "Bonny Hills Beach House Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7341-bonny-hills-beach-house-beachcam-live-stream-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ZG1ZqsD_288",
@@ -77,7 +86,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7390-south-yarra-station-webcam-uastreaming/thumbnail/968x545/7390_1692151321_wohxnvrgyvwuzmtocsftvzywrjenlyjdconwwqut.webp",
     "country": "Australia",
     "city": "Melbourne",
-    "title": "South Yarra Station Live Cam"
+    "title": "South Yarra Station Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7390-south-yarra-station-webcam-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/XsKKAI7oXqw",
@@ -85,7 +95,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7382-live-webcam-uastreaming/thumbnail/968x545/7382_1692113213_fdzhjbpkaffscupdmndmgdwmzwoaojbgoxcquxhv.webp",
     "country": "Australia",
     "city": "Melbourne",
-    "title": "Mount Martha Yacht Club Live Cam"
+    "title": "Mount Martha Yacht Club Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7382-live-webcam-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/RrMQ17zrPrQ",
@@ -93,7 +104,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-elephants-tarongazoo-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Elephant, Taronga Zoo Sydney Live Cam"
+    "title": "Elephant, Taronga Zoo Sydney Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-elephants-tarongazoo-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/MhGOSHFUj-M",
@@ -101,7 +113,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7369-little-buller-spur-live-uastreaming/thumbnail/968x545/7369_1692113552_mvdvwjiugtrwkqmeuyypcfnqookvlkxtmwuiutsg.webp",
     "country": "Australia",
     "city": "Mount Buller",
-    "title": "Little Mount Buller, Mount Buller Live Cam"
+    "title": "Little Mount Buller, Mount Buller Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7369-little-buller-spur-live-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/G3of1c5EbGs",
@@ -109,7 +122,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7466-port-of-newcastle-live-stream-uastreaming/thumbnail/968x545/7466_1692112858_noqkljnlhmpqjmbfksvvuowpukkjjpdlacdqpbwv.webp",
     "country": "Australia",
     "city": "Newcastle",
-    "title": "Newcastle Harbour, New South Wales Live Cam"
+    "title": "Newcastle Harbour, New South Wales Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7466-port-of-newcastle-live-stream-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/EYzKasnphEs",
@@ -117,7 +131,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lone-pine-koala-sanctuary-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Lone Pine Koala Sanctuary Live Cam"
+    "title": "Lone Pine Koala Sanctuary Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lone-pine-koala-sanctuary-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/-OHlM7FrKtk",
@@ -125,7 +140,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7360-savannah-cam-giraffes-zebras-at-taronga-zoo-uastreaming/thumbnail/968x545/7360_1692113818_wxgjmyjfwbaszwdtewvqemjsytqdddiaptiizncl.webp",
     "country": "Australia",
     "city": "Mugs",
-    "title": "Giraffes & Zebras, Taronga Zoo Sydney Live Cam"
+    "title": "Giraffes & Zebras, Taronga Zoo Sydney Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7360-savannah-cam-giraffes-zebras-at-taronga-zoo-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/-9KwCb3TJzU",
@@ -133,7 +149,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7325-sidnejskaa-buhta-this-is-sydney-harbour-australia-uastreaming/thumbnail/968x545/7325_1692114753_qjggxxnmrdfvjxbriuxyuhgomxanzivteatmulje.webp",
     "country": "Australia",
     "city": "Sydney",
-    "title": "Sydney Harbour, New South Wales Live Cam"
+    "title": "Sydney Harbour, New South Wales Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7325-sidnejskaa-buhta-this-is-sydney-harbour-australia-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/yv2RtoIMNzA?autoplay=1",
@@ -141,7 +158,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/peregrine-falcons/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Orange",
-    "title": "Peregrine falcon nest, Orange Live Cam"
+    "title": "Peregrine falcon nest, Orange Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/peregrine-falcons/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/yr09mo1sbq0",
@@ -149,7 +167,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7388-blue-cow-live-camera-uastreaming/thumbnail/968x545/7388_1692112400_pbdznlxwdplsksvxrcupyzvmddltwilydtuzvehg.webp",
     "country": "Australia",
     "city": "Perisher",
-    "title": "Blue Cow, Guthega Ski Resort Live Cam"
+    "title": "Blue Cow, Guthega Ski Resort Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7388-blue-cow-live-camera-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/uakxJIafWcw",
@@ -157,7 +176,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/st-john-god-mt-lawley-hospital-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "St John of God Mt Lawley Hospital Live Cam"
+    "title": "St John of God Mt Lawley Hospital Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/st-john-god-mt-lawley-hospital-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/tbQPUvUifEc",
@@ -165,7 +185,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-of-newcastle-cam-webcamtaxi/thumbnail/968x545/australia-new-south-wales-port-newcastle.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Port of Newcastle, Australia Live Cam"
+    "title": "Port of Newcastle, Australia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-of-newcastle-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/l_8DrACHpwY",
@@ -173,7 +194,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/skyline-webcamtaxi/thumbnail/968x545/australia-melbourne-apartment-view.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Melbourne Skyline Live Cam"
+    "title": "Melbourne Skyline Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/skyline-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/knY-8mJ8_8U",
@@ -181,7 +203,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/southyarra-railwaystation-webcamtaxi/thumbnail/968x545/australia-victoria-south-yarra-station.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "South Yarra Train Station, VIC Live Cam"
+    "title": "South Yarra Train Station, VIC Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/southyarra-railwaystation-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/jshwkG1ZpP8",
@@ -189,7 +212,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-bridge-webcamtaxi/thumbnail/968x545/australia-sydneyaaaa.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Sydney Harbour Bridge Live Cam"
+    "title": "Sydney Harbour Bridge Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-bridge-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/iLkCJMKZ3Bw",
@@ -197,7 +221,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bonnyhills-beachhouse-webcamtaxi/thumbnail/968x545/autralia-new-south-whales-bonny-hills-beach-house.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Bonny Hills Beach House Live Cam"
+    "title": "Bonny Hills Beach House Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bonnyhills-beachhouse-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/gTz_7tKUfYM",
@@ -205,7 +230,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/werribee-open-range-zoo-lions-webcamtaxi/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Lions, Werribee Open Range Zoo Live Cam"
+    "title": "Lions, Werribee Open Range Zoo Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/werribee-open-range-zoo-lions-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/fq9xCiOeMj8",
@@ -213,7 +239,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-panorama-webcamtaxi/thumbnail/968x545/australia-new-south-whales-sydney-panorama.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Sydney Panorama Live Cam"
+    "title": "Sydney Panorama Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sydney-panorama-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/YIXDnrSl9EE?autoplay=1",
@@ -221,7 +248,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/falconcam-ledge/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Orange",
-    "title": "Peregrine falcon nest inside, Orange Live Cam"
+    "title": "Peregrine falcon nest inside, Orange Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/falconcam-ledge/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Y85osMjHoEY",
@@ -229,7 +257,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7370-standard-live-uastreaming/thumbnail/968x545/7370_1692113809_gxhbygtniojrakrhjwropfmqepvtoubkaoprnmus.webp",
     "country": "Australia",
     "city": "Mount Buller",
-    "title": "Ski resort, view 2, Mount Buller Live Cam"
+    "title": "Ski resort, view 2, Mount Buller Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7370-standard-live-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Xj1Y6ydRl1c?autoplay=1",
@@ -237,7 +266,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/falconcam/thumbnail/968x545/maxresdefault.webp",
     "country": "Australia",
     "city": "Orange",
-    "title": "Peregrine falcon nest outside, Orange Live Cam"
+    "title": "Peregrine falcon nest outside, Orange Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/falconcam/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/WMx2m-O6eug",
@@ -245,7 +275,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7368-flip-terrain-park-live-uastreaming/thumbnail/968x545/7368_1692112308_uldsmlajpoeieidxqnbaojrilvnvsxxizrlwyfab.webp",
     "country": "Australia",
     "city": "Mount Buller",
-    "title": "Ski resort, view 1, Mount Buller Live Cam"
+    "title": "Ski resort, view 1, Mount Buller Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7368-flip-terrain-park-live-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Sf-TDsCA1Bc",
@@ -253,7 +284,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/brisbane-city-cam-webcamtaxi/thumbnail/968x545/australia-queensland-brisbane-city.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Brisbane City, Australia Live Cam"
+    "title": "Brisbane City, Australia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/brisbane-city-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/EabbsMllaIc",
@@ -261,7 +293,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-townsville-truck-queue-cam-webcamtaxi/thumbnail/968x545/australia-queensland-truck-queue-port-townsvill.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Truck Queue, Port of Townsville Live Cam"
+    "title": "Truck Queue, Port of Townsville Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-townsville-truck-queue-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/DbLMSFvB2Og",
@@ -269,7 +302,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/anglesea-golf-club-cam-webcamtaxi/thumbnail/968x545/australia-victoria-anglesea-golf-club.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Anglesea Golf Club, Australia Live Cam"
+    "title": "Anglesea Golf Club, Australia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/anglesea-golf-club-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Byxe6MlCnBw",
@@ -277,7 +311,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wyndham-harbour-cam-webcamtaxi/thumbnail/968x545/australia-victoria-wyndham-harbour.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Wyndham Harbour, Australia Live Cam"
+    "title": "Wyndham Harbour, Australia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wyndham-harbour-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/5SQd6QkBbc0",
@@ -285,7 +320,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-lincoln-osprey-nest-cam-webcamtaxi/thumbnail/968x545/australia-south-australia-nest-port-lincoln.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Port Lincoln Osprey Live Cam"
+    "title": "Port Lincoln Osprey Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-lincoln-osprey-nest-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/5OA806SjSOw",
@@ -293,7 +329,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/gurdwara-sahib-glenwood-cam-webcamtaxi/thumbnail/968x545/australia-new-sout-whales-gurdwara-sahib-glenwood.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Gurdwara Sahib Glenwood, Australia Live Cam"
+    "title": "Gurdwara Sahib Glenwood, Australia Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/gurdwara-sahib-glenwood-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/0OtVlfDj2w8",
@@ -301,6 +338,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/bourke-street-ski-run-webcamtaxi/thumbnail/968x545/australia-victoria-bourke-street.webp",
     "country": "Australia",
     "city": "Australia",
-    "title": "Bourke Street Ski Run, Victoria Live Cam"
+    "title": "Bourke Street Ski Run, Victoria Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/bourke-street-ski-run-webcamtaxi/thumbnail"
   }
 ]

@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-city-panorama-webcamtaxi/thumbnail/968x545/taiwan-taipei-xiangshan-view.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Taipei City Panorama, Taiwan Live Cam"
+    "title": "Taipei City Panorama, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-city-panorama-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/yQSmajHyMhU",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/hutoushan-park-webcamtaxi/thumbnail/968x545/taiwan-Taoyuan-City-Hutoushan-Park.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Hutoushan Park Live Cam"
+    "title": "Hutoushan Park Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/hutoushan-park-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/wdjsHb_EtlY",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nanfangao-fishing-port-cam-webcamtaxi/thumbnail/968x545/taiwan-yilan-county-nanfangao-fishing-port.webp",
     "country": "Taiwan",
     "city": "Yilan County",
-    "title": "Nanfangao Fishing Port, Taiwan Live Cam"
+    "title": "Nanfangao Fishing Port, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nanfangao-fishing-port-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/wTHhv7M0vCI",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/greenisland-nanliao-fishing-harbor-cam-webcamtaxi/thumbnail/968x545/taiwan-taitung-nanliao-fishing-harbor.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Nanliao Fishing Harbor Live Cam"
+    "title": "Nanliao Fishing Harbor Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/greenisland-nanliao-fishing-harbor-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/tx07sS9lCvY",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wulai-district-webcamtaxi/thumbnail/968x545/taiwan-new-taipei-wulai-district.webp",
     "country": "Taiwan",
     "city": "New Taipei",
-    "title": "Wulai District, New Taipei Live Cam"
+    "title": "Wulai District, New Taipei Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wulai-district-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/tD_a03trUvE",
@@ -45,7 +50,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/yongan-fishing-harbour-cam-webcamtaxi/thumbnail/968x545/taiwan-taoyuan-yongan-fishing-harbor.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Yongan Fishing Harbour, Taoyuan Live Cam"
+    "title": "Yongan Fishing Harbour, Taoyuan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/yongan-fishing-harbour-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/swI0sAbG2dE",
@@ -53,7 +59,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/city-centre-webcamtaxi/thumbnail/968x545/taiwan-taipei-taipei-city-new.webp",
     "country": "Taiwan",
     "city": "New Taipei",
-    "title": "New Taipei City Live Cam"
+    "title": "New Taipei City Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/city-centre-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/rd8kzgxmUSg",
@@ -61,7 +68,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/port-warehouse-kw2-cam-webcamtaxi/thumbnail/968x545/taiwan-kaohsiung-port-warehouse-kw2.webp",
     "country": "Taiwan",
     "city": "Kaohsiung",
-    "title": "Kaohsiung KW2, Taiwan Live Cam"
+    "title": "Kaohsiung KW2, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/port-warehouse-kw2-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/q3KJt-SZc2s",
@@ -69,7 +77,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taitung-jinzun-cam-webcamtaxi/thumbnail/968x545/taiwan-taitung-county-jinzun-donghe-township.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Taitung Jinzun, Taiwan Live Cam"
+    "title": "Taitung Jinzun, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taitung-jinzun-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/pmM2CeSAx0I",
@@ -77,7 +86,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-city-street-view-webcamtaxi/thumbnail/968x545/taiwan-taipei-section-huanhe-eest-road.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Taipei City Street View Live Cam"
+    "title": "Taipei City Street View Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-city-street-view-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/pSQ0e-ZTZ5g",
@@ -85,7 +95,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/cihu-memorialsculpturepark-webcamtaxi/thumbnail/968x545/taywan-taoyuan-city-cihu-memorial-sculpture-park.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Cihu Memorial Sculpture Park Live Cam"
+    "title": "Cihu Memorial Sculpture Park Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/cihu-memorialsculpturepark-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/oFJ6gCaBb_Q",
@@ -93,7 +104,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/daxi-bridge-webcamtaxi/thumbnail/968x545/Taiwan-Taoyuan-City-daxi-bridge.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Daxi Bridge Live Cam"
+    "title": "Daxi Bridge Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/daxi-bridge-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/neaiCec1kec",
@@ -101,7 +113,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/xiao-wulai-skywalk-webcamtaxi/thumbnail/968x545/taywan-taoyuan-Xiaowulai-Skywalk.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Xiao Wulai Skywalk Live Cam"
+    "title": "Xiao Wulai Skywalk Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/xiao-wulai-skywalk-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/mXnigLvIL0Q",
@@ -109,7 +122,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/shitiping-recreation-scenic-area-webcamtaxi/thumbnail/968x545/taiwan-hualien-county-shitiping-recreation-scenic-area.webp",
     "country": "Taiwan",
     "city": "Hualien County",
-    "title": "Shitiping Recreation Area Live Cam"
+    "title": "Shitiping Recreation Area Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/shitiping-recreation-scenic-area-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lsrOYHqmJ0c",
@@ -117,7 +131,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/dongshi-fishermanswharf-cam-webcamtaxi/thumbnail/968x545/taiwan-chiayi-county-dongshi-fishermanswharf.webp",
     "country": "Taiwan",
     "city": "Chiayi County",
-    "title": "Dongshi Fisherman's Wharf, Taiwan Live Cam"
+    "title": "Dongshi Fisherman's Wharf, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/dongshi-fishermanswharf-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lhXXhDyjFtI",
@@ -125,7 +140,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/wang-gao-liao-cam-webcamtaxi/thumbnail/968x545/taiwan-taichung-wang-gao-liao.webp",
     "country": "Taiwan",
     "city": "Taichung City",
-    "title": "Taichung Wang Gao Liao Live Cam"
+    "title": "Taichung Wang Gao Liao Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/wang-gao-liao-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/ka7FV0sCvxQ",
@@ -133,7 +149,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/cijin-beach-cam-webcamtaxi/thumbnail/968x545/taiwan-kaohsiung-cijin-beach.webp",
     "country": "Taiwan",
     "city": "Kaohsiung",
-    "title": "Kaohsiung Cijin Beach, Taiwan Live Cam"
+    "title": "Kaohsiung Cijin Beach, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/cijin-beach-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/k-3zKodi2Fc",
@@ -141,7 +158,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tamsui-district-traffic-cams-webcamtaxi/thumbnail/968x545/taiwan-new-taipei-tamsui-district-traffic-cams.webp",
     "country": "Taiwan",
     "city": "New Taipei",
-    "title": "Tamsui District Traffic Cams Live Cam"
+    "title": "Tamsui District Traffic Cams Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tamsui-district-traffic-cams-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/hMYs60qtkK8",
@@ -149,7 +167,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/niupuzaipark-lovesilkroad-webcamtaxi/thumbnail/968x545/taywan-chiayi-county-highway18love-silk-road.webp",
     "country": "Taiwan",
     "city": "Chiayi County",
-    "title": "Niupuzai Park Love Silk Road, Chiayi Live Cam"
+    "title": "Niupuzai Park Love Silk Road, Chiayi Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/niupuzaipark-lovesilkroad-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/dY2cRNr5Buw",
@@ -157,7 +176,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/alishan-scenic-mountain-taiping-skybridge-webcamtaxi/thumbnail/968x545/taiwan-chiayi-county-taiping-bridge.webp",
     "country": "Taiwan",
     "city": "Chiayi County",
-    "title": "Taiping Sky Bridge, Chiayi Live Cam"
+    "title": "Taiping Sky Bridge, Chiayi Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/alishan-scenic-mountain-taiping-skybridge-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/dQ7Sd6PGLdA",
@@ -165,7 +185,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/sanxiantai-east-coast-webcamtaxi/thumbnail/968x545/taiwan-taitung-county-sanxiantai.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Sanxiantai, Taiwan Live Cam"
+    "title": "Sanxiantai, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/sanxiantai-east-coast-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/c-fsELxk5aw",
@@ -173,7 +194,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/city-riverside-webcamtaxi/thumbnail/968x545/taiwan-taipei-taipei-city.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Taipei City Riverside Live Cam"
+    "title": "Taipei City Riverside Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/city-riverside-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/aaKOV4qkDHw",
@@ -181,7 +203,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/liyu-lake-cam-webcamtaxi/thumbnail/968x545/taiwan-hualien-hualien-liyu-lake.webp",
     "country": "Taiwan",
     "city": "Hualien County",
-    "title": "Liyu Lake, Hualien Live Cam"
+    "title": "Liyu Lake, Hualien Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/liyu-lake-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/XUWjAsajKXg",
@@ -189,7 +212,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/daxi-district-olds-streets-webcamtaxi/thumbnail/968x545/taiwan-Taoyuan-City-old-streets.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Olds streets, Daxi District Live Cam"
+    "title": "Olds streets, Daxi District Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/daxi-district-olds-streets-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/UCG1aXVO8H8",
@@ -197,7 +221,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/duoliang-train-station-cam-webcamtaxi/thumbnail/968x545/taiwan-taitung-duoliang-station.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Duoliang Railway Station, Taitung Live Cam"
+    "title": "Duoliang Railway Station, Taitung Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/duoliang-train-station-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/SfPJLSMuCQE",
@@ -205,7 +230,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/metro-wenhu-line-webcamtaxi/thumbnail/968x545/taiwan-taipei-Taiwan-GeoVision-Headquarters.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Taipei Metro Wenhu Line Live Cam"
+    "title": "Taipei Metro Wenhu Line Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/metro-wenhu-line-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/RaoM-K6WRWM",
@@ -213,7 +239,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nanfangao-jinan-temple-webcamtaxi/thumbnail/968x545/taiwan-yilan-county-nanfangao-jinan-temple.webp",
     "country": "Taiwan",
     "city": "Yilan County",
-    "title": "Nanfangao Jinan Temple, Taiwan Live Cam"
+    "title": "Nanfangao Jinan Temple, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nanfangao-jinan-temple-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/PJWye36lEj4",
@@ -221,7 +248,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/xiao-wulai-scenic-area-webcamtaxi/thumbnail/968x545/taiwan-tayouan-xiao-wulai-panoramic-view.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Xiao Wulai Scenic, Taoyuan Live Cam"
+    "title": "Xiao Wulai Scenic, Taoyuan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/xiao-wulai-scenic-area-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/Ndo_8RuefH4",
@@ -229,7 +257,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-dadaocheng-wharf-webcamtaxi/thumbnail/968x545/taiwan-taipei-dadaocheng-wharf.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Taipei Dadaocheng Wharf Live Cam"
+    "title": "Taipei Dadaocheng Wharf Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-dadaocheng-wharf-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/JkoXcXI04Qk",
@@ -237,7 +266,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/dashibi-mountain-trail-webcamtaxi/thumbnail/968x545/taiwan-hualien-dashshibi-hill.webp",
     "country": "Taiwan",
     "city": "Hualien County",
-    "title": "Dashibi Hill, Taiwan Live Cam"
+    "title": "Dashibi Hill, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/dashibi-mountain-trail-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/JhQuR77AR7U",
@@ -245,7 +275,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/torik-visitor-center-webcamtaxi/thumbnail/968x545/taiwan-taitung-county-torik-visitor-center.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Torik Visitor Center Live Cam"
+    "title": "Torik Visitor Center Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/torik-visitor-center-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/HwUzhqm259g",
@@ -253,7 +284,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/matsu-nangan-airport-waiting-hall-webcamtaxi/thumbnail/968x545/taiwan-lianchiang-matsu-nangan-airport.webp",
     "country": "Taiwan",
     "city": "Lienchiang (Matsu)",
-    "title": "Nangan Airport Hall Live Cam"
+    "title": "Nangan Airport Hall Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/matsu-nangan-airport-waiting-hall-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/GUCaVR88ZFU",
@@ -261,7 +293,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/shihmen-dam-webcamtaxi/thumbnail/968x545/taiwan-Taoyuan-shihmen-damm.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Shihmen Dam Live Cam"
+    "title": "Shihmen Dam Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/shihmen-dam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/C03Itx8iSC0",
@@ -269,7 +302,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/shoushan-lovers-viewing-platform-webcamtaxi/thumbnail/968x545/taiwan-kaohsiung-shoushan-lovers.webp",
     "country": "Taiwan",
     "city": "Kaohsiung",
-    "title": "Shoushan Lovers, Taiwan Live Cam"
+    "title": "Shoushan Lovers, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/shoushan-lovers-viewing-platform-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/BnPoNatG-HE",
@@ -277,7 +311,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lotus-pond-scenic-area-webcamtaxi/thumbnail/968x545/taiwan-kaohsiung-lotus-pound.webp",
     "country": "Taiwan",
     "city": "Kaohsiung",
-    "title": "Lotus Pond Scenic Area, Taiwan Live Cam"
+    "title": "Lotus Pond Scenic Area, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lotus-pond-scenic-area-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/AKl3F6cAY2Q",
@@ -285,7 +320,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/jialulan-recreation-area-cam-webcamtaxi/thumbnail/968x545/taiwan-taitung-jialulan-recreation-area.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Jialulan Recreation, Taiwan Live Cam"
+    "title": "Jialulan Recreation, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/jialulan-recreation-area-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/A-m5fcWQ1Lg",
@@ -293,7 +329,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tamsui-ferry-pier-cam-webcamtaxi/thumbnail/968x545/taiwan-new-taipei-tamsui-ferryboat-wharf.webp",
     "country": "Taiwan",
     "city": "New Taipei",
-    "title": "Tamsui Ferry Pier, New Taipei Live Cam"
+    "title": "Tamsui Ferry Pier, New Taipei Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tamsui-ferry-pier-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/91PfFoqvuUk",
@@ -301,7 +338,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-taoyuan-airport-webcamtaxi/thumbnail/968x545/taiwan-Taoyuan-City-taipei-airport.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Taipei Taoyuan Airport Live Cam"
+    "title": "Taipei Taoyuan Airport Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-taoyuan-airport-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/7jLL1MBcwcg",
@@ -309,7 +347,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taitung-airport-terminal-cam-webcamtaxi/thumbnail/968x545/taiwan-taitung-taitung-airport.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Taitung Airport Terminal, Taiwan Live Cam"
+    "title": "Taitung Airport Terminal, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taitung-airport-terminal-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/7W5lWdGRDw8",
@@ -317,7 +356,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nanfangao-second-fishing-port-cam-webcamtaxi/thumbnail/968x545/taiwan-yilan-county-nanfangao-second-fishing-port.webp",
     "country": "Taiwan",
     "city": "Yilan County",
-    "title": "Nanfangao Second Fishing Port Live Cam"
+    "title": "Nanfangao Second Fishing Port Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nanfangao-second-fishing-port-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/6kUEK3LVrro",
@@ -325,7 +365,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/chihshang-paradise-road-cam-webcamtaxi/thumbnail/968x545/taiwan-taitung-paradise-road-chishang.webp",
     "country": "Taiwan",
     "city": "Taitung County",
-    "title": "Paradise Road, Chishang Township Live Cam"
+    "title": "Paradise Road, Chishang Township Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/chihshang-paradise-road-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/34h_Cy_n0Ok",
@@ -333,7 +374,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/jiantanshan-weifeng-observatory-webcamtaxi/thumbnail/968x545/taiwan-taipei-jiantanshan-weifeng-observatory.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Jiantanshan Weifeng, Taipei Live Cam"
+    "title": "Jiantanshan Weifeng, Taipei Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/jiantanshan-weifeng-observatory-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/34h_Cy_n0Ok",
@@ -341,7 +383,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-basin-webcamtaxi/thumbnail/968x545/taiwan-taipei-taipei-basin.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Taipei Basin Live Cam"
+    "title": "Taipei Basin Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/taipei-basin-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/rGh_RsdpxUs",
@@ -349,7 +392,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/dajia-jenn-lann-temple-webcamtaxi/thumbnail/968x545/taiwan-taichung-city-dajia-jenn-lann-temple.webp",
     "country": "Taiwan",
     "city": "Taichung City",
-    "title": "Dajia Jenn Lann Temple Live Cam"
+    "title": "Dajia Jenn Lann Temple Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/dajia-jenn-lann-temple-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/lbJUe2iu1P8",
@@ -357,7 +401,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/lehcherng-temple-webcamtaxi/thumbnail/968x545/taiwan-taichung-leh-cherng-temple.webp",
     "country": "Taiwan",
     "city": "Taichung City",
-    "title": "Leh Cherng Temple, Taichung Live Cam"
+    "title": "Leh Cherng Temple, Taichung Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/lehcherng-temple-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/g2AChrhvBYo",
@@ -365,7 +410,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/xihu-changhua-city-cam-webcamtaxi/thumbnail/968x545/taiwan-changua-county-xihu.webp",
     "country": "Taiwan",
     "city": "Changhua County",
-    "title": "Xihu Changhua, Taiwan Live Cam"
+    "title": "Xihu Changhua, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/xihu-changhua-city-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/a78b_SEN19U",
@@ -373,7 +419,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nantun-wanhe-temple-webcamtaxi/thumbnail/968x545/taiwan-taichung-city-wanhe-temple-nantun-district.webp",
     "country": "Taiwan",
     "city": "Taichung City",
-    "title": "Taichung Wanhe Temple Live Cam"
+    "title": "Taichung Wanhe Temple Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nantun-wanhe-temple-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/IpeWM2AfU-8",
@@ -381,7 +428,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/nantian-temple-webcamtaxi/thumbnail/968x545/taiwan-taichung-city-nantian-temple-east-district.webp",
     "country": "Taiwan",
     "city": "Taichung City",
-    "title": "Nantian Temple, Taichung Live Cam"
+    "title": "Nantian Temple, Taichung Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/nantian-temple-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/YTkbVQxACwI",
@@ -389,7 +437,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/xihu-township-cam-webcamtaxi/thumbnail/968x545/taiwan-changua-fude-rd-cam-xihu-township.webp",
     "country": "Taiwan",
     "city": "Changhua County",
-    "title": "Fude Road, Xihu Township Live Cam"
+    "title": "Fude Road, Xihu Township Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/xihu-township-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/9nDL003nzZ8",
@@ -397,7 +446,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/penghu-airport-cam-webcamtaxi/thumbnail/968x545/taiwan-penghu-airport.webp",
     "country": "Taiwan",
     "city": "Penghu County",
-    "title": "Penghu Airport, Taiwan Live Cam"
+    "title": "Penghu Airport, Taiwan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/penghu-airport-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/00_cG4RbXCU",
@@ -405,7 +455,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/back-cihu-park-webcamtaxi/thumbnail/968x545/taiwan-tayouan-back-chiu.webp",
     "country": "Taiwan",
     "city": "Taoyuan City",
-    "title": "Back Cihu Park, Taoyuan Live Cam"
+    "title": "Back Cihu Park, Taoyuan Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/back-cihu-park-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/-qghnv4Nc-k",
@@ -413,6 +464,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/neihu-zhouzi-street-cam-webcamtaxi/thumbnail/968x545/taiwan-taipei-city-zhouzi-street-neihu-district.webp",
     "country": "Taiwan",
     "city": "Taipei",
-    "title": "Zhouzi Street, Neihu Live Cam"
+    "title": "Zhouzi Street, Neihu Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/neihu-zhouzi-street-cam-webcamtaxi/thumbnail"
   }
 ]

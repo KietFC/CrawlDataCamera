@@ -1,33 +1,33 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Cấu hình cho Webcam Data Crawler
+Configuration for Webcam Data Crawler
 """
 
-# Cấu hình chung
+ # General configuration
 CRAWLER_CONFIG = {
-    'request_delay': 2,  # Delay giữa các request (giây)
-    'timeout': 30,       # Timeout cho requests (giây)
-    'max_retries': 3,    # Số lần retry tối đa
-    'headless': True,    # Chạy browser ở chế độ headless
-    'screenshot': True,  # Có chụp screenshot hay không
+    'request_delay': 2,  # Delay between requests (seconds)
+    'timeout': 30,       # Timeout for requests (seconds)
+    'max_retries': 3,    # Maximum number of retries
+    'headless': True,    # Run browser in headless mode
+    'screenshot': True,  # Take screenshot or not
 }
 
-# Cấu hình output
+ # Output configuration
 OUTPUT_CONFIG = {
     'default_format': 'json',  # json, csv, excel
     'encoding': 'utf-8',
     'indent': 2,
 }
 
-# Cấu hình logging
+ # Logging configuration
 LOGGING_CONFIG = {
     'level': 'INFO',
     'format': '%(asctime)s - %(levelname)s - %(message)s',
     'file': 'crawler.log',
 }
 
-# User Agents để rotate
+ # User Agents for rotation
 USER_AGENTS = [
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
@@ -36,7 +36,7 @@ USER_AGENTS = [
     'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:89.0) Gecko/20100101 Firefox/89.0',
 ]
 
-# Headers mặc định
+ # Default headers
 DEFAULT_HEADERS = {
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     'Accept-Language': 'vi-VN,vi;q=0.9,en;q=0.8',
@@ -46,7 +46,7 @@ DEFAULT_HEADERS = {
     'Cache-Control': 'max-age=0',
 }
 
-# Cấu hình Selenium
+ # Selenium configuration
 SELENIUM_CONFIG = {
     'window_size': '1920,1080',
     'no_sandbox': True,
@@ -56,7 +56,7 @@ SELENIUM_CONFIG = {
     'disable_plugins': True,
 }
 
-# Cấu hình data extraction
+ # Data extraction configuration
 EXTRACTION_CONFIG = {
     'title_selectors': ['title', 'h1', '.title', '.page-title', '.main-title', '.heading', '.header-title'],
     'description_selectors': [

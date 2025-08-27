@@ -1,0 +1,58 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/estonia/kuressaare-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/rFRpusdUQ4I",
+    "contentUrl": "https://www.youtube.com/watch?v=rFRpusdUQ4I",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/kuressaare-cam-webcamtaxi/thumbnail/968x545/estonia-saare-county-saaremaa-island-kuressaare.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/kuressaare-cam-webcamtaxi/thumbnail",
+    "country": "Estonia",
+    "city": "Saare County",
+    "title": "Kuressaare, Saaremaa Live Cam",
+    "coordinates": {
+      "lat": "58.25269397400288",
+      "lng": "22.48211371352869"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/estonia/tallinn-airport/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/m7w4IeisrpA",
+    "contentUrl": "https://www.youtube.com/watch?v=m7w4IeisrpA",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tallinn-airport-webcamtaxi/thumbnail/968x545/estonia-tallin-airport.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tallinn-airport-webcamtaxi/thumbnail",
+    "country": "Estonia",
+    "city": "Harju County",
+    "title": "Tallinn Airport Cam Live Cam",
+    "coordinates": {
+      "lat": "59.42128698169104",
+      "lng": "24.80089831640888"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/estonia/tallinn-city-centre/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/VhVgZi2lGv0",
+    "contentUrl": "https://www.youtube.com/watch?v=VhVgZi2lGv0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/tallinn-city-centre-webcamtaxi/thumbnail/968x545/estonia-tallinn-city-centre.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/tallinn-city-centre-webcamtaxi/thumbnail",
+    "country": "Estonia",
+    "city": "Harju County",
+    "title": "City Centre, Tallinn Live Cam",
+    "coordinates": {
+      "lat": "59.436510709465786",
+      "lng": "24.752690316452394"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/estonia/black-stork-nest-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/4-v_C_lCdU0",
+    "contentUrl": "https://www.youtube.com/watch?v=4-v_C_lCdU0",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/black-stork-nest-cam-webcamtaxi/thumbnail/968x545/estonia-parnu-black-stork-nest.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/black-stork-nest-cam-webcamtaxi/thumbnail",
+    "country": "Estonia",
+    "city": "Pärnu",
+    "title": "Black Stork Nest, Pärnu Live Cam",
+    "coordinates": {
+      "lat": "58.37906519012788",
+      "lng": "24.44521284652756"
+    }
+  }
+]

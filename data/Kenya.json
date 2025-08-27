@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/masai-mara-cam-webcamtaxi/thumbnail/968x545/kenya-narok-county-masai-mara.webp",
     "country": "Kenya",
     "city": "Narok County",
-    "title": "Masai Mara, Kenya Live Cam"
+    "title": "Masai Mara, Kenya Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/masai-mara-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/XsOU8JnEpNM",
@@ -13,7 +14,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/ol-donyo-lodge-cam-webcamtaxi/thumbnail/968x545/kenya-kajiado-county-ol-donyo-lodge.webp",
     "country": "Kenya",
     "city": "Kajiado County",
-    "title": "Ol Donyo Lodge, Kenya Live Cam"
+    "title": "Ol Donyo Lodge, Kenya Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/ol-donyo-lodge-cam-webcamtaxi/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/QkWGGhtTA4k",
@@ -21,7 +23,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/african-cam/thumbnail/968x545/hqdefault.webp",
     "country": "Kenya",
     "city": "Kenya",
-    "title": "African Safari, Mpala Research Centre Live Cam"
+    "title": "African Safari, Mpala Research Centre Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/african-cam/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/O8xVFhgEv6Q",
@@ -29,7 +32,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/mpala-lookout/thumbnail/968x545/hqdefault.webp",
     "country": "Kenya",
     "city": "Kenya",
-    "title": "African animal lookout Live Cam"
+    "title": "African animal lookout Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/mpala-lookout/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/KyQAB-TKOVA",
@@ -37,7 +41,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/mpala-watering/thumbnail/968x545/hqdefault.webp",
     "country": "Kenya",
     "city": "Kenya",
-    "title": "African Watering Hole, Mpala Research Centre Live Cam"
+    "title": "African Watering Hole, Mpala Research Centre Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/mpala-watering/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/2swy9gysvOY",
@@ -45,6 +50,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/african-river-webcamtaxi/thumbnail/968x545/hqdefault.webp",
     "country": "Kenya",
     "city": "Laikipia",
-    "title": "African River, Mpala Research Centre Live Cam"
+    "title": "African River, Mpala Research Centre Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/african-river-webcamtaxi/thumbnail"
   }
 ]

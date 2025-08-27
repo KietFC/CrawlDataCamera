@@ -5,7 +5,8 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7457-live-traffics-ciq-jb-malaysia-uastreaming/thumbnail/968x545/7457_1692167192_vruhgjwqybwutctjozdybgjrjixjmghkvfxhjwyj.webp",
     "country": "Malaysia",
     "city": "Johor Bahru",
-    "title": "Johor Bahru Checkpoint Live Cam"
+    "title": "Johor Bahru Checkpoint Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7457-live-traffics-ciq-jb-malaysia-uastreaming/thumbnail"
   },
   {
     "embedUrl": "https://www.youtube-nocookie.com/embed/gKgkELQGuZQ",
@@ -13,6 +14,7 @@
     "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/7455-ioi-business-park-jalan-puchong-uastreaming/thumbnail/968x545/7455_1692165426_wnrjlgauicxxcrrvfeejlqoyxhuezaapxexmwsgh.webp",
     "country": "Malaysia",
     "city": "Puchong",
-    "title": "IOI Business Park, Jalan Puchong Live Cam"
+    "title": "IOI Business Park, Jalan Puchong Live Cam",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/7455-ioi-business-park-jalan-puchong-uastreaming/thumbnail"
   }
 ]

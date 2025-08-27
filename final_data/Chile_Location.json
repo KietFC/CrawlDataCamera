@@ -1,0 +1,86 @@
+[
+  {
+    "url": "https://webcamera24.com/camera/chile/concepcion-centre-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/RhdmP5017VM",
+    "contentUrl": "https://www.youtube.com/watch?v=RhdmP5017VM",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/concepcion-centre-cam-webcamtaxi/thumbnail/968x545/chile-biobio-region-concepcion-centre.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/concepcion-centre-cam-webcamtaxi/thumbnail",
+    "country": "Chile",
+    "city": "Biobío",
+    "title": "Concepción Centre, Chile Live Cam",
+    "coordinates": {
+      "lat": "-36.8214444",
+      "lng": "-73.0468333"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/chile/vina-del-mar-renaca-beach-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/R9HG-3829gw",
+    "contentUrl": "https://www.youtube.com/watch?v=R9HG-3829gw",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/vina-del-mar-renaca-beach-cam-webcamtaxi/thumbnail/968x545/chile-valparaiso-renaca-vina-mar.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/vina-del-mar-renaca-beach-cam-webcamtaxi/thumbnail",
+    "country": "Chile",
+    "city": "Valparaíso Region",
+    "title": "Reñaca Beach, Viña del Mar Live Cam",
+    "coordinates": {
+      "lat": "-32.9595085488857",
+      "lng": "-71.55298524690609"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/chile/vinadelmar-playa-acapulco-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/HOkFYAZdK8w",
+    "contentUrl": "https://www.youtube.com/watch?v=HOkFYAZdK8w",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/vinadelmar-playa-acapulco-cam-webcamtaxi/thumbnail/968x545/chile-vale-paraiso-playa-acapulco.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/vinadelmar-playa-acapulco-cam-webcamtaxi/thumbnail",
+    "country": "Chile",
+    "city": "Valparaíso Region",
+    "title": "Playa Acapulco, Viña del Mar Live Cam",
+    "coordinates": {
+      "lat": "-33.01486448267704",
+      "lng": "-71.55922768378952"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/chile/plaza-baquedano-square/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/lBct7YTyMU4",
+    "contentUrl": "https://www.youtube.com/watch?v=lBct7YTyMU4",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/plaza-baquedano-square-webcamtaxi/thumbnail/968x545/chile-santiago-plaza-baquedano.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/plaza-baquedano-square-webcamtaxi/thumbnail",
+    "country": "Chile",
+    "city": "Santiago",
+    "title": "Plaza Baquedano, Santiago Live Cam",
+    "coordinates": {
+      "lat": "-33.43710660412194",
+      "lng": "-70.63769404802278"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/chile/seaport-city-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/2op3_aYG6ho",
+    "contentUrl": "https://www.youtube.com/watch?v=2op3_aYG6ho",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/seaport-city-cam-webcamtaxi/thumbnail/968x545/chile-valparaiso-city.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/seaport-city-cam-webcamtaxi/thumbnail",
+    "country": "Chile",
+    "city": "Valparaíso Region",
+    "title": "Valparaíso, city view Live Cam",
+    "coordinates": {
+      "lat": "-33.04487048419945",
+      "lng": "-71.60286668378895"
+    }
+  },
+  {
+    "url": "https://webcamera24.com/camera/chile/avenida-chile-cam/",
+    "embedUrl": "https://www.youtube-nocookie.com/embed/0pjFuk15b94",
+    "contentUrl": "https://www.youtube.com/watch?v=0pjFuk15b94",
+    "thumbnailUrl": "https://cdn.webcamera24.com/static/image/camera/detail/avenida-chile-cam-webcamtaxi/thumbnail/968x545/chile-valparaiso-region-avenida-chile.webp",
+    "key_mapping_data": "https://cdn.webcamera24.com/static/image/camera/detail/avenida-chile-cam-webcamtaxi/thumbnail",
+    "country": "Chile",
+    "city": "Valparaíso Region",
+    "title": "Avenida Chile, Llolleo Live Cam",
+    "coordinates": {
+      "lat": "-33.6124444",
+      "lng": "-71.6087778"
+    }
+  }
+]
